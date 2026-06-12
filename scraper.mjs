@@ -34,27 +34,34 @@ const log = (msg) => { console.log(msg); summary.push(msg); };
 
 // ---------- 1. Read sources.txt ----------
 function parseSources(text) {
-  const sources = { instagram: [], websites: [] };
+  const sources = { instagram: [], aggregators: [], websites: [], webAggregators: [] };
   let section = null;
   for (const rawLine of text.split("\n")) {
     const line = rawLine.trim();
     if (!line || line.startsWith("#") || /^-+$/.test(line)) continue;
+    if (/^INSTAGRAM AGGREGATORS/i.test(line)) { section = "aggregators"; continue; }
     if (/^INSTAGRAM/i.test(line)) { section = "instagram"; continue; }
+    if (/^WEBSITE AGGREGATORS/i.test(line)) { section = "webAggregators"; continue; }
     if (/^WEBSITES/i.test(line)) { section = "websites"; continue; }
     if (/^FACEBOOK/i.test(line)) { section = null; continue; }
     const match = line.match(/https?:\/\/[^\s\)\]]+/);
     if (match && section) {
       // strip tracking junk like ?hl=en from Instagram links
       let url = match[0];
-      if (section === "instagram") url = url.split("?")[0];
+      if (section === "instagram" || section === "aggregators") url = url.split("?")[0];
       sources[section].push(url);
     }
   }
   return sources;
 }
 
+// e.g. https://www.instagram.com/weekendculturesg/ -> "weekendculturesg"
+function handleFromUrl(url) {
+  return url.replace(/\/+$/, "").split("/").pop().toLowerCase();
+}
+
 // ---------- 2. Instagram via Apify ----------
-async function scrapeInstagram(urls) {
+async function scrapeInstagram(urls, aggregatorHandles) {
   if (!APIFY_TOKEN) { log("Instagram: skipped (no APIFY_TOKEN secret set)."); return []; }
 
   // Only run Instagram every N days to stay inside Apify free credits
@@ -102,21 +109,32 @@ async function scrapeInstagram(urls) {
   const items = await itemsRes.json();
   const posts = (Array.isArray(items) ? items : [])
     .filter((p) => p.caption)
-    .map((p) => ({
-      account: p.ownerUsername || "unknown",
-      caption: String(p.caption).slice(0, 1500),
-      url: p.url || "",
-      posted: p.timestamp || "",
-    }));
+    .map((p) => {
+      const account = p.ownerUsername || "unknown";
+      return {
+        account,
+        isAggregator: aggregatorHandles.has(account.toLowerCase()),
+        caption: String(p.caption).slice(0, 1500),
+        url: p.url || "",
+        posted: p.timestamp || "",
+      };
+    });
   log(`Instagram: got ${posts.length} posts from Apify.`);
   return posts;
 }
 
 // ---------- 3. Websites via plain fetch ----------
-function htmlToText(html) {
+function htmlToText(html, baseUrl) {
   return html
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    // keep links: <a href="/x">Jazz Night</a> becomes "Jazz Night (https://site.com/x)"
+    .replace(/<a\s[^>]*href=["']([^"'#][^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi, (_, href, inner) => {
+      const text = inner.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+      let abs = href;
+      try { abs = new URL(href, baseUrl).href; } catch { /* keep as-is */ }
+      return text ? ` ${text} (${abs}) ` : " ";
+    })
     .replace(/<[^>]+>/g, " ")
     .replace(/&nbsp;|&amp;|&quot;|&#\d+;|&[a-z]+;/gi, " ")
     .replace(/\s+/g, " ")
@@ -131,7 +149,7 @@ async function fetchSite(url) {
       signal: AbortSignal.timeout(30000),
     });
     if (!res.ok) return { url, text: "", note: `HTTP ${res.status}` };
-    const text = htmlToText(await res.text()).slice(0, MAX_SITE_CHARS);
+    const text = htmlToText(await res.text(), url).slice(0, MAX_SITE_CHARS);
     return { url, text, note: text.length < 300 ? "very little text (site may need JavaScript)" : "ok" };
   } catch (e) {
     return { url, text: "", note: `failed (${e.name})` };
@@ -143,7 +161,8 @@ async function claudeExtract(label, content) {
   const system = `Today is ${TODAY} (Singapore). You extract upcoming public events in Singapore from scraped text.
 Return ONLY a JSON array, no other text, no markdown fences. Each item:
 {"title": string, "date": "YYYY-MM-DD" or null, "time": string or null, "venue": string or null, "url": string or null, "description": string (max 160 chars), "source": string}
-Rules: skip events that already happened before ${TODAY}; skip giveaways, product promos, hiring posts and anything that is not an attendable event; resolve relative dates like "this Saturday" using today's date; if no events are found return [].`;
+Rules: skip events that already happened before ${TODAY}; skip giveaways, product promos, hiring posts and anything that is not an attendable event; resolve relative dates like "this Saturday" using today's date; if no events are found return [].
+Attribution rule: some content is marked AGGREGATOR. Aggregators collate events organised by others. For events found in aggregator content, identify the ORIGINAL organiser (an @mention, a named organiser or venue, or a link next to the event). Set "source" to the original organiser's name or handle, and "url" to the organiser's or event's own page (their Instagram profile, their website, or the event's direct ticketing/listing link). Never use the aggregator account, the aggregator website, or any of its pages as the source or url. If the original organiser cannot be identified, set source and url to null.`;
 
   try {
     const res = await fetch("https://api.anthropic.com/v1/messages", {
@@ -183,24 +202,34 @@ function dedupeKey(ev) {
 
 async function main() {
   const sources = parseSources(fs.readFileSync("sources.txt", "utf8"));
-  log(`Sources: ${sources.instagram.length} Instagram accounts, ${sources.websites.length} websites.`);
+  const igUrls = [...sources.instagram, ...sources.aggregators];
+  const aggregatorHandles = new Set(sources.aggregators.map(handleFromUrl));
+  log(`Sources: ${igUrls.length} Instagram accounts (${sources.aggregators.length} aggregators), ${sources.websites.length + sources.webAggregators.length} websites (${sources.webAggregators.length} aggregators).`);
 
   const newEvents = [];
 
   // Instagram
-  const posts = await scrapeInstagram(sources.instagram);
+  const posts = await scrapeInstagram(igUrls, aggregatorHandles);
   for (let i = 0; i < posts.length; i += 15) {
     const chunk = posts.slice(i, i + 15);
     const content = chunk
-      .map((p) => `[@${p.account}] (${p.url})\n${p.caption}`)
+      .map((p) =>
+        p.isAggregator
+          ? `[@${p.account} — AGGREGATOR: credit the original organiser, never this account]\n${p.caption}`
+          : `[@${p.account}] (${p.url})\n${p.caption}`
+      )
       .join("\n\n---\n\n");
     const events = await claudeExtract("Instagram posts", content);
-    for (const ev of events) newEvents.push({ ...ev, source: ev.source || "instagram" });
+    for (const ev of events) newEvents.push(ev);
   }
 
-  // Websites
+  // Websites (regular + aggregators)
   let okCount = 0, emptyCount = 0;
-  for (const url of sources.websites) {
+  const allSites = [
+    ...sources.websites.map((url) => ({ url, isAggregator: false })),
+    ...sources.webAggregators.map((url) => ({ url, isAggregator: true })),
+  ];
+  for (const { url, isAggregator } of allSites) {
     const site = await fetchSite(url);
     if (!site.text) {
       emptyCount++;
@@ -208,8 +237,14 @@ async function main() {
       continue;
     }
     okCount++;
-    const events = await claudeExtract(url, site.text);
-    for (const ev of events) newEvents.push({ ...ev, source: ev.source || url });
+    const label = isAggregator
+      ? `${url} — AGGREGATOR WEBSITE: credit the original organiser of each event, never this website`
+      : url;
+    const events = await claudeExtract(label, site.text);
+    for (const ev of events) {
+      // for regular sites, fall back to the site itself as source; for aggregators, never
+      newEvents.push(isAggregator ? ev : { ...ev, source: ev.source || url });
+    }
     if (site.note !== "ok") log(`  NOTE   ${url}  (${site.note})`);
   }
   log(`Websites: ${okCount} fetched, ${emptyCount} returned nothing.`);
