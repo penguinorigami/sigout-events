@@ -1,0 +1,36 @@
+name: Daily event scrape
+
+on:
+  schedule:
+    - cron: "30 22 * * *"   # 22:30 UTC = 06:30 Singapore time, every day
+  workflow_dispatch: {}      # adds a manual "Run workflow" button
+
+permissions:
+  contents: write            # the only thing this robot may do: save events.json back to this repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Get the repo files
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run the scraper
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scraper.mjs
+
+      - name: Save updated events.json
+        run: |
+          git config user.name "sigout-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add events.json
+          git diff --cached --quiet || git commit -m "Daily events update"
+          git push
