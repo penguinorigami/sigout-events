@@ -1,0 +1,63 @@
+# SIGOUT — EVENT SOURCES
+# =======================
+# One link per line. Lines starting with # are ignored.
+# Keep the INSTAGRAM and WEBSITES headers — the scraper uses them
+# to decide which method to use for each link.
+# Edit this file any time: open it on github.com, tap the pencil
+# icon, make your change, then tap "Commit changes".
+
+INSTAGRAM
+---------
+https://www.instagram.com/trace_lifedrawing/
+https://www.instagram.com/strangerconvos/
+https://www.instagram.com/leadyouelsewhere/
+https://www.instagram.com/quietreadersclub/
+https://www.instagram.com/artbeyond.asia/
+https://www.instagram.com/rainbowfictioneers/
+https://www.instagram.com/the.living.room.sg/
+https://www.instagram.com/casualpoetlibrary/
+https://www.instagram.com/sgartschannel/
+https://www.instagram.com/collectivemindsasia/
+https://www.instagram.com/arterlyobsessed/
+https://www.instagram.com/auntiemakeflower/
+https://www.instagram.com/chaosbyknn/
+https://www.instagram.com/thebreakfastclub.rave/
+https://www.instagram.com/patissierefebs/
+https://www.instagram.com/wasuka.art/
+https://www.instagram.com/f__zine/
+https://www.instagram.com/boutiquefairssg/
+https://www.instagram.com/hobbiesfair.sg/
+https://www.instagram.com/commontouchcraft/
+https://www.instagram.com/asia.artcraftfair/
+https://www.instagram.com/agas.sg/
+https://www.instagram.com/deeniseglitz/
+https://www.instagram.com/weekendculturesg/
+https://www.instagram.com/asassyflorist/
+
+WEBSITES
+--------
+https://weekendculture.sg/
+https://secretsingapore.co/
+https://www.timeout.com/singapore
+https://www.nationalgallery.sg/sg/en/whats-on.html
+https://thehoneycombers.com/singapore/singapore-event-calendar/
+https://citysprouts.com.sg/collections/upcoming-events
+https://makersmarket.sg/
+https://www.nowherebaths.com/events
+https://www.meetup.com/silent-book-club-singapore/
+https://www.meetup.com/we-read-together/
+https://www.nparks.gov.sg/visit/events
+https://www.esplanade.com/whats-on
+https://ohopenhouse.org/
+https://artagain.co/pages/events
+https://agas.org.sg/events/
+https://www.nhb.gov.sg/acm/whats-on/overview
+https://www.eventbrite.sg/o/17543892573
+https://journeyeast.com/blogs/events
+https://www.overjoyed.xyz/events
+https://www.hotlotz.com/auctions/auction-calendar
+https://www.stpi.com.sg/whats-on
+https://www.eventbrite.com/o/69196074483
+
+# FACEBOOK (not supported yet — needs login, parked for a later version)
+# https://www.facebook.com/groups/sketchingsundays/
