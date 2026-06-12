@@ -10,7 +10,6 @@ INSTAGRAM
 ---------
 https://www.instagram.com/trace_lifedrawing/
 https://www.instagram.com/strangerconvos/
-https://www.instagram.com/leadyouelsewhere/
 https://www.instagram.com/quietreadersclub/
 https://www.instagram.com/artbeyond.asia/
 https://www.instagram.com/rainbowfictioneers/
@@ -24,23 +23,26 @@ https://www.instagram.com/chaosbyknn/
 https://www.instagram.com/thebreakfastclub.rave/
 https://www.instagram.com/patissierefebs/
 https://www.instagram.com/wasuka.art/
-https://www.instagram.com/f__zine/
 https://www.instagram.com/boutiquefairssg/
 https://www.instagram.com/hobbiesfair.sg/
 https://www.instagram.com/commontouchcraft/
 https://www.instagram.com/asia.artcraftfair/
 https://www.instagram.com/agas.sg/
 https://www.instagram.com/deeniseglitz/
-https://www.instagram.com/weekendculturesg/
 https://www.instagram.com/asassyflorist/
+
+INSTAGRAM AGGREGATORS
+---------------------
+# Accounts that collate events from other organisers.
+# Events found here are credited to the ORIGINAL organiser,
+# never to these accounts.
+https://www.instagram.com/weekendculturesg/
+https://www.instagram.com/leadyouelsewhere/
+https://www.instagram.com/f__zine/
 
 WEBSITES
 --------
-https://weekendculture.sg/
-https://secretsingapore.co/
-https://www.timeout.com/singapore
 https://www.nationalgallery.sg/sg/en/whats-on.html
-https://thehoneycombers.com/singapore/singapore-event-calendar/
 https://citysprouts.com.sg/collections/upcoming-events
 https://makersmarket.sg/
 https://www.nowherebaths.com/events
@@ -58,6 +60,16 @@ https://www.overjoyed.xyz/events
 https://www.hotlotz.com/auctions/auction-calendar
 https://www.stpi.com.sg/whats-on
 https://www.eventbrite.com/o/69196074483
+
+WEBSITE AGGREGATORS
+-------------------
+# Sites that collate events from other organisers.
+# Events found here are credited to the ORIGINAL organiser,
+# never to these sites.
+https://weekendculture.sg/
+https://secretsingapore.co/
+https://www.timeout.com/singapore
+https://thehoneycombers.com/singapore/singapore-event-calendar/
 
 # FACEBOOK (not supported yet — needs login, parked for a later version)
 # https://www.facebook.com/groups/sketchingsundays/
