@@ -27,10 +27,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scraper.mjs
 
-      - name: Save updated events.json
+      - name: Save updated event files
         run: |
           git config user.name "sigout-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add events.json
+          git config user.email "sigout-bot@users.noreply.github.com"
+          git add events.json pending.json rejected.json
           git diff --cached --quiet || git commit -m "Daily events update"
           git push
