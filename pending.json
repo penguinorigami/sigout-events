@@ -1,5 +1,325 @@
 {
-  "lastUpdated": "2026-06-13T04:55:34.487Z",
-  "count": 0,
-  "events": []
+  "lastUpdated": "2026-06-13T23:41:22.833Z",
+  "count": 29,
+  "events": [
+    {
+      "title": "Makers Market - Katong (Indoor) Create, Connect Showcase",
+      "date": "2026-06-14",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-juneedition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongindoorcreateconnectshowcase|2026-06-14",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Portals - Fantasy Exhibition with Cosplay Discount",
+      "date": "2026-06-14",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Eight-zone fantasy exhibition with 10,000+ hand-painted miniatures. Get 20% off walk-in entry with cosplay costume.",
+      "source": null,
+      "key": "portalsfantasyexhibitionwithcosplaydiscount|2026-06-14",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Sunday Mess",
+      "date": "2026-06-14",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Event by 5210pm",
+      "source": null,
+      "key": "sundaymess|2026-06-14",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Great Green Run 2026",
+      "date": "2026-06-14",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Green run event",
+      "source": null,
+      "key": "greatgreenrun2026|2026-06-14",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Dhoby Ghaut: The Weekday Edit",
+      "date": "2026-06-15",
+      "time": "11:00 AM - 4:00 PM",
+      "venue": "Dhoby Ghaut MRT, outside Staytion Lifestyle Centre",
+      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-may-june",
+      "description": "Curated artisanal experience with locally-crafted goods at Dhoby Ghaut",
+      "source": "INVADE",
+      "key": "makersmarketdhobyghauttheweekdayedit|2026-06-15",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Beat Monday Blues Evening Reading @ NBCB (Orchard Central) - Lvl 4",
+      "date": "2026-06-15",
+      "time": "7:00 PM",
+      "venue": "NBCB Orchard Central, 181 Orchard Rd, #04-23 Central, Orchard, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/314588948/",
+      "description": "Community reading group meetup. Bring a book, buy a drink, read together and share.",
+      "source": "We Read Together",
+      "key": "beatmondayblueseveningreadingnbcborchardcentrallvl4|2026-06-15",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "A SINGLE OWNER COLLECTION OF ANTIQUE MAPS, PRINTS ASSOCIATED WORKS",
+      "date": "2026-06-16",
+      "time": null,
+      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore",
+      "url": "https://www.hotlotz.com/auctions/auction-calendar",
+      "description": "Single owner collection of antique maps, prints and associated works",
+      "source": "Hotlotz",
+      "key": "asingleownercollectionofantiquemapsprintsassociatedworks|2026-06-16",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Still Experimental Pop-in: Pacto by Parchmen (Lavender)",
+      "date": "2026-06-17",
+      "time": "11:30 AM",
+      "venue": "Pacto by Parchmen (Lavender), 69 Jellicoe Rd, #01-05, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315069364/",
+      "description": "Reading group meetup to check out venue and try menu. Bring a book and quiet read if time permits.",
+      "source": "We Read Together",
+      "key": "stillexperimentalpopinpactobyparchmenlavender|2026-06-17",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-19",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-19",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-20",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-20",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-21",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-21",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-26",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-26",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-27",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-27",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-28",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-28",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Soak Sound - Crystal Bowl Sound Healing",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "venue": "NOWHERE Bathhouse, 14A Dempsey Road, Singapore 249669",
+      "url": "https://nowherebaths.as.me/sound",
+      "description": "Immersive sound meditation with crystal bowl sound healing. Includes complimentary sparkling body scrub.",
+      "source": "NOWHERE Bathhouse",
+      "key": "soaksoundcrystalbowlsoundhealing|2026-07-11",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "COINS BANKNOTES - SEPTEMBER",
+      "date": "2026-08-25",
+      "time": null,
+      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore",
+      "url": "https://www.hotlotz.com/auctions/auction-calendar",
+      "description": "Coins and banknotes auction",
+      "source": "Hotlotz",
+      "key": "coinsbanknotesseptember|2026-08-25",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Aa Furniture year-end Festive Market",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "venue": "Aa Furniture",
+      "url": "https://www.instagram.com/p/DRI0FErk7wb/?next=%2F",
+      "description": "Art market featuring artworks from 4 private collections, priced $650-$7,000, including historical pieces",
+      "source": "Art Again",
+      "key": "aafurnitureyearendfestivemarket|2026-11-29",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "He Xiangning: Ink Intent | 何香凝：画就丹青凭寄意",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/He-Xiangning-Ink-Intent.html",
+      "description": "Exhibition featuring works by He Xiangning exploring ink painting and artistic intent",
+      "source": "National Gallery Singapore",
+      "key": "hexiangninginkintent|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "When Art Meets Nature",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/When-Art-Meets-Nature.html",
+      "description": "Exhibition exploring the intersection of art and nature",
+      "source": "National Gallery Singapore",
+      "key": "whenartmeetsnature|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Fear No Power: Women Imagining Otherwise",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Fear-no-power.html",
+      "description": "Exhibition featuring women artists imagining alternative perspectives",
+      "source": "National Gallery Singapore",
+      "key": "fearnopowerwomenimaginingotherwise|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Passion is Volcanic: Desire in Southeast Asian Art (R18)",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Passion-is-Volcanic-Desire-in-Southeast-Asian-Art.html",
+      "description": "Exhibition exploring desire in Southeast Asian art (R18 rated)",
+      "source": "National Gallery Singapore",
+      "key": "passionisvolcanicdesireinsoutheastasianartr18|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Temple by Tuan Andrew Nguyen",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Temple-by-Tuan-Andrew-Nguyen-.html",
+      "description": "Exhibition featuring work by artist Tuan Andrew Nguyen",
+      "source": "National Gallery Singapore",
+      "key": "templebytuanandrewnguyen|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "GalleryToddlers!",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/workshops/gallery-toddlers.html",
+      "description": "Workshop programme for toddlers at the gallery",
+      "source": "National Gallery Singapore",
+      "key": "gallerytoddlers|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Art Alive!: National Language Class",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/workshops/art-alive.html",
+      "description": "Art workshop incorporating national language instruction",
+      "source": "National Gallery Singapore",
+      "key": "artalivenationallanguageclass|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Messy Morning for the Little Ones",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/workshops/Messy-Morning-for-the-Little-Ones.html",
+      "description": "Creative workshop for young children at the gallery",
+      "source": "National Gallery Singapore",
+      "key": "messymorningforthelittleones|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Under Our Skin: Conversations on Gender, Identity, and Body",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/talks/Under-Our-Skin-Conversations-on-Gender-Identity-and-Body.html",
+      "description": "Talk series exploring conversations on gender, identity and body",
+      "source": "National Gallery Singapore",
+      "key": "underourskinconversationsongenderidentityandbody|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Van Gogh Inside at GROUNDSEESAW",
+      "date": null,
+      "time": null,
+      "venue": "GROUNDSEESAW SINGAPORE",
+      "url": null,
+      "description": "Immersive Van Gogh exhibition. Experienced by 670k+ visitors, reopened at GROUNDSEESAW.",
+      "source": null,
+      "key": "vangoghinsideatgroundseesaw|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Disney Garden of Wonder",
+      "date": null,
+      "time": null,
+      "venue": "Gardens By The Bay",
+      "url": null,
+      "description": "Disney floral showcase with interactive Frozen zone, Winnie The Pooh, and local laksa twist.",
+      "source": null,
+      "key": "disneygardenofwonder|",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Plush Flower Market",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Southeast Asia's first Plush Flower Market - 5 days only, free entry.",
+      "source": null,
+      "key": "plushflowermarket|",
+      "firstSeen": "2026-06-14"
+    }
+  ]
 }
