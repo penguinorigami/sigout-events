@@ -249,39 +249,69 @@ async function main() {
   }
   log(`Websites: ${okCount} fetched, ${emptyCount} returned nothing.`);
 
-  // Load existing events and merge
-  let existing = [];
-  try { existing = JSON.parse(fs.readFileSync("events.json", "utf8")).events || []; } catch { /* first run */ }
+  // ----- Curation flow: three files -----
+  // pending.json  = newly scraped, waiting for Jane's review (site never shows these)
+  // events.json   = approved events, what sigout displays (Jane's edits always win)
+  // rejected.json = keys of events Jane said no to (never resurface)
 
-  const merged = new Map();
-  for (const ev of existing) merged.set(dedupeKey(ev), ev);
+  const readJson = (path, fallback) => {
+    try { return JSON.parse(fs.readFileSync(path, "utf8")); } catch { return fallback; }
+  };
+  const approved = readJson("events.json", { events: [] }).events || [];
+  const pending = readJson("pending.json", { events: [] }).events || [];
+  const rejectedKeys = new Set(readJson("rejected.json", { keys: [] }).keys || []);
+
+  const eventKey = (ev) => ev.key || dedupeKey(ev);
+
+  // Every key the robot has already seen a decision (or non-decision) on
+  const knownKeys = new Set([
+    ...approved.map(eventKey),
+    ...pending.map(eventKey),
+    ...rejectedKeys,
+  ]);
+
+  // Only genuinely new events go to pending
+  let addedCount = 0;
   for (const ev of newEvents) {
     if (!ev.title) continue;
     const key = dedupeKey(ev);
-    merged.set(key, { ...merged.get(key), ...ev, firstSeen: merged.get(key)?.firstSeen || TODAY });
+    if (knownKeys.has(key)) continue;
+    knownKeys.add(key);
+    pending.push({ ...ev, key, firstSeen: TODAY });
+    addedCount++;
   }
 
-  // Drop past events, and undated events that have lingered too long
+  // Housekeeping: drop past events everywhere, and stale undated pending events
   const cutoffUndated = new Date(sgNow - KEEP_UNDATED_DAYS * 86400000).toISOString().slice(0, 10);
-  const finalEvents = [...merged.values()].filter((ev) => {
-    if (ev.date) return ev.date >= TODAY;
-    return (ev.firstSeen || TODAY) >= cutoffUndated;
-  });
+  const notPast = (ev) => !ev.date || ev.date >= TODAY;
+  const freshPending = pending.filter((ev) =>
+    ev.date ? ev.date >= TODAY : (ev.firstSeen || TODAY) >= cutoffUndated
+  );
+  const liveApproved = approved.filter(notPast);
 
   // Sort: dated events first (soonest first), undated last
-  finalEvents.sort((a, b) => {
+  const byDate = (a, b) => {
     if (a.date && b.date) return a.date.localeCompare(b.date);
     if (a.date) return -1;
     if (b.date) return 1;
     return 0;
-  });
+  };
+  freshPending.sort(byDate);
+  liveApproved.sort(byDate);
 
   fs.writeFileSync(
-    "events.json",
-    JSON.stringify({ lastUpdated: new Date().toISOString(), totalEvents: finalEvents.length, events: finalEvents }, null, 2)
+    "pending.json",
+    JSON.stringify({ lastUpdated: new Date().toISOString(), count: freshPending.length, events: freshPending }, null, 2)
   );
+  fs.writeFileSync(
+    "events.json",
+    JSON.stringify({ lastUpdated: new Date().toISOString(), totalEvents: liveApproved.length, events: liveApproved }, null, 2)
+  );
+  if (!fs.existsSync("rejected.json")) {
+    fs.writeFileSync("rejected.json", JSON.stringify({ keys: [] }, null, 2));
+  }
 
-  log(`Done. ${newEvents.length} events found this run, ${finalEvents.length} total upcoming events saved.`);
+  log(`Done. ${newEvents.length} events found this run, ${addedCount} new ones added for review. Now: ${freshPending.length} pending, ${liveApproved.length} live on sigout.`);
 }
 
 main().catch((e) => { console.error("Run failed:", e); process.exit(1); });
