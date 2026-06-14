@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-13T05:20:36.620Z",
-  "totalEvents": 28,
+  "lastUpdated": "2026-06-14T10:16:46.205Z",
+  "totalEvents": 43,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -185,6 +185,50 @@
       "key": "strangersounds|2026-06-13"
     },
     {
+      "title": "Beat Monday Blues Evening Reading @ NBCB (Orchard Central) - Lvl 4",
+      "date": "2026-06-15",
+      "time": "7:00 PM",
+      "venue": "NBCB Orchard Central, 181 Orchard Rd, #04-23 Central, Orchard, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/314588948/",
+      "description": "Community reading group meetup. Bring a book, buy a drink, read together and share.",
+      "source": "We Read Together",
+      "key": "beatmondayblueseveningreadingnbcborchardcentrallvl4|2026-06-15",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Dhoby Ghaut: The Weekday Edit",
+      "date": "2026-06-15",
+      "time": "11:00 AM - 4:00 PM",
+      "venue": "Dhoby Ghaut MRT, outside Staytion Lifestyle Centre",
+      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-may-june",
+      "description": "Curated artisanal experience with locally-crafted goods at Dhoby Ghaut",
+      "source": "INVADE",
+      "key": "makersmarketdhobyghauttheweekdayedit|2026-06-15",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "A SINGLE OWNER COLLECTION OF ANTIQUE MAPS, PRINTS ASSOCIATED WORKS",
+      "date": "2026-06-16",
+      "time": null,
+      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore",
+      "url": "https://www.hotlotz.com/auctions/auction-calendar",
+      "description": "Single owner collection of antique maps, prints and associated works",
+      "source": "Hotlotz",
+      "key": "asingleownercollectionofantiquemapsprintsassociatedworks|2026-06-16",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Still Experimental Pop-in: Pacto by Parchmen (Lavender)",
+      "date": "2026-06-17",
+      "time": "11:30 AM",
+      "venue": "Pacto by Parchmen (Lavender), 69 Jellicoe Rd, #01-05, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315069364/",
+      "description": "Reading group meetup to check out venue and try menu. Bring a book and quiet read if time permits.",
+      "source": "We Read Together",
+      "key": "stillexperimentalpopinpactobyparchmenlavender|2026-06-17",
+      "firstSeen": "2026-06-14"
+    },
+    {
       "title": "An Odd Flower: Life Drawing with Anna Du Toit",
       "category": "event",
       "date": "2026-06-18",
@@ -196,6 +240,17 @@
       "source": null,
       "firstSeen": "2026-06-13",
       "key": "anoddflowerlifedrawingwithannadutoit|2026-06-18"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-19",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-19",
+      "firstSeen": "2026-06-14"
     },
     {
       "title": "Embodied Frequencies: Opening the Channel",
@@ -263,6 +318,28 @@
       "key": "silentbookclubjun2026|2026-06-20"
     },
     {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-20",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-20",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-21",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-21",
+      "firstSeen": "2026-06-14"
+    },
+    {
       "title": "da:ns focus: Ballet by the Bay",
       "category": "festival",
       "date": "2026-06-24",
@@ -274,6 +351,17 @@
       "source": null,
       "firstSeen": "2026-06-13",
       "key": "dansfocusballetbythebay|2026-06-24"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-26",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-26",
+      "firstSeen": "2026-06-14"
     },
     {
       "title": "The Hammock Market",
@@ -300,6 +388,28 @@
       "source": null,
       "firstSeen": "2026-06-13",
       "key": "hobbiesfair2026|2026-06-27"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-27",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-27",
+      "firstSeen": "2026-06-14"
+    },
+    {
+      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
+      "date": "2026-06-28",
+      "time": "12:00 PM - 8:00 PM",
+      "venue": "i12 Katong",
+      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
+      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
+      "source": "INVADE",
+      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-28",
+      "firstSeen": "2026-06-14"
     },
     {
       "title": "Me-You Market",
@@ -341,6 +451,17 @@
       "key": "soaksound|2026-07-11"
     },
     {
+      "title": "Soak Sound - Crystal Bowl Sound Healing",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "venue": "NOWHERE Bathhouse, 14A Dempsey Road, Singapore 249669",
+      "url": "https://nowherebaths.as.me/sound",
+      "description": "Immersive sound meditation with crystal bowl sound healing. Includes complimentary sparkling body scrub.",
+      "source": "NOWHERE Bathhouse",
+      "key": "soaksoundcrystalbowlsoundhealing|2026-07-11",
+      "firstSeen": "2026-06-14"
+    },
+    {
       "title": "LOEWE Foundation Craft Prize 2026",
       "category": "exhibition",
       "date": null,
@@ -365,6 +486,58 @@
       "source": null,
       "firstSeen": "2026-06-13",
       "key": "passionisvolcanicdesireinsoutheastasianartr18|"
+    },
+    {
+      "title": "Passion is Volcanic: Desire in Southeast Asian Art (R18)",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Passion-is-Volcanic-Desire-in-Southeast-Asian-Art.html",
+      "description": "Exhibition exploring desire in Southeast Asian art (R18 rated)",
+      "source": "National Gallery Singapore",
+      "key": "passionisvolcanicdesireinsoutheastasianartr18|",
+      "firstSeen": "2026-06-14",
+      "category": "festival",
+      "endDate": "2026-08-30"
+    },
+    {
+      "title": "Fear No Power: Women Imagining Otherwise",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Fear-no-power.html",
+      "description": "Exhibition featuring women artists imagining alternative perspectives",
+      "source": "National Gallery Singapore",
+      "key": "fearnopowerwomenimaginingotherwise|",
+      "firstSeen": "2026-06-14",
+      "category": "festival",
+      "endDate": "2026-11-15"
+    },
+    {
+      "title": "When Art Meets Nature",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/When-Art-Meets-Nature.html",
+      "description": "Exhibition exploring the intersection of art and nature",
+      "source": "National Gallery Singapore",
+      "key": "whenartmeetsnature|",
+      "firstSeen": "2026-06-14",
+      "category": "festival",
+      "endDate": "2026-11-01"
+    },
+    {
+      "title": "He Xiangning: Ink Intent | 何香凝：画就丹青凭寄意",
+      "date": null,
+      "time": null,
+      "venue": "National Gallery Singapore",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/He-Xiangning-Ink-Intent.html",
+      "description": "Exhibition featuring works by He Xiangning exploring ink painting and artistic intent",
+      "source": "National Gallery Singapore",
+      "key": "hexiangninginkintent|",
+      "firstSeen": "2026-06-14",
+      "category": "festival",
+      "endDate": "2026-08-23"
     }
   ]
 }
