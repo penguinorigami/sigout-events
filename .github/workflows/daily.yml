@@ -2,7 +2,7 @@ name: Daily event scrape
 
 on:
   schedule:
-    - cron: "30 22 * * *"   # 22:30 UTC = 06:30 Singapore time, every day
+    - cron: "30 22 * * 1,5"   # 22:30 UTC = 06:30 Singapore Mon & Fri
   workflow_dispatch: {}      # adds a manual "Run workflow" button
 
 permissions:
