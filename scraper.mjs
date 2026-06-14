@@ -9,7 +9,7 @@
 import fs from "node:fs";
 
 // ====================== SETTINGS ======================
-const IG_EVERY_N_DAYS = 2;        // Instagram runs every N days (websites run daily). Keeps Apify inside its free $5/month.
+const IG_EVERY_N_DAYS = 1;        // Instagram runs on every scheduled run (now Mon & Fri).
 const MAX_POSTS_PER_ACCOUNT = 5;  // How many recent posts to pull per Instagram account.
 const MAX_SITE_CHARS = 8000;      // How much text to read from each website (keeps Claude costs tiny).
 const CLAUDE_MODEL = "claude-haiku-4-5"; // Cheapest capable model for extraction.
