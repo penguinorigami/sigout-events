@@ -160,7 +160,9 @@ async function fetchSite(url) {
 async function claudeExtract(label, content) {
   const system = `Today is ${TODAY} (Singapore). You extract upcoming public events in Singapore from scraped text.
 Return ONLY a JSON array, no other text, no markdown fences. Each item:
-{"title": string, "date": "YYYY-MM-DD" or null, "time": string or null, "venue": string or null, "url": string or null, "description": string (max 160 chars), "source": string}
+{"title": string, "category": one of ["festival","exhibition","music","workshop","market","theatre","event"], "date": "YYYY-MM-DD" or null, "endDate": "YYYY-MM-DD" or null, "time": string or null, "venue": string or null, "url": string or null, "description": string (max 160 chars), "source": string}
+Category guide: festival = multi-day or large-scale celebrations; exhibition = gallery/museum shows on view over a period; music = gigs, raves, DJ sets, concerts; workshop = hands-on classes you sign up for (craft, flowers, sound baths); market = fairs, flea/pop-up/vintage/craft markets; theatre = staged plays and dance; event = anything else attendable (talks, book clubs, meetups, gatherings). Pick the single best fit; use "event" only when none of the others clearly apply.
+Use "date" for the start day and "endDate" for the last day of multi-day events; set endDate to null for single-day events.
 Rules: skip events that already happened before ${TODAY}; skip giveaways, product promos, hiring posts and anything that is not an attendable event; resolve relative dates like "this Saturday" using today's date; if no events are found return [].
 Attribution rule: some content is marked AGGREGATOR. Aggregators collate events organised by others. For events found in aggregator content, identify the ORIGINAL organiser (an @mention, a named organiser or venue, or a link next to the event). Set "source" to the original organiser's name or handle, and "url" to the organiser's or event's own page (their Instagram profile, their website, or the event's direct ticketing/listing link). Never use the aggregator account, the aggregator website, or any of its pages as the source or url. If the original organiser cannot be identified, set source and url to null.`;
 
@@ -281,11 +283,13 @@ async function main() {
     addedCount++;
   }
 
-  // Housekeeping: drop past events everywhere, and stale undated pending events
+  // Housekeeping: drop past events everywhere, and stale undated pending events.
+  // An event counts as past only once its LAST day (endDate, else date) is before today.
   const cutoffUndated = new Date(sgNow - KEEP_UNDATED_DAYS * 86400000).toISOString().slice(0, 10);
-  const notPast = (ev) => !ev.date || ev.date >= TODAY;
+  const lastDay = (ev) => ev.endDate || ev.date;
+  const notPast = (ev) => !lastDay(ev) || lastDay(ev) >= TODAY;
   const freshPending = pending.filter((ev) =>
-    ev.date ? ev.date >= TODAY : (ev.firstSeen || TODAY) >= cutoffUndated
+    lastDay(ev) ? lastDay(ev) >= TODAY : (ev.firstSeen || TODAY) >= cutoffUndated
   );
   const liveApproved = approved.filter(notPast);
 
