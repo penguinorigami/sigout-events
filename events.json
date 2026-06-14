@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-14T10:37:18.389Z",
-  "totalEvents": 42,
+  "lastUpdated": "2026-06-14T10:40:41.385Z",
+  "totalEvents": 40,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -48,9 +48,9 @@
       "endDate": "2026-06-28",
       "time": null,
       "venue": "Bayfront Event Space",
-      "url": "https://leadyouelsewhere.com/7-best-things-to-do-in-singapore-june-2026/",
+      "url": "https://gastrobeats.com.sg/",
       "description": "SG's biggest food and music festival returns for its 5th edition with 40+ vendors and daily live acts; free entry.",
-      "source": null,
+      "source": "Gastrobeats",
       "firstSeen": "2026-06-13",
       "key": "gastrobeats2026|2026-06-05"
     },
@@ -74,9 +74,9 @@
       "endDate": "2026-06-21",
       "time": null,
       "venue": "Katong Square, 88 East Coast Rd",
-      "url": "https://leadyouelsewhere.com/pop-up-markets-in-singapore/",
+      "url": "https://www.instagram.com/theretrofactorysg/",
       "description": "Vintage vinyl, toys, watches, comics and trinkets; first and third weekends monthly, free.",
-      "source": null,
+      "source": "Retro Factory",
       "firstSeen": "2026-06-13",
       "key": "theretrofactoryvintagefleamarket|2026-06-06"
     },
@@ -102,7 +102,7 @@
       "venue": "Various cafes (Bugis, Holland Village and more)",
       "url": "https://www.meetup.com/we-read-together/events/",
       "description": "Casual bring-your-own-book reading meetups several times a week at rotating cafes; buy a drink and read together.",
-      "source": null,
+      "source": "We Read Together",
       "firstSeen": "2026-06-13",
       "key": "wereadtogetherreadingmeetups|2026-06-11"
     },
@@ -115,7 +115,7 @@
       "venue": "195 Pearl's Hill Terrace #01-06",
       "url": "https://www.instagram.com/arterlyobsessed/p/DYb7qi3jU_z/",
       "description": "4.5h wax-resist batik workshop with pioneering artist Sujak Rahman; all levels, materials provided. $150.",
-      "source": null,
+      "source": "Arterly Obsessed",
       "firstSeen": "2026-06-13",
       "key": "batikworkshopwithsujakrahman|2026-06-13"
     },
@@ -128,22 +128,9 @@
       "venue": "Casual Poet Library, 123 Bukit Merah Lane 1 #01-110",
       "url": "https://www.instagram.com/lifeshardloveharder/p/DYw8jFryVZG/",
       "description": "Life's Hard Love Harder book discussion of Rutger Bregman's Humankind; 11am to 1pm.",
-      "source": null,
+      "source": "Life's Hard Love Harder",
       "firstSeen": "2026-06-13",
       "key": "bookdiscussionhumankindbyrutgerbregman|2026-06-13"
-    },
-    {
-      "title": "The Modern Man's Book Club",
-      "category": "event",
-      "date": "2026-06-13",
-      "endDate": null,
-      "time": null,
-      "venue": "Casual Poet Library, 123 Bukit Merah Lane 1 #01-110",
-      "url": "https://www.instagram.com/modernmansbookclub/p/DY4q-SMgWuf/",
-      "description": "Afternoon book club session, 3 to 5pm; all welcome, sign up via link in bio.",
-      "source": null,
-      "firstSeen": "2026-06-13",
-      "key": "themodernmansbookclub|2026-06-13"
     },
     {
       "title": "Lion City Faire",
@@ -154,22 +141,9 @@
       "venue": "Fort Gate, Fort Canning Park",
       "url": "https://leadyouelsewhere.com/7-best-things-to-do-in-singapore-june-2026/",
       "description": "Homegrown Renaissance faire with merchant stalls, LARP, workshops and cosplay; from $22.",
-      "source": null,
+      "source": "Lion City Faire",
       "firstSeen": "2026-06-13",
       "key": "lioncityfaire|2026-06-13"
-    },
-    {
-      "title": "Garden Vibes 2026",
-      "category": "festival",
-      "date": "2026-06-13",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://www.instagram.com/gardenvibessg/",
-      "description": "Outdoor music and lifestyle event; see listing for venue and details.",
-      "source": null,
-      "firstSeen": "2026-06-13",
-      "key": "gardenvibes2026|2026-06-13"
     },
     {
       "title": "Stranger Sounds",
@@ -180,7 +154,7 @@
       "venue": null,
       "url": "https://www.instagram.com/strangerconvos/p/DZCdoPCETw6/",
       "description": "Low-pressure songwriting session, no experience required; 5.30 to 8pm, sign-up via @strangersounds.sg.",
-      "source": null,
+      "source": "Stranger Convos",
       "firstSeen": "2026-06-13",
       "key": "strangersounds|2026-06-13"
     },
@@ -237,7 +211,7 @@
       "venue": "TBC (sent on registration)",
       "url": "https://www.instagram.com/trace_lifedrawing/p/DY4URUAGXJo/",
       "description": "Guided 2.5h life-drawing with performance-artist models and handmade fermented tasters; 18+. $55/$65.",
-      "source": null,
+      "source": "Trace Life Drawing",
       "firstSeen": "2026-06-13",
       "key": "anoddflowerlifedrawingwithannadutoit|2026-06-18"
     },
@@ -261,7 +235,7 @@
       "venue": "Online",
       "url": "https://www.instagram.com/the.living.room.sg/reel/DY6vB7HTI_F/",
       "description": "Online intro to channeling and light language with Malvina; 10:30am to 12:30pm. SG$55.",
-      "source": null,
+      "source": "Living Room",
       "firstSeen": "2026-06-13",
       "key": "embodiedfrequenciesopeningthechannel|2026-06-20"
     },
@@ -287,7 +261,7 @@
       "venue": "Wheeler's Estate, Seletar",
       "url": "https://www.eventbrite.sg/e/wheelers-live-mid-year-party-tickets-1990147092527",
       "description": "All-day block party with a curated lifestyle market, indie bands, free-flow drinks and yoga.",
-      "source": null,
+      "source": "Wheeler's Yard",
       "firstSeen": "2026-06-13",
       "key": "wheelersmidyearmarket|2026-06-20"
     },
@@ -300,7 +274,7 @@
       "venue": "Stranger Conversations, 195 Pearl's Hill Terrace",
       "url": "https://www.instagram.com/strangerconvos/p/DZDPSvJksN0/",
       "description": "Stoic mortality-reflection workshop with Life Cards, Repose and an optional casket simulation; $80.",
-      "source": null,
+      "source": "Stranger Conversations",
       "firstSeen": "2026-06-13",
       "key": "mementomori|2026-06-20"
     },
@@ -313,7 +287,7 @@
       "venue": "Chai Tea, 16 Collyer Quay #02-08",
       "url": "https://www.meetup.com/silent-book-club-singapore/events/",
       "description": "Bring your own book and read in companionable silence; 2pm, capped at 25, order food or drinks at venue.",
-      "source": null,
+      "source": "Silent Book Club",
       "firstSeen": "2026-06-13",
       "key": "silentbookclubjun2026|2026-06-20"
     },
