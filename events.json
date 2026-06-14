@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T10:46:22.497Z",
+  "lastUpdated": "2026-06-14T10:48:50.131Z",
   "totalEvents": 40,
   "events": [
     {
@@ -167,7 +167,9 @@
       "description": "Community reading group meetup. Bring a book, buy a drink, read together and share.",
       "source": "We Read Together",
       "key": "beatmondayblueseveningreadingnbcborchardcentrallvl4|2026-06-15",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "event",
+      "endDate": null
     },
     {
       "title": "Makers Market - Dhoby Ghaut: The Weekday Edit",
@@ -178,7 +180,9 @@
       "description": "Curated artisanal experience with locally-crafted goods at Dhoby Ghaut",
       "source": "INVADE",
       "key": "makersmarketdhobyghauttheweekdayedit|2026-06-15",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "A SINGLE OWNER COLLECTION OF ANTIQUE MAPS, PRINTS ASSOCIATED WORKS",
@@ -189,7 +193,9 @@
       "description": "Single owner collection of antique maps, prints and associated works",
       "source": "Hotlotz",
       "key": "asingleownercollectionofantiquemapsprintsassociatedworks|2026-06-16",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "event",
+      "endDate": null
     },
     {
       "title": "Still Experimental Pop-in: Pacto by Parchmen (Lavender)",
@@ -200,7 +206,9 @@
       "description": "Reading group meetup to check out venue and try menu. Bring a book and quiet read if time permits.",
       "source": "We Read Together",
       "key": "stillexperimentalpopinpactobyparchmenlavender|2026-06-17",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "event",
+      "endDate": null
     },
     {
       "title": "An Odd Flower: Life Drawing with Anna Du Toit",
@@ -224,7 +232,9 @@
       "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
       "source": "INVADE",
       "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-19",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "Embodied Frequencies: Opening the Channel",
@@ -267,7 +277,7 @@
     },
     {
       "title": "Memento Mori",
-      "category": "workshop",
+      "category": "event",
       "date": "2026-06-20",
       "endDate": null,
       "time": null,
@@ -300,7 +310,9 @@
       "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
       "source": "INVADE",
       "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-20",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
@@ -311,7 +323,9 @@
       "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
       "source": "INVADE",
       "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-21",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "da:ns focus: Ballet by the Bay",
@@ -335,7 +349,9 @@
       "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
       "source": "INVADE",
       "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-26",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "The Hammock Market",
@@ -372,7 +388,9 @@
       "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
       "source": "INVADE",
       "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-27",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
@@ -383,7 +401,9 @@
       "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
       "source": "INVADE",
       "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-28",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "market",
+      "endDate": null
     },
     {
       "title": "Me-You Market",
@@ -433,7 +453,9 @@
       "description": "Immersive sound meditation with crystal bowl sound healing. Includes complimentary sparkling body scrub.",
       "source": "NOWHERE Bathhouse",
       "key": "soaksoundcrystalbowlsoundhealing|2026-07-11",
-      "firstSeen": "2026-06-14"
+      "firstSeen": "2026-06-14",
+      "category": "event",
+      "endDate": null
     },
     {
       "title": "LOEWE Foundation Craft Prize 2026",
@@ -458,7 +480,7 @@
       "source": "National Gallery Singapore",
       "key": "passionisvolcanicdesireinsoutheastasianartr18|",
       "firstSeen": "2026-06-14",
-      "category": "festival",
+      "category": "exhibition",
       "endDate": "2026-08-30"
     },
     {
@@ -471,7 +493,7 @@
       "source": "National Gallery Singapore",
       "key": "fearnopowerwomenimaginingotherwise|",
       "firstSeen": "2026-06-14",
-      "category": "festival",
+      "category": "exhibition",
       "endDate": "2026-11-15"
     },
     {
@@ -484,7 +506,7 @@
       "source": "National Gallery Singapore",
       "key": "whenartmeetsnature|",
       "firstSeen": "2026-06-14",
-      "category": "festival",
+      "category": "exhibition",
       "endDate": "2026-11-01"
     },
     {
@@ -497,7 +519,7 @@
       "source": "National Gallery Singapore",
       "key": "hexiangninginkintent|",
       "firstSeen": "2026-06-14",
-      "category": "festival",
+      "category": "exhibition",
       "endDate": "2026-08-23"
     }
   ]
