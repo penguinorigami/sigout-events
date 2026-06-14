@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T10:40:41.385Z",
+  "lastUpdated": "2026-06-14T10:46:22.497Z",
   "totalEvents": 40,
   "events": [
     {
@@ -322,7 +322,7 @@
       "venue": "Esplanade Theatres on the Bay",
       "url": "https://www.esplanade.com",
       "description": "The Royal Ballet returns after 21 years with a gala, outdoor shows and interactive ballet events.",
-      "source": null,
+      "source": "da:ns",
       "firstSeen": "2026-06-13",
       "key": "dansfocusballetbythebay|2026-06-24"
     },
@@ -346,7 +346,7 @@
       "venue": "Aperia Mall",
       "url": "https://www.instagram.com/thehammockmarket",
       "description": "Handmade & handpicked — thrift stores, local brands, creatives & curated closets under one roof. Free entry.",
-      "source": null,
+      "source": "The Hammock Market",
       "firstSeen": "2026-06-13",
       "key": "thehammockmarket|2026-06-27"
     },
@@ -359,7 +359,7 @@
       "venue": "Suntec Convention Centre, Halls 401 & 402",
       "url": "https://www.instagram.com/hobbiesfair.sg/reel/DXtnG5-AWyj/",
       "description": "Hobbies and lifestyle fair with vendors across crafts and collectibles.",
-      "source": null,
+      "source": "Hobbies Fair",
       "firstSeen": "2026-06-13",
       "key": "hobbiesfair2026|2026-06-27"
     },
@@ -394,7 +394,7 @@
       "venue": "The Hive, 36 Carpenter Street L6",
       "url": "https://www.instagram.com/meyoumarketsg",
       "description": "Curated market bringing together regional fashion, accessories, artisan goods and food; free.",
-      "source": null,
+      "source": "Me-You Market",
       "firstSeen": "2026-06-13",
       "key": "meyoumarket|2026-07-04"
     },
@@ -407,7 +407,7 @@
       "venue": "Suntec Singapore",
       "url": "https://www.instagram.com/asia.artcraftfair/p/DY-BpP0lLbg/",
       "description": "Handmade craft and art fair with 500+ creators spanning ceramics, textiles and more.",
-      "source": null,
+      "source": "Art and Craft Fair",
       "firstSeen": "2026-06-13",
       "key": "asiaartandcraftfair2026|2026-07-11"
     },
@@ -417,10 +417,10 @@
       "date": "2026-07-11",
       "endDate": null,
       "time": null,
-      "venue": "NOWHERE, 14A Dempsey Road",
+      "venue": "Nowhere Baths, 14A Dempsey Road",
       "url": "https://www.nowherebaths.com/events",
       "description": "Crystal-bowl sound meditation with Yoshie; 60 min, includes a take-home body scrub. $55.",
-      "source": null,
+      "source": "Nowhere Baths",
       "firstSeen": "2026-06-13",
       "key": "soaksound|2026-07-11"
     },
@@ -444,7 +444,7 @@
       "venue": "National Gallery Singapore",
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "description": "30 shortlisted artists explore innovation, material and tradition in contemporary craft.",
-      "source": null,
+      "source": "National Gallery Singapore",
       "firstSeen": "2026-06-13",
       "key": "loewefoundationcraftprize2026|"
     },
