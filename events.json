@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-14T11:26:05.973Z",
-  "totalEvents": 40,
+  "lastUpdated": "2026-06-16T00:13:36.108Z",
+  "totalEvents": 32,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -81,19 +81,6 @@
       "key": "theretrofactoryvintagefleamarket|2026-06-06"
     },
     {
-      "title": "IMBA Flower Market",
-      "category": "exhibition",
-      "date": "2026-06-10",
-      "endDate": "2026-06-14",
-      "time": null,
-      "venue": "IMBA Theatre, Gardens by the Bay",
-      "url": "https://leadyouelsewhere.com/7-best-things-to-do-in-singapore-june-2026/",
-      "description": "CJ Hendry fills a room with plush flowers; every visitor takes one home free, with local blooms.",
-      "source": null,
-      "firstSeen": "2026-06-13",
-      "key": "imbaflowermarket|2026-06-10"
-    },
-    {
       "title": "We Read Together Reading Meetups",
       "category": "event",
       "date": "2026-06-11",
@@ -105,84 +92,6 @@
       "source": "We Read Together",
       "firstSeen": "2026-06-13",
       "key": "wereadtogetherreadingmeetups|2026-06-11"
-    },
-    {
-      "title": "Batik Workshop with Sujak Rahman",
-      "category": "workshop",
-      "date": "2026-06-13",
-      "endDate": null,
-      "time": null,
-      "venue": "195 Pearl's Hill Terrace #01-06",
-      "url": "https://www.instagram.com/arterlyobsessed/p/DYb7qi3jU_z/",
-      "description": "4.5h wax-resist batik workshop with pioneering artist Sujak Rahman; all levels, materials provided. $150.",
-      "source": "Arterly Obsessed",
-      "firstSeen": "2026-06-13",
-      "key": "batikworkshopwithsujakrahman|2026-06-13"
-    },
-    {
-      "title": "Book Discussion: Humankind by Rutger Bregman",
-      "category": "event",
-      "date": "2026-06-13",
-      "endDate": null,
-      "time": null,
-      "venue": "Casual Poet Library, 123 Bukit Merah Lane 1 #01-110",
-      "url": "https://www.instagram.com/lifeshardloveharder/p/DYw8jFryVZG/",
-      "description": "Life's Hard Love Harder book discussion of Rutger Bregman's Humankind; 11am to 1pm.",
-      "source": "Life's Hard Love Harder",
-      "firstSeen": "2026-06-13",
-      "key": "bookdiscussionhumankindbyrutgerbregman|2026-06-13"
-    },
-    {
-      "title": "Lion City Faire",
-      "category": "festival",
-      "date": "2026-06-13",
-      "endDate": "2026-06-14",
-      "time": null,
-      "venue": "Fort Gate, Fort Canning Park",
-      "url": "https://leadyouelsewhere.com/7-best-things-to-do-in-singapore-june-2026/",
-      "description": "Homegrown Renaissance faire with merchant stalls, LARP, workshops and cosplay; from $22.",
-      "source": "Lion City Faire",
-      "firstSeen": "2026-06-13",
-      "key": "lioncityfaire|2026-06-13"
-    },
-    {
-      "title": "Stranger Sounds",
-      "category": "music",
-      "date": "2026-06-13",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://www.instagram.com/strangerconvos/p/DZCdoPCETw6/",
-      "description": "Low-pressure songwriting session, no experience required; 5.30 to 8pm, sign-up via @strangersounds.sg.",
-      "source": "Stranger Convos",
-      "firstSeen": "2026-06-13",
-      "key": "strangersounds|2026-06-13"
-    },
-    {
-      "title": "Beat Monday Blues Evening Reading @ NBCB (Orchard Central) - Lvl 4",
-      "date": "2026-06-15",
-      "time": "7:00 PM",
-      "venue": "NBCB Orchard Central, 181 Orchard Rd, #04-23 Central, Orchard, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/314588948/",
-      "description": "Community reading group meetup. Bring a book, buy a drink, read together and share.",
-      "source": "We Read Together",
-      "key": "beatmondayblueseveningreadingnbcborchardcentrallvl4|2026-06-15",
-      "firstSeen": "2026-06-14",
-      "category": "event",
-      "endDate": null
-    },
-    {
-      "title": "Makers Market - Dhoby Ghaut: The Weekday Edit",
-      "date": "2026-06-15",
-      "time": "11:00 AM - 4:00 PM",
-      "venue": "Dhoby Ghaut MRT, outside Staytion Lifestyle Centre",
-      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-may-june",
-      "description": "Curated artisanal experience with locally-crafted goods at Dhoby Ghaut",
-      "source": "INVADE",
-      "key": "makersmarketdhobyghauttheweekdayedit|2026-06-15",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
     },
     {
       "title": "A SINGLE OWNER COLLECTION OF ANTIQUE MAPS, PRINTS ASSOCIATED WORKS",
@@ -456,19 +365,6 @@
       "firstSeen": "2026-06-14",
       "category": "event",
       "endDate": null
-    },
-    {
-      "title": "LOEWE Foundation Craft Prize 2026",
-      "category": "exhibition",
-      "date": null,
-      "endDate": "2026-06-14",
-      "time": null,
-      "venue": "National Gallery Singapore",
-      "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
-      "description": "30 shortlisted artists explore innovation, material and tradition in contemporary craft.",
-      "source": "National Gallery Singapore",
-      "firstSeen": "2026-06-13",
-      "key": "loewefoundationcraftprize2026|"
     },
     {
       "title": "Passion is Volcanic: Desire in Southeast Asian Art (R18)",
