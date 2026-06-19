@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T00:13:36.108Z",
-  "totalEvents": 32,
+  "lastUpdated": "2026-06-19T23:38:23.570Z",
+  "totalEvents": 28,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -92,58 +92,6 @@
       "source": "We Read Together",
       "firstSeen": "2026-06-13",
       "key": "wereadtogetherreadingmeetups|2026-06-11"
-    },
-    {
-      "title": "A SINGLE OWNER COLLECTION OF ANTIQUE MAPS, PRINTS ASSOCIATED WORKS",
-      "date": "2026-06-16",
-      "time": null,
-      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore",
-      "url": "https://www.hotlotz.com/auctions/auction-calendar",
-      "description": "Single owner collection of antique maps, prints and associated works",
-      "source": "Hotlotz",
-      "key": "asingleownercollectionofantiquemapsprintsassociatedworks|2026-06-16",
-      "firstSeen": "2026-06-14",
-      "category": "event",
-      "endDate": null
-    },
-    {
-      "title": "Still Experimental Pop-in: Pacto by Parchmen (Lavender)",
-      "date": "2026-06-17",
-      "time": "11:30 AM",
-      "venue": "Pacto by Parchmen (Lavender), 69 Jellicoe Rd, #01-05, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315069364/",
-      "description": "Reading group meetup to check out venue and try menu. Bring a book and quiet read if time permits.",
-      "source": "We Read Together",
-      "key": "stillexperimentalpopinpactobyparchmenlavender|2026-06-17",
-      "firstSeen": "2026-06-14",
-      "category": "event",
-      "endDate": null
-    },
-    {
-      "title": "An Odd Flower: Life Drawing with Anna Du Toit",
-      "category": "event",
-      "date": "2026-06-18",
-      "endDate": null,
-      "time": null,
-      "venue": "TBC (sent on registration)",
-      "url": "https://www.instagram.com/trace_lifedrawing/p/DY4URUAGXJo/",
-      "description": "Guided 2.5h life-drawing with performance-artist models and handmade fermented tasters; 18+. $55/$65.",
-      "source": "Trace Life Drawing",
-      "firstSeen": "2026-06-13",
-      "key": "anoddflowerlifedrawingwithannadutoit|2026-06-18"
-    },
-    {
-      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
-      "date": "2026-06-19",
-      "time": "12:00 PM - 8:00 PM",
-      "venue": "i12 Katong",
-      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
-      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
-      "source": "INVADE",
-      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-19",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
     },
     {
       "title": "Embodied Frequencies: Opening the Channel",
