@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T23:38:23.570Z",
-  "totalEvents": 28,
+  "lastUpdated": "2026-06-22T23:53:18.988Z",
+  "totalEvents": 20,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -68,19 +68,6 @@
       "key": "ilightsingapore2026|2026-06-05"
     },
     {
-      "title": "The Retro Factory Vintage Flea Market",
-      "category": "market",
-      "date": "2026-06-06",
-      "endDate": "2026-06-21",
-      "time": null,
-      "venue": "Katong Square, 88 East Coast Rd",
-      "url": "https://www.instagram.com/theretrofactorysg/",
-      "description": "Vintage vinyl, toys, watches, comics and trinkets; first and third weekends monthly, free.",
-      "source": "Retro Factory",
-      "firstSeen": "2026-06-13",
-      "key": "theretrofactoryvintagefleamarket|2026-06-06"
-    },
-    {
       "title": "We Read Together Reading Meetups",
       "category": "event",
       "date": "2026-06-11",
@@ -92,97 +79,6 @@
       "source": "We Read Together",
       "firstSeen": "2026-06-13",
       "key": "wereadtogetherreadingmeetups|2026-06-11"
-    },
-    {
-      "title": "Embodied Frequencies: Opening the Channel",
-      "category": "event",
-      "date": "2026-06-20",
-      "endDate": null,
-      "time": null,
-      "venue": "Online",
-      "url": "https://www.instagram.com/the.living.room.sg/reel/DY6vB7HTI_F/",
-      "description": "Online intro to channeling and light language with Malvina; 10:30am to 12:30pm. SG$55.",
-      "source": "Living Room",
-      "firstSeen": "2026-06-13",
-      "key": "embodiedfrequenciesopeningthechannel|2026-06-20"
-    },
-    {
-      "title": "CraftFest SG 2026",
-      "category": "market",
-      "date": "2026-06-20",
-      "endDate": "2026-06-21",
-      "time": null,
-      "venue": "Suntec Convention Centre, Halls 404 & 405",
-      "url": "https://www.instagram.com/commontouchcraft/reel/DX9MmniiqZ5/",
-      "description": "Craft fair with nearly 1000 artists across jewelry, ceramics, textiles and illustration; free, 11am to 7pm.",
-      "source": null,
-      "firstSeen": "2026-06-13",
-      "key": "craftfestsg2026|2026-06-20"
-    },
-    {
-      "title": "Wheeler's Mid-Year Market",
-      "category": "market",
-      "date": "2026-06-20",
-      "endDate": null,
-      "time": null,
-      "venue": "Wheeler's Estate, Seletar",
-      "url": "https://www.eventbrite.sg/e/wheelers-live-mid-year-party-tickets-1990147092527",
-      "description": "All-day block party with a curated lifestyle market, indie bands, free-flow drinks and yoga.",
-      "source": "Wheeler's Yard",
-      "firstSeen": "2026-06-13",
-      "key": "wheelersmidyearmarket|2026-06-20"
-    },
-    {
-      "title": "Memento Mori",
-      "category": "event",
-      "date": "2026-06-20",
-      "endDate": null,
-      "time": null,
-      "venue": "Stranger Conversations, 195 Pearl's Hill Terrace",
-      "url": "https://www.instagram.com/strangerconvos/p/DZDPSvJksN0/",
-      "description": "Stoic mortality-reflection workshop with Life Cards, Repose and an optional casket simulation; $80.",
-      "source": "Stranger Conversations",
-      "firstSeen": "2026-06-13",
-      "key": "mementomori|2026-06-20"
-    },
-    {
-      "title": "Silent Book Club Jun 2026",
-      "category": "event",
-      "date": "2026-06-20",
-      "endDate": null,
-      "time": null,
-      "venue": "Chai Tea, 16 Collyer Quay #02-08",
-      "url": "https://www.meetup.com/silent-book-club-singapore/events/",
-      "description": "Bring your own book and read in companionable silence; 2pm, capped at 25, order food or drinks at venue.",
-      "source": "Silent Book Club",
-      "firstSeen": "2026-06-13",
-      "key": "silentbookclubjun2026|2026-06-20"
-    },
-    {
-      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
-      "date": "2026-06-20",
-      "time": "12:00 PM - 8:00 PM",
-      "venue": "i12 Katong",
-      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
-      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
-      "source": "INVADE",
-      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-20",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
-    },
-    {
-      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
-      "date": "2026-06-21",
-      "time": "12:00 PM - 8:00 PM",
-      "venue": "i12 Katong",
-      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
-      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
-      "source": "INVADE",
-      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-21",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
     },
     {
       "title": "da:ns focus: Ballet by the Bay",
