@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T23:53:18.987Z",
-  "count": 94,
+  "lastUpdated": "2026-06-26T23:45:48.331Z",
+  "count": 115,
   "events": [
     {
       "title": "Open Writing Sessions",
@@ -14,6 +14,19 @@
       "source": "@rainbowfictioneers",
       "key": "openwritingsessions|2026-05-22",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "Lazy Days With Dog & Frog by Niall Breen",
+      "category": "exhibition",
+      "date": "2026-05-29",
+      "endDate": "2026-07-26",
+      "time": null,
+      "venue": "Heartware Store & Gallery",
+      "url": "https://www.instagram.com/p/DaCesuJSR60/",
+      "description": "Solo exhibition by Niall Breen featuring Lazy Days with Dog & Frog. A reminder to take things slow and do nothing.",
+      "source": "@sgartschannel",
+      "key": "lazydayswithdogfrogbyniallbreen|2026-05-29",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "Open Writing Sessions",
@@ -53,19 +66,6 @@
       "source": "STPI",
       "key": "stpiannualspecialexhibitionzarinadirectionstomyhouse|2026-06-06",
       "firstSeen": "2026-06-16"
-    },
-    {
-      "title": "ASIAN CERAMICS WORKS OF ART",
-      "category": "event",
-      "date": "2026-06-09",
-      "endDate": "2026-06-24",
-      "time": null,
-      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore 159362",
-      "url": "https://www.hotlotz.com/auctions/auction-calendar",
-      "description": "Auction of Asian ceramics and works of art",
-      "source": "Hotlotz",
-      "key": "asianceramicsworksofart|2026-06-09",
-      "firstSeen": "2026-06-23"
     },
     {
       "title": "Arty Afternoon | Timber Textures: Charcoal Rubbings",
@@ -146,19 +146,6 @@
       "firstSeen": "2026-06-16"
     },
     {
-      "title": "Cheers to Father's Day with Hibiki at CÉ LA VI",
-      "category": "event",
-      "date": "2026-06-17",
-      "endDate": "2026-06-24",
-      "time": null,
-      "venue": "CÉ LA VI",
-      "url": null,
-      "description": "Father's Day celebration with Hibiki whisky at CÉ LA VI restaurant.",
-      "source": null,
-      "key": "cheerstofathersdaywithhibikiatclavi|2026-06-17",
-      "firstSeen": "2026-06-16"
-    },
-    {
       "title": "STPI | Chine Collé Class",
       "category": "workshop",
       "date": "2026-06-17",
@@ -183,19 +170,6 @@
       "source": "STPI",
       "key": "chinecollcollectedrecollections|2026-06-17",
       "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "Cultivating Resilience in Youths: June Holiday Camp'26",
-      "category": "event",
-      "date": "2026-06-18",
-      "endDate": "2026-06-24",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Holiday camp for youth focused on building resilience.",
-      "source": null,
-      "key": "cultivatingresilienceinyouthsjuneholidaycamp26|2026-06-18",
-      "firstSeen": "2026-06-16"
     },
     {
       "title": "Open Writing Sessions",
@@ -328,95 +302,17 @@
       "firstSeen": "2026-06-23"
     },
     {
-      "title": "Tuesday Evening Reading @ Routine Korean Fusion Cafe Bar (Tanjong Pagar)",
-      "category": "event",
-      "date": "2026-06-23",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Routine Korean Cafe, 60 Duxton Rd, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/314653509/",
-      "description": "Book club reading session. Bring a book, buy a drink/bite, read together with community.",
-      "source": "We Read Together",
-      "key": "tuesdayeveningreadingroutinekoreanfusioncafebartanjongpagar|2026-06-23",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Tuesday Reading @ Clementi",
-      "category": "event",
-      "date": "2026-06-23",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Tsujiri @ Clementi Peaks, 464B Clementi Ave 1, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315182256/",
-      "description": "Book club reading session. Bring a book, buy a drink/bite, read together with community.",
-      "source": "We Read Together",
-      "key": "tuesdayreadingclementi|2026-06-23",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Makers' Market at Dhoby Ghaut",
-      "category": "market",
-      "date": "2026-06-24",
-      "endDate": "2026-06-26",
-      "time": "11AM - 4PM",
-      "venue": "Staytion Lifestyle Centre, Dhoby Ghaut MRT",
-      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-may-june",
-      "description": "Curated artisanal market experience in the heart of town with handmade crafts and lifestyle merchandise.",
-      "source": "INVADE",
-      "key": "makersmarketatdhobyghaut|2026-06-24",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "PARADE by Makers Market at PLQ Mall",
-      "category": "market",
-      "date": "2026-06-24",
-      "endDate": null,
-      "time": "11AM - 10PM",
-      "venue": "PLQ Mall",
-      "url": "https://invade.co/spaces/plq-mall-pushcarts-by-parade-apr-jun-2026",
-      "description": "Pushcart initiative showcasing unique crafts and artisanal lifestyle merchandise in retail spaces.",
-      "source": "INVADE",
-      "key": "paradebymakersmarketatplqmall|2026-06-24",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Wednesday Evening Reading @ De Taste, Orchard Central (Somerset)",
+      "title": "Disney Discovery Reef",
       "category": "event",
       "date": "2026-06-24",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "De Taste, 181 Orchard Rd, #02-24/25/25A, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315309280/",
-      "description": "Book club reading session. Bring a book, buy a drink/bite, read together with community.",
-      "source": "We Read Together",
-      "key": "wednesdayeveningreadingdetasteorchardcentralsomerset|2026-06-24",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Love in Every Drop: A Pride Night at Frasers House",
-      "category": "event",
-      "date": "2026-06-24",
-      "endDate": null,
-      "time": null,
-      "venue": "Frasers House",
+      "endDate": "2026-09-20",
+      "time": "9:00 AM - 6:30 PM (day), 7:00 PM - 10:00 PM (night ticketed)",
+      "venue": "Southernmost Point of Continental Asia, Sentosa",
       "url": null,
-      "description": "Pride night event",
+      "description": "Free daytime experience and ticketed night experience at Disney Discovery Reef on Sentosa.",
       "source": null,
-      "key": "loveineverydropapridenightatfrasershouse|2026-06-24",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Love in Every Drop",
-      "category": "music",
-      "date": "2026-06-24",
-      "endDate": null,
-      "time": null,
-      "venue": "Lobby Lounge",
-      "url": null,
-      "description": "Music and nightlife event",
-      "source": null,
-      "key": "loveineverydrop|2026-06-24",
-      "firstSeen": "2026-06-23"
+      "key": "disneydiscoveryreef|2026-06-24",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "INTERIORS COLLECTIBLES",
@@ -432,30 +328,17 @@
       "firstSeen": "2026-06-16"
     },
     {
-      "title": "(Ticketed) Sundays, on a Thursday",
+      "title": "Interiors & Collectibles - July",
       "category": "event",
       "date": "2026-06-25",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Joo Chiat, Singapore",
-      "url": "https://sundaybedding.com/products/still-hours-a-quiet-evening-with-sunday",
-      "description": "Tea, canapes and reading session with goodie bag. Use code WEREADTOGETHER20 for 20% off.",
-      "source": "Sunday Bedding",
-      "key": "ticketedsundaysonathursday|2026-06-25",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "The Glendronach Whisky Masterclass at Las Palmas",
-      "category": "workshop",
-      "date": "2026-06-25",
-      "endDate": null,
+      "endDate": "2026-07-12",
       "time": null,
-      "venue": "Las Palmas",
-      "url": null,
-      "description": "Whisky masterclass workshop",
-      "source": null,
-      "key": "theglendronachwhiskymasterclassatlaspalmas|2026-06-25",
-      "firstSeen": "2026-06-23"
+      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore 159362",
+      "url": "https://www.hotlotz.com/auctions/auction-calendar",
+      "description": "Interiors and collectibles auction",
+      "source": "Hotlotz",
+      "key": "interiorscollectiblesjuly|2026-06-25",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "Makers Market at i12 Katong (Outdoor)",
@@ -497,17 +380,43 @@
       "firstSeen": "2026-06-20"
     },
     {
-      "title": "Paws, Pool Pour",
-      "category": "workshop",
+      "title": "Singapore GP ALL ACCESS 2.0",
+      "category": "event",
       "date": "2026-06-26",
-      "endDate": null,
+      "endDate": "2026-07-26",
+      "time": "10:00 AM - 8:00 PM (Fri, Sat, Sun only)",
+      "venue": "F1 Pit Building, 1 Republic Boulevard",
+      "url": "https://singaporegp.sg",
+      "description": "Free interactive exhibition on how Singapore's streets transform into the Marina Bay Street Circuit. Pre-registration required.",
+      "source": "Singapore Grand Prix",
+      "key": "singaporegpallaccess20|2026-06-26",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Of Light and Matter",
+      "category": "exhibition",
+      "date": "2026-06-26",
+      "endDate": "2026-07-11",
       "time": null,
-      "venue": "Fort Canine Swimming Club",
+      "venue": "ART SEASONS",
+      "url": "https://agas.org.sg/events/of-light-and-matter/",
+      "description": "Explores relationship between light, materiality, and natural world through paintings, mixed-media works, and sculptures.",
+      "source": "ART SEASONS",
+      "key": "oflightandmatter|2026-06-26",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Raffles Heritage Sunset Tour 2026",
+      "category": "event",
+      "date": "2026-06-26",
+      "endDate": "2026-08-01",
+      "time": null,
+      "venue": "Raffles Hotel",
       "url": null,
-      "description": "Workshop event",
+      "description": "Heritage tour exploring Raffles Hotel's historic significance and architecture",
       "source": null,
-      "key": "pawspoolpour|2026-06-26",
-      "firstSeen": "2026-06-23"
+      "key": "rafflesheritagesunsettour2026|2026-06-26",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "Temasek Shophouse: Let's Explore the Neighbourhood",
@@ -614,6 +523,71 @@
       "firstSeen": "2026-06-23"
     },
     {
+      "title": "Hobbies Fair - Workshops",
+      "category": "market",
+      "date": "2026-06-27",
+      "endDate": "2026-06-28",
+      "time": "10:00 AM - 8:00 PM",
+      "venue": "Suntec Convention Centre Hall 401 - 402",
+      "url": "https://hobbiesfair.sg/workshops",
+      "description": "Hands-on workshops including keyboards, keycaps, terrariums, leathercraft, knitting, photography for beginners and enthusiasts.",
+      "source": "@hobbiesfair.sg",
+      "key": "hobbiesfairworkshops|2026-06-27",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Asia Cat Expo & Hobbies Fair",
+      "category": "market",
+      "date": "2026-06-27",
+      "endDate": "2026-06-28",
+      "time": "10:00 AM - 8:00 PM",
+      "venue": "Suntec Convention Centre Halls 401 - 406",
+      "url": "https://tickets.atomic.events",
+      "description": "Two-day event for cat lovers, collectors, creators, gamers, makers and hobbyists.",
+      "source": "@asiacatexpo",
+      "key": "asiacatexpohobbiesfair|2026-06-27",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Saturday Reading @ Da Paolo Gastronomia (Holland Village)",
+      "category": "event",
+      "date": "2026-06-27",
+      "endDate": null,
+      "time": "11:00 AM",
+      "venue": "Da Paolo Gastronomia - Holland Village, 118 Holland Ave, #01-06, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315378812/",
+      "description": "Small group reading session. Bring a book, buy a drink and bite, read together, share at the end.",
+      "source": "We Read Together",
+      "key": "saturdayreadingdapaologastronomiahollandvillage|2026-06-27",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "BookTalk: The Will of The Many @ one-north",
+      "category": "event",
+      "date": "2026-06-27",
+      "endDate": null,
+      "time": "2:00 PM",
+      "venue": "Jimmy Monkey Cafe, 9 one-north gateway #01-51, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315040546/",
+      "description": "Book discussion on 'The Will of The Many' by James Islington. Bring your copy, discuss themes and characters.",
+      "source": "We Read Together",
+      "key": "booktalkthewillofthemanyonenorth|2026-06-27",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Saturday Afternoon Reading @ Error 404 (City Hall)",
+      "category": "event",
+      "date": "2026-06-27",
+      "endDate": null,
+      "time": "3:00 PM",
+      "venue": "Error 404, 13 Stamford Rd, B2-29/30 Capitol Piazza, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315353638/",
+      "description": "Small group reading session. Bring a book, buy a drink and bite, read together, share at the end.",
+      "source": "We Read Together",
+      "key": "saturdayafternoonreadingerror404cityhall|2026-06-27",
+      "firstSeen": "2026-06-27"
+    },
+    {
       "title": "Eric Prydz Singapore Headline Show",
       "category": "music",
       "date": "2026-06-28",
@@ -666,6 +640,19 @@
       "firstSeen": "2026-06-23"
     },
     {
+      "title": "Sunday Reading @ Enabling Village (Mad Roaster's Slow Bar)",
+      "category": "event",
+      "date": "2026-06-28",
+      "endDate": null,
+      "time": "2:00 PM",
+      "venue": "Mad Roaster's Slow Bar, 20 Lengkok Bahru, #01-20 Enabling Village Outpost, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315250567/",
+      "description": "Small group reading session. Bring a book, buy a drink and bite, read together, share at the end.",
+      "source": "We Read Together",
+      "key": "sundayreadingenablingvillagemadroastersslowbar|2026-06-28",
+      "firstSeen": "2026-06-27"
+    },
+    {
       "title": "14th World Oyster Festival",
       "category": "festival",
       "date": "2026-07-01",
@@ -692,6 +679,32 @@
       "firstSeen": "2026-06-23"
     },
     {
+      "title": "SUSHISAMBA Singapore Marks 2 Years with Sol de Janeiro",
+      "category": "event",
+      "date": "2026-07-01",
+      "endDate": "2026-07-18",
+      "time": null,
+      "venue": "SUSHISAMBA Singapore",
+      "url": null,
+      "description": "Anniversary celebration featuring Sol de Janeiro collaboration at SUSHISAMBA",
+      "source": null,
+      "key": "sushisambasingaporemarks2yearswithsoldejaneiro|2026-07-01",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Ice Fire BBQ Experience at +Twelve",
+      "category": "event",
+      "date": "2026-07-01",
+      "endDate": "2026-07-31",
+      "time": null,
+      "venue": "+Twelve",
+      "url": null,
+      "description": "BBQ experience featuring Beluga Vodka and Cincoro Tequila pairings",
+      "source": null,
+      "key": "icefirebbqexperienceattwelve|2026-07-01",
+      "firstSeen": "2026-06-27"
+    },
+    {
       "title": "Annyeong Allora",
       "category": "event",
       "date": "2026-07-02",
@@ -703,6 +716,19 @@
       "source": null,
       "key": "annyeongallora|2026-07-02",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "SuperPark AfterHours",
+      "category": "event",
+      "date": "2026-07-02",
+      "endDate": null,
+      "time": null,
+      "venue": "SuperPark",
+      "url": null,
+      "description": "Evening entertainment event. Recurring Thursdays and Fridays. From SG $33.90.",
+      "source": null,
+      "key": "superparkafterhours|2026-07-02",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "999999999 Live in Singapore",
@@ -729,6 +755,45 @@
       "source": "Rainbow Fictioneers",
       "key": "openwritingsessions|2026-07-03",
       "firstSeen": "2026-06-20"
+    },
+    {
+      "title": "Open Writing Sessions - Rainbow Fictioneers",
+      "category": "workshop",
+      "date": "2026-07-03",
+      "endDate": "2026-07-31",
+      "time": "18:00",
+      "venue": "casual poet library, 123 Bukit Merah Lane 1, #01-110",
+      "url": "https://rainbowfictioneers.com/open-writing-sessions",
+      "description": "Small group writing sessions for poetry, prose, plays and creative nonfiction. Drop-in Fridays 6-9pm.",
+      "source": "Rainbow Fictioneers",
+      "key": "openwritingsessionsrainbowfictioneers|2026-07-03",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Open Writing Sessions (May-July 2026)",
+      "category": "workshop",
+      "date": "2026-07-03",
+      "endDate": "2026-07-31",
+      "time": "6:00 PM - 9:00 PM",
+      "venue": "casual poet library, 123 Bukit Merah Lane 1, #01-110, S150123",
+      "url": "https://rainbowfictioneers.com/open-writing-sessions",
+      "description": "Small group writing sessions for poetry, prose, plays and creative nonfiction. Drop-in protected writing time with group sharing.",
+      "source": "@rainbowfictioneers",
+      "key": "openwritingsessionsmayjuly2026|2026-07-03",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Malu Malu Indie Club",
+      "category": "music",
+      "date": "2026-07-03",
+      "endDate": "2026-07-04",
+      "time": null,
+      "venue": "Malu Malu Club",
+      "url": null,
+      "description": "Indie club event featuring 'It's Friday You're in Love' programming",
+      "source": null,
+      "key": "malumaluindieclub|2026-07-03",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "The Elemental Channel Immersion",
@@ -768,6 +833,58 @@
       "source": null,
       "key": "pocketfest|2026-07-04",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "Craft Fest SG REMIX",
+      "category": "market",
+      "date": "2026-07-04",
+      "endDate": "2026-07-05",
+      "time": null,
+      "venue": "Singapore Chinese Cultural Centre, Level 7 Multi-purpose Hall",
+      "url": "https://www.instagram.com/p/DZ7-mUUCG9v/",
+      "description": "Free joyful celebration of creativity with lineup of artists and artisans showcasing creative works.",
+      "source": "@commontouchcraft",
+      "key": "craftfestsgremix|2026-07-04",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Romanticisation of the Tropics: Batik Paintings by Chuah Thean Teng, Choo Keng Kwang and Seah Kim Joo",
+      "category": "exhibition",
+      "date": "2026-07-04",
+      "endDate": "2026-07-19",
+      "time": null,
+      "venue": "artcommune gallery",
+      "url": "https://agas.org.sg/events/romanticisation-of-the-tropics-batik-paintings-by-chuah-thean-teng-choo-keng-kwang-and-seah-kim-joo/",
+      "description": "Exhibition examining development of batik painting as modern art form in Singapore and Malaysia.",
+      "source": "artcommune gallery",
+      "key": "romanticisationofthetropicsbatikpaintingsbychuahtheantengchookengkwangandseahkimjoo|2026-07-04",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Contemplative Materials",
+      "category": "exhibition",
+      "date": "2026-07-04",
+      "endDate": "2026-07-26",
+      "time": "15:00",
+      "venue": "Mizuma Gallery",
+      "url": "https://agas.org.sg/events/contemplative-materials/",
+      "description": "Works by Iswanto Soerjanto, Liu Liling and Sarah Isabelle Tan. Opening reception and exhibition walkthrough.",
+      "source": "Mizuma Gallery",
+      "key": "contemplativematerials|2026-07-04",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Makers Market at Dhoby Ghaut",
+      "category": "market",
+      "date": "2026-07-06",
+      "endDate": null,
+      "time": "11:00 AM - 4:00 PM",
+      "venue": "Staytion Lifestyle Centre, Dhoby Ghaut MRT",
+      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-jul-aug",
+      "description": "Weekly artisanal makers market in the heart of town at Dhoby Ghaut, starting 6th July onwards daily.",
+      "source": "INVADE",
+      "key": "makersmarketatdhobyghaut|2026-07-06",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "Open Writing Sessions",
@@ -820,6 +937,45 @@
       "source": "Asia Art & Craft Fair",
       "key": "asiaartcraftfair2026workshops|2026-07-11",
       "firstSeen": "2026-06-20"
+    },
+    {
+      "title": "Asia Art & Craft Fair 2026 - Hands-on Workshops",
+      "category": "workshop",
+      "date": "2026-07-11",
+      "endDate": "2026-07-12",
+      "time": "Various times",
+      "venue": "Suntec Singapore Convention Hall 401 & 402",
+      "url": "https://www.instagram.com/asia.artcraftfair/",
+      "description": "Curated hands-on workshops including decoupage wall decor, stringed kokedama, tsumami zaiku, yixing zisha mug making, kintsugi, indigo tie dye.",
+      "source": "Asia Art & Craft Fair",
+      "key": "asiaartcraftfair2026handsonworkshops|2026-07-11",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Cityluxe x Thorn Key Whisk Wonder: A Journaling RPG Afternoon",
+      "category": "workshop",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": "13:00",
+      "venue": "Cityluxe WorkRoom",
+      "url": "https://www.eventbrite.sg/e/cityluxe-x-thorn-key-whisk-wonder-a-journaling-rpg-afternoon-tickets-1992415346937",
+      "description": "A journaling RPG afternoon workshop experience at Cityluxe WorkRoom.",
+      "source": "Cityluxe",
+      "key": "cityluxexthornkeywhiskwonderajournalingrpgafternoon|2026-07-11",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Weekend Culture",
+      "category": "festival",
+      "date": "2026-07-12",
+      "endDate": "2026-07-31",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Weekend Culture festival featuring community-driven cultural activities and intersecting crafts.",
+      "source": null,
+      "key": "weekendculture|2026-07-12",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "Girls' Night Out Soirée at Madame Claude",
@@ -887,6 +1043,19 @@
       "firstSeen": "2026-06-23"
     },
     {
+      "title": "Asian Ceramics & Works of Art - August",
+      "category": "event",
+      "date": "2026-07-21",
+      "endDate": "2026-08-02",
+      "time": null,
+      "venue": "Hotlotz Saleroom, 28 Jalan Kilang Barat, Singapore 159362",
+      "url": "https://www.hotlotz.com/auctions/auction-calendar",
+      "description": "Asian ceramics and works of art auction",
+      "source": "Hotlotz",
+      "key": "asianceramicsworksofartaugust|2026-07-21",
+      "firstSeen": "2026-06-27"
+    },
+    {
       "title": "Formula 1 Exhibition",
       "category": "exhibition",
       "date": "2026-07-23",
@@ -913,6 +1082,19 @@
       "firstSeen": "2026-06-20"
     },
     {
+      "title": "Massive Attack x Live Tour 2026",
+      "category": "music",
+      "date": "2026-07-29",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Live concert tour by electronic music pioneers Massive Attack",
+      "source": null,
+      "key": "massiveattackxlivetour2026|2026-07-29",
+      "firstSeen": "2026-06-27"
+    },
+    {
       "title": "A fool rushing in.",
       "category": "event",
       "date": "2026-07-31",
@@ -937,6 +1119,19 @@
       "source": "Rainbow Fictioneers",
       "key": "openwritingsessions|2026-07-31",
       "firstSeen": "2026-06-20"
+    },
+    {
+      "title": "A fool rushing in. - Grey Area Coffee Roasters",
+      "category": "event",
+      "date": "2026-07-31",
+      "endDate": null,
+      "time": "19:30",
+      "venue": "Grey Area Coffee Roasters",
+      "url": "https://daryl.li/afoolrushingin",
+      "description": "Experimental event blending readings, visuals, and art exploring literature and love by author Daryl Li.",
+      "source": "Daryl Li",
+      "key": "afoolrushingingreyareacoffeeroasters|2026-07-31",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "Timber Textures: Charcoal Rubbings",
@@ -991,6 +1186,19 @@
       "firstSeen": "2026-06-23"
     },
     {
+      "title": "A fool rushing in. - The Coup/Bunker Bunker",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "15:00",
+      "venue": "The Coup/Bunker Bunker",
+      "url": "https://daryl.li/afoolrushingin",
+      "description": "Experimental event blending readings, visuals, and art exploring literature and love by author Daryl Li.",
+      "source": "Daryl Li",
+      "key": "afoolrushinginthecoupbunkerbunker|2026-08-15",
+      "firstSeen": "2026-06-27"
+    },
+    {
       "title": "Makers Market at PLQ Plaza",
       "category": "market",
       "date": "2026-08-21",
@@ -1028,6 +1236,19 @@
       "source": "Daryl Li",
       "key": "afoolrushingin|2026-08-29",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "A fool rushing in. - Chaos Gallery by Knuckles & Notch",
+      "category": "event",
+      "date": "2026-08-29",
+      "endDate": null,
+      "time": "19:00",
+      "venue": "Chaos Gallery by Knuckles & Notch",
+      "url": "https://daryl.li/afoolrushingin",
+      "description": "Experimental event blending readings, visuals, and art exploring literature and love by author Daryl Li.",
+      "source": "Daryl Li",
+      "key": "afoolrushinginchaosgallerybyknucklesnotch|2026-08-29",
+      "firstSeen": "2026-06-27"
     },
     {
       "title": "trace03: life drawing x dance",
@@ -1223,6 +1444,58 @@
       "source": "Asian Civilisations Museum",
       "key": "dailyguidedtours|",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "Figure Drawing Sessions",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "195 Pearl's Hill Terrace, 01-06",
+      "url": "https://www.instagram.com/p/DaAPWEljurL/",
+      "description": "Figure drawing sessions for July. Explore the human figure through drawing. All materials provided.",
+      "source": "Arterly Obsessed",
+      "key": "figuredrawingsessions|",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Wasuka Art Gallery - Open Hours",
+      "category": "exhibition",
+      "date": null,
+      "endDate": null,
+      "time": "12:30–18:00",
+      "venue": "81 Joo Chiat Road #02-03",
+      "url": "https://www.instagram.com/p/DZ_6gLyxosv/",
+      "description": "Art gallery showcasing colourful and fun happy art. No appointments or pressure. Open Wed–Sun.",
+      "source": "Wasuka Art",
+      "key": "wasukaartgalleryopenhours|",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Hand & Wheel Pottery Workshop",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://www.instagram.com/p/DOIl-84koJL/",
+      "description": "Pottery workshop now eligible for SG Culture Pass. Book via website.",
+      "source": "@commontouchcraft",
+      "key": "handwheelpotteryworkshop|",
+      "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Vibe First, Swipe Later: Who Stole Cupid's Arrow? (21st & 22nd running)",
+      "category": "event",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://www.instagram.com/strangerconvos",
+      "description": "Offline conscious dating social with mystery-themed icebreakers, group rotations, and facilitated conversations for singles.",
+      "source": "Stranger Conversations",
+      "key": "vibefirstswipelaterwhostolecupidsarrow21st22ndrunning|",
+      "firstSeen": "2026-06-27"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T23:53:18.988Z",
-  "totalEvents": 20,
+  "lastUpdated": "2026-06-26T23:45:48.331Z",
+  "totalEvents": 18,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -14,19 +14,6 @@
       "source": null,
       "firstSeen": "2026-06-13",
       "key": "pasarfishpopup|2026-05-27"
-    },
-    {
-      "title": "Open Writing Sessions",
-      "category": "event",
-      "date": "2026-05-29",
-      "endDate": "2026-06-26",
-      "time": null,
-      "venue": "Casual Poet Library, 123 Bukit Merah Lane 1 #01-110",
-      "url": "https://www.instagram.com/rainbowfictioneers/p/DYY73xdmVwd/",
-      "description": "Friday small-group open writing sessions, 6 to 9pm; drop-in, all levels, poetry to prose.",
-      "source": "Rainbow Fictioneers",
-      "firstSeen": "2026-06-13",
-      "key": "openwritingsessions|2026-05-29"
     },
     {
       "title": "Lazy Days with Dog & Frog",
@@ -92,19 +79,6 @@
       "source": "da:ns",
       "firstSeen": "2026-06-13",
       "key": "dansfocusballetbythebay|2026-06-24"
-    },
-    {
-      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
-      "date": "2026-06-26",
-      "time": "12:00 PM - 8:00 PM",
-      "venue": "i12 Katong",
-      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
-      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
-      "source": "INVADE",
-      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-26",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
     },
     {
       "title": "The Hammock Market",
