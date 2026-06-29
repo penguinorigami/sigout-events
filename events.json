@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T23:45:48.331Z",
-  "totalEvents": 18,
+  "lastUpdated": "2026-06-29T23:37:10.645Z",
+  "totalEvents": 11,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -29,32 +29,6 @@
       "key": "lazydayswithdogfrog|2026-05-29"
     },
     {
-      "title": "GastroBeats 2026",
-      "category": "festival",
-      "date": "2026-06-05",
-      "endDate": "2026-06-28",
-      "time": null,
-      "venue": "Bayfront Event Space",
-      "url": "https://gastrobeats.com.sg/",
-      "description": "SG's biggest food and music festival returns for its 5th edition with 40+ vendors and daily live acts; free entry.",
-      "source": "Gastrobeats",
-      "firstSeen": "2026-06-13",
-      "key": "gastrobeats2026|2026-06-05"
-    },
-    {
-      "title": "iLight Singapore 2026",
-      "category": "festival",
-      "date": "2026-06-05",
-      "endDate": "2026-06-28",
-      "time": null,
-      "venue": "Marina Bay & Raffles Place",
-      "url": "https://www.ilightsingapore.gov.sg/",
-      "description": "Open-air light-art trail with 14 installations by 17 local and regional artists; free.",
-      "source": "iLight",
-      "firstSeen": "2026-06-13",
-      "key": "ilightsingapore2026|2026-06-05"
-    },
-    {
       "title": "We Read Together Reading Meetups",
       "category": "event",
       "date": "2026-06-11",
@@ -66,71 +40,6 @@
       "source": "We Read Together",
       "firstSeen": "2026-06-13",
       "key": "wereadtogetherreadingmeetups|2026-06-11"
-    },
-    {
-      "title": "da:ns focus: Ballet by the Bay",
-      "category": "festival",
-      "date": "2026-06-24",
-      "endDate": "2026-06-28",
-      "time": null,
-      "venue": "Esplanade Theatres on the Bay",
-      "url": "https://www.esplanade.com",
-      "description": "The Royal Ballet returns after 21 years with a gala, outdoor shows and interactive ballet events.",
-      "source": "da:ns",
-      "firstSeen": "2026-06-13",
-      "key": "dansfocusballetbythebay|2026-06-24"
-    },
-    {
-      "title": "The Hammock Market",
-      "category": "market",
-      "date": "2026-06-27",
-      "endDate": null,
-      "time": null,
-      "venue": "Aperia Mall",
-      "url": "https://www.instagram.com/thehammockmarket",
-      "description": "Handmade & handpicked — thrift stores, local brands, creatives & curated closets under one roof. Free entry.",
-      "source": "The Hammock Market",
-      "firstSeen": "2026-06-13",
-      "key": "thehammockmarket|2026-06-27"
-    },
-    {
-      "title": "Hobbies Fair 2026",
-      "category": "market",
-      "date": "2026-06-27",
-      "endDate": "2026-06-28",
-      "time": null,
-      "venue": "Suntec Convention Centre, Halls 401 & 402",
-      "url": "https://www.instagram.com/hobbiesfair.sg/reel/DXtnG5-AWyj/",
-      "description": "Hobbies and lifestyle fair with vendors across crafts and collectibles.",
-      "source": "Hobbies Fair",
-      "firstSeen": "2026-06-13",
-      "key": "hobbiesfair2026|2026-06-27"
-    },
-    {
-      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
-      "date": "2026-06-27",
-      "time": "12:00 PM - 8:00 PM",
-      "venue": "i12 Katong",
-      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
-      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
-      "source": "INVADE",
-      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-27",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
-    },
-    {
-      "title": "Makers Market - Katong (Outdoor) Create, Connect Showcase",
-      "date": "2026-06-28",
-      "time": "12:00 PM - 8:00 PM",
-      "venue": "i12 Katong",
-      "url": "https://invade.co/spaces/i12-katong-makers-market-may-edition",
-      "description": "Pop-up market featuring locally-curated crafts and design goods from around the region",
-      "source": "INVADE",
-      "key": "makersmarketkatongoutdoorcreateconnectshowcase|2026-06-28",
-      "firstSeen": "2026-06-14",
-      "category": "market",
-      "endDate": null
     },
     {
       "title": "Me-You Market",
