@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T23:38:04.235Z",
-  "count": 147,
+  "lastUpdated": "2026-07-06T23:40:41.060Z",
+  "count": 154,
   "events": [
     {
       "title": "Open Writing Sessions",
@@ -91,19 +91,6 @@
       "description": "New series by Singapore artist capturing Singapore's evolving urban landscape through expressive visual language and atmospheric abstraction.",
       "source": "Gallery 1819",
       "key": "fragmentsofalivingcitybyanthonychuasayhua|2026-06-13",
-      "firstSeen": "2026-06-16"
-    },
-    {
-      "title": "SimplyGo Adventure Quest Pop-Up at Bugis+",
-      "category": "event",
-      "date": "2026-06-15",
-      "endDate": "2026-07-05",
-      "time": null,
-      "venue": "Bugis+",
-      "url": null,
-      "description": "Interactive adventure quest pop-up experience at Bugis+ shopping mall.",
-      "source": null,
-      "key": "simplygoadventurequestpopupatbugis|2026-06-15",
       "firstSeen": "2026-06-16"
     },
     {
@@ -406,19 +393,6 @@
       "firstSeen": "2026-06-30"
     },
     {
-      "title": "Annyeong Allora",
-      "category": "event",
-      "date": "2026-07-02",
-      "endDate": "2026-07-05",
-      "time": null,
-      "venue": "Allora Ristorante Bar",
-      "url": null,
-      "description": "Korean collaboration event",
-      "source": null,
-      "key": "annyeongallora|2026-07-02",
-      "firstSeen": "2026-06-23"
-    },
-    {
       "title": "Open Writing Sessions - Rainbow Fictioneers",
       "category": "workshop",
       "date": "2026-07-03",
@@ -443,45 +417,6 @@
       "source": "@rainbowfictioneers",
       "key": "openwritingsessionsmayjuly2026|2026-07-03",
       "firstSeen": "2026-06-27"
-    },
-    {
-      "title": "Malu Malu Indie Club",
-      "category": "music",
-      "date": "2026-07-03",
-      "endDate": "2026-07-04",
-      "time": null,
-      "venue": "Malu Malu Club",
-      "url": null,
-      "description": "Indie club event featuring 'It's Friday You're in Love' programming",
-      "source": null,
-      "key": "malumaluindieclub|2026-07-03",
-      "firstSeen": "2026-06-27"
-    },
-    {
-      "title": "SUB:CULT (001)",
-      "category": "music",
-      "date": "2026-07-03",
-      "endDate": "2026-07-04",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Ministry of Rave presents SUB:CULT electronic music event",
-      "source": null,
-      "key": "subcult001|2026-07-03",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Illustration Arts Fest 2026",
-      "category": "exhibition",
-      "date": "2026-07-03",
-      "endDate": "2026-07-05",
-      "time": null,
-      "venue": "New Art Museum Singapore",
-      "url": null,
-      "description": "Illustration art festival featuring prints, stickers and artwork",
-      "source": "New Art Museum Singapore",
-      "key": "illustrationartsfest2026|2026-07-03",
-      "firstSeen": "2026-07-04"
     },
     {
       "title": "Greater Sentosa Exhibition",
@@ -536,32 +471,6 @@
       "firstSeen": "2026-06-16"
     },
     {
-      "title": "Pocket Fest",
-      "category": "festival",
-      "date": "2026-07-04",
-      "endDate": "2026-07-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Arts and culture festival",
-      "source": null,
-      "key": "pocketfest|2026-07-04",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Craft Fest SG REMIX",
-      "category": "market",
-      "date": "2026-07-04",
-      "endDate": "2026-07-05",
-      "time": null,
-      "venue": "Singapore Chinese Cultural Centre, Level 7 Multi-purpose Hall",
-      "url": "https://www.instagram.com/p/DZ7-mUUCG9v/",
-      "description": "Free joyful celebration of creativity with lineup of artists and artisans showcasing creative works.",
-      "source": "@commontouchcraft",
-      "key": "craftfestsgremix|2026-07-04",
-      "firstSeen": "2026-06-27"
-    },
-    {
       "title": "Romanticisation of the Tropics: Batik Paintings by Chuah Thean Teng, Choo Keng Kwang and Seah Kim Joo",
       "category": "exhibition",
       "date": "2026-07-04",
@@ -588,71 +497,6 @@
       "firstSeen": "2026-06-27"
     },
     {
-      "title": "Journaling Club",
-      "category": "workshop",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": null,
-      "venue": "The Stranger Convos (public living room)",
-      "url": "https://www.instagram.com/p/DaGIfXYTbKr/",
-      "description": "Reflective journaling session with prompts to set intentions for the rest of 2026. Pay-as-you-wish contribution.",
-      "source": "@humanstudiosg",
-      "key": "journalingclub|2026-07-04",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Spontaneous Hangout Night",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": "21:00-00:00",
-      "venue": "The Stranger Convos",
-      "url": "https://www.instagram.com/p/DaJ-PAgEpWq/",
-      "description": "Casual hangout with movie screening (Inside Out). $5 contribution for venue. Company is primary, movie secondary.",
-      "source": "@3ofus.space",
-      "key": "spontaneoushangoutnight|2026-07-04",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Saturday Afternoon Reading @ Holland Village",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": "2:00 PM",
-      "venue": "Keong Saik Bakery @ Holland Village (Chip Bee), 44 Jln Merah Saga, #01-42, Singapore 278116",
-      "url": "https://www.meetup.com/we-read-together/events/315464405/",
-      "description": "Book reading meetup group. Bring a book, grab a drink, read together and share.",
-      "source": "We Read Together",
-      "key": "saturdayafternoonreadinghollandvillage|2026-07-04",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Saturday Afternoon Reading @ Italian Coffee Lab",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": "2:30 PM",
-      "venue": "Italian Coffee Lab, 100 Pasir Panjang Rd, #03-07, Singapore 118518",
-      "url": "https://www.meetup.com/we-read-together/events/315369940/",
-      "description": "Book reading meetup group. Bring a book, grab a drink, read together and share.",
-      "source": "We Read Together",
-      "key": "saturdayafternoonreadingitaliancoffeelab|2026-07-04",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Gao Gao Party: A Pet-Friendly New Bahru Party",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": null,
-      "venue": "New Bahru",
-      "url": null,
-      "description": "Pet-friendly party celebration in New Bahru",
-      "source": null,
-      "key": "gaogaopartyapetfriendlynewbahruparty|2026-07-04",
-      "firstSeen": "2026-06-30"
-    },
-    {
       "title": "Romanticisation of the Tropics",
       "category": "exhibition",
       "date": "2026-07-04",
@@ -663,19 +507,6 @@
       "description": "Batik paintings exhibition",
       "source": null,
       "key": "romanticisationofthetropics|2026-07-04",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Meatsmith X Park Bench Deli",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Collaboration between Meatsmith and Park Bench Deli",
-      "source": null,
-      "key": "meatsmithxparkbenchdeli|2026-07-04",
       "firstSeen": "2026-06-30"
     },
     {
@@ -705,121 +536,56 @@
       "firstSeen": "2026-07-04"
     },
     {
-      "title": "Hypebeast Cup Half Time Social Club - Risograph Workshop",
-      "category": "workshop",
-      "date": "2026-07-04",
-      "endDate": "2026-07-05",
-      "time": "3pm-6pm",
-      "venue": "WEAVE, 26 Sentosa Gateway, 01-217, Singapore 098138",
-      "url": null,
-      "description": "Learn about risograph printing at Weave Mall. Create a limited edition risograph artwork (50 slots per day).",
-      "source": "Knuckles and Notch",
-      "key": "hypebeastcuphalftimesocialclubrisographworkshop|2026-07-04",
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "title": "International Art Fair (IAF) 2026",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": "2026-07-06",
+      "title": "Hiroshi Sugimoto: Form Is Emptiness",
+      "category": "exhibition",
+      "date": "2026-07-07",
+      "endDate": "2026-10-04",
       "time": null,
-      "venue": "Booth B12",
-      "url": null,
-      "description": "Art fair featuring Knuckles and Notch with new works by artist collaborators and limited edition books.",
-      "source": "Knuckles and Notch",
-      "key": "internationalartfairiaf2026|2026-07-04",
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "title": "Saturday Afternoon Reading @ Holland Village (Keong Saik Bakery)",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": "2:00 PM",
-      "venue": "Keong Saik Bakery @ Holland Village (Chip Bee), 44 Jln Merah Saga, #01-42, Singapore 278116",
-      "url": "https://www.meetup.com/we-read-together/events/315464405/",
-      "description": "Book reading group meetup. Bring a book, buy a drink, read together, and share at the end.",
-      "source": "We Read Together",
-      "key": "saturdayafternoonreadinghollandvillagekeongsaikbakery|2026-07-04",
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "title": "Saturday Afternoon Reading @ Italian Coffee Lab (Pasir Panjang)",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": "2:30 PM",
-      "venue": "Italian Coffee Lab, 100 Pasir Panjang Rd, #03-07, Singapore 118518",
-      "url": "https://www.meetup.com/we-read-together/events/315369940/",
-      "description": "Book reading group meetup. Bring a book, buy a drink, read together, and share at the end.",
-      "source": "We Read Together",
-      "key": "saturdayafternoonreadingitaliancoffeelabpasirpanjang|2026-07-04",
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "title": "BuddyRead: Taiwan Travelogue (臺灣漫遊錄)",
-      "category": "event",
-      "date": "2026-07-04",
-      "endDate": null,
-      "time": "5:00 PM",
-      "venue": "呷三碗 Eat 3 Bowls (Pasir Panjang), 103 Pasir Panjang Rd, Singapore 118531",
-      "url": "https://www.meetup.com/we-read-together/events/315168103/",
-      "description": "Read Taiwan Travelogue together and enjoy delicious food and drink. Chat and discuss the book.",
-      "source": "We Read Together",
-      "key": "buddyreadtaiwantravelogue|2026-07-04",
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "title": "Sunday Morning Reading @ Serangoon (Oddity)",
-      "category": "event",
-      "date": "2026-07-05",
-      "endDate": null,
-      "time": "11:00 AM",
-      "venue": "Oddity, 730 Upper Serangoon Rd, #01-01A Yeley Building, Singapore 534613",
-      "url": "https://www.meetup.com/we-read-together/events/315510178/",
-      "description": "Book reading group meetup. Bring a book, buy a drink, read together, and share at the end.",
-      "source": "We Read Together",
-      "key": "sundaymorningreadingserangoonoddity|2026-07-05",
-      "firstSeen": "2026-07-04"
-    },
-    {
-      "title": "Makers Market at Dhoby Ghaut",
-      "category": "market",
-      "date": "2026-07-06",
-      "endDate": null,
-      "time": "11:00 AM - 4:00 PM",
-      "venue": "Staytion Lifestyle Centre, Dhoby Ghaut MRT",
-      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-jul-aug",
-      "description": "Weekly artisanal makers market in the heart of town at Dhoby Ghaut, starting 6th July onwards daily.",
-      "source": "INVADE",
-      "key": "makersmarketatdhobyghaut|2026-07-06",
-      "firstSeen": "2026-06-27"
+      "venue": "SAM",
+      "url": "https://www.instagram.com/p/DY91J9OJV_A/",
+      "description": "Artist's first major survey in Southeast Asia with 63 works from 11 series and 14 fossils spanning five decades.",
+      "source": "@sgartschannel",
+      "key": "hiroshisugimotoformisemptiness|2026-07-07",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "PARADE by Makers Market at PLQ Mall",
       "category": "market",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "endDate": null,
       "time": "11AM - 10PM",
       "venue": "PLQ Mall",
       "url": "https://invade.co/spaces/plq-mall-pushcarts-by-parade-jul-sep-2026",
-      "description": "Pushcart initiative featuring unique crafts and artisanal lifestyle merchandise. Weekly, Monday to Sunday.",
+      "description": "Weekly pushcart pop-up market featuring unique crafts and artisanal lifestyle merchandise. Monday to Sunday.",
       "source": "INVADE",
-      "key": "paradebymakersmarketatplqmall|2026-07-06",
-      "firstSeen": "2026-07-04"
+      "key": "paradebymakersmarketatplqmall|2026-07-07",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "Dhoby Ghaut Makers' Market",
       "category": "market",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "endDate": null,
       "time": "11AM - 4PM",
       "venue": "Staytion Lifestyle Centre, Dhoby Ghaut MRT",
       "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-jul-aug",
-      "description": "Curated artisanal experience right outside Dhoby Ghaut MRT. Weekly, Monday to Sunday.",
+      "description": "Weekly artisanal market outside Staytion Lifestyle Centre. Monday to Sunday featuring curated crafts and goods.",
       "source": "INVADE",
-      "key": "dhobyghautmakersmarket|2026-07-06",
-      "firstSeen": "2026-07-04"
+      "key": "dhobyghautmakersmarket|2026-07-07",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Tuesday Evening Reading @ Marina Square (Beyond Pancakes)",
+      "category": "event",
+      "date": "2026-07-07",
+      "endDate": null,
+      "time": "7:00 PM",
+      "venue": "Beyond Pancakes - Marina Square, 6 Raffles Boulevard, Marina Square #03-131A, Singapore 039594",
+      "url": "https://www.meetup.com/we-read-together/events/314891416/",
+      "description": "Evening reading group meetup. Bring a book, buy drinks/food, read together with introductions and sharing.",
+      "source": "We Read Together",
+      "key": "tuesdayeveningreadingmarinasquarebeyondpancakes|2026-07-07",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "Fat Prince: Tuscany to Beirut Wine Dinner",
@@ -911,6 +677,19 @@
       "source": null,
       "key": "fromplatetoinsighthowaiunderstandsyourfood|2026-07-10",
       "firstSeen": "2026-06-30"
+    },
+    {
+      "title": "Friday Evening Reading @ SOD Cafe (Upper Thomson)",
+      "category": "event",
+      "date": "2026-07-10",
+      "endDate": null,
+      "time": "7:00 PM",
+      "venue": "SOD Cafe, 183 Upper Thomson Road, Longhaus, #01-05, 574429, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315555515/",
+      "description": "Evening reading group meetup. Bring a book, buy drinks/food, read together with introductions and sharing.",
+      "source": "We Read Together",
+      "key": "fridayeveningreadingsodcafeupperthomson|2026-07-10",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "Asia Art & Craft Fair 2026",
@@ -1043,6 +822,97 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "Al Awda Film Screening",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": "20:30",
+      "venue": "Filmhouse",
+      "url": "https://linktr.ee/jasonsoo",
+      "description": "Feature documentary about 2018 flotilla mission to break Israeli blockade of Gaza. R21 rated.",
+      "source": "Jason Soo",
+      "key": "alawdafilmscreening|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "🤫 Saturday Reading @ Outram Park",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": "10:00 AM",
+      "venue": "Grey Area Coffee Roasters, 13 Kampong Bahru Rd, Singapore 169345",
+      "url": "https://www.meetup.com/we-read-together/events/315293251/",
+      "description": "Morning reading group meetup (unannounced event). Bring a book, buy drinks/food, read together.",
+      "source": "We Read Together",
+      "key": "saturdayreadingoutrampark|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "BuddyRead: Taiwan Travelogue (臺灣漫遊錄)",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": "6:30 PM",
+      "venue": "Lai Lai Taiwan Dining (City Square Mall, #03-39/40), 180 Kitchener Rd, Singapore 208539",
+      "url": "https://www.meetup.com/we-read-together/events/315439573/",
+      "description": "Group reading and discussion of Taiwan Travelogue with food and drinks at Taiwanese restaurant.",
+      "source": "We Read Together",
+      "key": "buddyreadtaiwantravelogue|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "The Nether - A Gripping Sci-fi Crime Thriller!",
+      "category": "theatre",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Sci-fi crime thriller play fundraising coverage",
+      "source": null,
+      "key": "thenetheragrippingscificrimethriller|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Cakes for a Cause",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Fundraising cake event for a cause",
+      "source": null,
+      "key": "cakesforacause|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "OrangeTee Consumer Festival",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "OrangeTee consumer festival - Spark Your Next Move",
+      "source": "OrangeTee",
+      "key": "orangeteeconsumerfestival|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Asia Art Craft Fair",
+      "category": "market",
+      "date": "2026-07-11",
+      "endDate": "2026-07-12",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Asia art and craft fair",
+      "source": null,
+      "key": "asiaartcraftfair|2026-07-11",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "Weekend Culture",
       "category": "festival",
       "date": "2026-07-12",
@@ -1095,6 +965,19 @@
       "firstSeen": "2026-06-30"
     },
     {
+      "title": "ALCHEMICAL DREAMSPACE: The Home Within",
+      "category": "workshop",
+      "date": "2026-07-14",
+      "endDate": null,
+      "time": "19:30-21:00",
+      "venue": "The Living Room SG, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
+      "url": null,
+      "description": "New moon cacao & blue lotus circle",
+      "source": "Gaïa Rising with Malvina",
+      "key": "alchemicaldreamspacethehomewithin|2026-07-14",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "Girls' Night Out Soirée at Madame Claude",
       "category": "event",
       "date": "2026-07-15",
@@ -1106,6 +989,45 @@
       "source": null,
       "key": "girlsnightoutsoireatmadameclaude|2026-07-15",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "Guardian Wellness Fiesta",
+      "category": "market",
+      "date": "2026-07-16",
+      "endDate": "2026-07-19",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Singapore's largest wellness fiesta by Guardian",
+      "source": "Guardian",
+      "key": "guardianwellnessfiesta|2026-07-16",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "The Barn beSPOKE Sale",
+      "category": "market",
+      "date": "2026-07-16",
+      "endDate": "2026-07-18",
+      "time": null,
+      "venue": "The Barn",
+      "url": null,
+      "description": "The Barn bespoke sale event",
+      "source": "The Barn",
+      "key": "thebarnbespokesale|2026-07-16",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Speed Friending Fridays - Vybes Socials Season 1 Episode 5",
+      "category": "event",
+      "date": "2026-07-17",
+      "endDate": null,
+      "time": "7:00 PM - 9:00 PM",
+      "venue": "Stranger Convos, 195 Pearl's Hill Terrace #02-38D",
+      "url": null,
+      "description": "Guided speed friending event with rotating conversations designed to build genuine connections.",
+      "source": "Vybes Social",
+      "key": "speedfriendingfridaysvybessocialsseason1episode5|2026-07-17",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "Arty Afternoon: Timber Textures: Charcoal Rubbings",
@@ -1199,6 +1121,19 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "Voyage Issue 02 - \"Winds, Gathering\" Launch Party",
+      "category": "event",
+      "date": "2026-07-18",
+      "endDate": null,
+      "time": "2:00 PM - 5:00 PM",
+      "venue": "Casual Poet Library, 123 Bukit Merah Lane 1, #01-110, S150123",
+      "url": "https://www.rainbowfictioneers.com/voyage-launch-party",
+      "description": "Launch party for literary journal Issue 02 featuring poetry, prose, visual art readings and gathering.",
+      "source": "Rainbow Fictioneers",
+      "key": "voyageissue02windsgatheringlaunchparty|2026-07-18",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "Quiet Readers Club Session",
       "category": "event",
       "date": "2026-07-19",
@@ -1210,6 +1145,32 @@
       "source": "Quiet Readers Club",
       "key": "quietreadersclubsession|2026-07-19",
       "firstSeen": "2026-07-04"
+    },
+    {
+      "title": "Quiet Readers Club - Reading Session at Studio Five Spaces",
+      "category": "event",
+      "date": "2026-07-19",
+      "endDate": null,
+      "time": "11:00 - 14:00",
+      "venue": "Studio Five Spaces, 10 Gambas Cres, Two Terrace Units, Singapore 757003",
+      "url": "https://www.instagram.com/p/DaUDVYlGMnL/",
+      "description": "Bring a book and chill with us at this new studio in the North. $18 per pax ($16 each if bringing a first-timer friend).",
+      "source": "@quietreadersclub",
+      "key": "quietreadersclubreadingsessionatstudiofivespaces|2026-07-19",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Non-Religious Meaning-Making Discussion with Robin",
+      "category": "event",
+      "date": "2026-07-20",
+      "endDate": null,
+      "time": "7:00 PM",
+      "venue": "Stranger Conversations, 195 Pearl's Hill Terrace #02-38D",
+      "url": null,
+      "description": "Community discussion on non-religious meaning, purpose and spirituality led by Robin Aguycalledrobez.",
+      "source": "Stranger Convos",
+      "key": "nonreligiousmeaningmakingdiscussionwithrobin|2026-07-20",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "Asian Ceramics & Works of Art - August",
@@ -1262,6 +1223,32 @@
       "source": "Rainbow Fictioneers",
       "key": "openwritingsessions|2026-07-24",
       "firstSeen": "2026-06-20"
+    },
+    {
+      "title": "Singapore Gaga - Film Screening & Trivia Night",
+      "category": "theatre",
+      "date": "2026-07-24",
+      "endDate": null,
+      "time": null,
+      "venue": "Swee Lee Clarke Quay",
+      "url": null,
+      "description": "Singapore's first theatrical documentary followed by trivia and dress-up. Win $100 Filmhouse gift card for best dressed Singapore icon.",
+      "source": null,
+      "key": "singaporegagafilmscreeningtrivianight|2026-07-24",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "PSYCHEDELIC BREATH: Solar Heart",
+      "category": "workshop",
+      "date": "2026-07-24",
+      "endDate": null,
+      "time": "19:30-21:00",
+      "venue": "The Living Room SG, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
+      "url": null,
+      "description": "Psychedelic breath workshop",
+      "source": "Gaïa Rising with Malvina",
+      "key": "psychedelicbreathsolarheart|2026-07-24",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "INTERIORS COLLECTIBLES",
@@ -1407,6 +1394,19 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "MAJULAH MESS",
+      "category": "music",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": "3:00 PM",
+      "venue": "The Pantry",
+      "url": "https://www.eventbrite.com/e/majulah-mess-tickets-1992807416628?aff=ebdsoporgprofile",
+      "description": "Music event at The Pantry",
+      "source": "FIVETOTENPMMUSIC",
+      "key": "majulahmess|2026-08-08",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "ONE WOMAN'S WARDROBE: FASHION'S PLAYGROUND",
       "category": "event",
       "date": "2026-08-11",
@@ -1550,6 +1550,19 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "Collectors Home Tour | Art Lives Here: A Home and Clinic Collection",
+      "category": "event",
+      "date": "2026-08-16",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/collectors-home-tour-art-lives-here-a-home-and-clinic-collection/",
+      "description": "Tour of 2 spaces within conservation shophouse: ground floor clinic and upstairs residence, both filled with everyday art.",
+      "source": "https://agas.org.sg/events/",
+      "key": "collectorshometourartliveshereahomeandcliniccollection|2026-08-16",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "Makers Market at PLQ Plaza",
       "category": "market",
       "date": "2026-08-21",
@@ -1589,6 +1602,19 @@
       "firstSeen": "2026-06-16"
     },
     {
+      "title": "Collectors Home Tour | An Uncommon Encounter",
+      "category": "event",
+      "date": "2026-08-22",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/collectors-home-tour-an-uncommon-encounter/",
+      "description": "Private art space tour showcasing curated paintings and sculptures collected over three decades by a husband-and-wife duo.",
+      "source": "https://agas.org.sg/events/",
+      "key": "collectorshometouranuncommonencounter|2026-08-22",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "WATCHES TIMEPIECES - SEPTEMBER",
       "category": "event",
       "date": "2026-08-25",
@@ -1615,6 +1641,19 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "OUTSIDE LOOKING IN",
+      "category": "exhibition",
+      "date": "2026-08-27",
+      "endDate": "2026-10-17",
+      "time": null,
+      "venue": "LOY Contemporary Art Gallery",
+      "url": "https://agas.org.sg/events/outside-looking-in/",
+      "description": "Exhibition bringing together represented artists across photography, painting, and ceramics to explore boundaries of their disciplines.",
+      "source": "LOY Contemporary Art Gallery",
+      "key": "outsidelookingin|2026-08-27",
+      "firstSeen": "2026-07-07"
+    },
+    {
       "title": "A fool rushing in.",
       "category": "event",
       "date": "2026-08-29",
@@ -1639,6 +1678,19 @@
       "source": "Daryl Li",
       "key": "afoolrushinginchaosgallerybyknucklesnotch|2026-08-29",
       "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "A Tale of Cats and Birds",
+      "category": "exhibition",
+      "date": "2026-09-04",
+      "endDate": "2026-09-30",
+      "time": null,
+      "venue": "I.F. Gallery",
+      "url": "https://agas.org.sg/events/a-tale-of-cats-and-birds/",
+      "description": "Three artists explore cats and birds through distinct visual languages, reflecting on meaning shaped by experiences, memories and emotions.",
+      "source": "I.F. Gallery",
+      "key": "ataleofcatsandbirds|2026-09-04",
+      "firstSeen": "2026-07-07"
     },
     {
       "title": "trace03: life drawing x dance",
@@ -1912,6 +1964,45 @@
       "source": "Corner Room / The Standard",
       "key": "musicanddancenightzapinodissianddjc2ac|",
       "firstSeen": "2026-07-04"
+    },
+    {
+      "title": "Self Portraiture Workshop with Nydia Shiang",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Hands-on workshop on self portraiture with photographer Nydia Shiang. Learn creative direction, posing and lighting techniques.",
+      "source": null,
+      "key": "selfportraitureworkshopwithnydiashiang|",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Momentary Pulses: A New Public Art Trail",
+      "category": "exhibition",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Central Business District",
+      "url": "https://www.instagram.com/p/DaPqMkynT-e/",
+      "description": "SAM launches public art trail transforming the CBD into a canvas for contemplation with art and activations.",
+      "source": "sgartschannel",
+      "key": "momentarypulsesanewpublicarttrail|",
+      "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Singapore GaGa Screening",
+      "category": "event",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://wkc-film-july.peatix.com/",
+      "description": "Screening of Tan Pin Pin's Singapore GaGa (2005), a portrait of island rhythms and quirks.",
+      "source": "Weekend Culture",
+      "key": "singaporegagascreening|",
+      "firstSeen": "2026-07-07"
     }
   ]
 }

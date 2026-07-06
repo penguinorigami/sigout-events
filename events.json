@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T23:38:04.235Z",
-  "totalEvents": 11,
+  "lastUpdated": "2026-07-06T23:40:41.061Z",
+  "totalEvents": 10,
   "events": [
     {
       "title": "Pasarfish Pop-Up",
@@ -40,19 +40,6 @@
       "source": "We Read Together",
       "firstSeen": "2026-06-13",
       "key": "wereadtogetherreadingmeetups|2026-06-11"
-    },
-    {
-      "title": "Me-You Market",
-      "category": "market",
-      "date": "2026-07-04",
-      "endDate": "2026-07-05",
-      "time": null,
-      "venue": "The Hive, 36 Carpenter Street L6",
-      "url": "https://www.instagram.com/meyoumarketsg",
-      "description": "Curated market bringing together regional fashion, accessories, artisan goods and food; free.",
-      "source": "Me-You Market",
-      "firstSeen": "2026-06-13",
-      "key": "meyoumarket|2026-07-04"
     },
     {
       "title": "Asia Art and Craft Fair 2026",
