@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T23:40:41.060Z",
-  "count": 154,
+  "lastUpdated": "2026-07-10T23:30:26.057Z",
+  "count": 171,
   "events": [
     {
       "title": "Open Writing Sessions",
@@ -172,19 +172,6 @@
       "firstSeen": "2026-06-23"
     },
     {
-      "title": "Collagraphy Class | Mapping Memories",
-      "category": "workshop",
-      "date": "2026-06-20",
-      "endDate": "2026-07-08",
-      "time": null,
-      "venue": "STPI",
-      "url": "https://agas.org.sg/events/collagraphy-class-mapping-memories/",
-      "description": "Create monochromatic collagraphs inspired by Zarina's minimalist musings on histories and geographies using collaged materials.",
-      "source": "STPI",
-      "key": "collagraphyclassmappingmemories|2026-06-20",
-      "firstSeen": "2026-06-16"
-    },
-    {
       "title": "Guided Tour: Zarina: Directions to My House",
       "category": "event",
       "date": "2026-06-20",
@@ -209,32 +196,6 @@
       "source": "@sgartschannel",
       "key": "hiroshisugimotoformisemptiness|2026-06-20",
       "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "STPI | Mapping Memories",
-      "category": "workshop",
-      "date": "2026-06-20",
-      "endDate": "2026-07-08",
-      "time": null,
-      "venue": "STPI",
-      "url": null,
-      "description": "Collagraphy class exploring memory and mapping at STPI.",
-      "source": null,
-      "key": "stpimappingmemories|2026-06-20",
-      "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "Collagraphy | Mapping Memories",
-      "category": "workshop",
-      "date": "2026-06-20",
-      "endDate": "2026-07-08",
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/collagraphy-mapping-memories",
-      "description": "Hands-on collagraphy workshop exploring memory through art.",
-      "source": "STPI",
-      "key": "collagraphymappingmemories|2026-06-20",
-      "firstSeen": "2026-06-23"
     },
     {
       "title": "Hiroshi Sugimoto: Form Is Emptiness",
@@ -549,58 +510,6 @@
       "firstSeen": "2026-07-07"
     },
     {
-      "title": "PARADE by Makers Market at PLQ Mall",
-      "category": "market",
-      "date": "2026-07-07",
-      "endDate": null,
-      "time": "11AM - 10PM",
-      "venue": "PLQ Mall",
-      "url": "https://invade.co/spaces/plq-mall-pushcarts-by-parade-jul-sep-2026",
-      "description": "Weekly pushcart pop-up market featuring unique crafts and artisanal lifestyle merchandise. Monday to Sunday.",
-      "source": "INVADE",
-      "key": "paradebymakersmarketatplqmall|2026-07-07",
-      "firstSeen": "2026-07-07"
-    },
-    {
-      "title": "Dhoby Ghaut Makers' Market",
-      "category": "market",
-      "date": "2026-07-07",
-      "endDate": null,
-      "time": "11AM - 4PM",
-      "venue": "Staytion Lifestyle Centre, Dhoby Ghaut MRT",
-      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-the-weekday-edit-jul-aug",
-      "description": "Weekly artisanal market outside Staytion Lifestyle Centre. Monday to Sunday featuring curated crafts and goods.",
-      "source": "INVADE",
-      "key": "dhobyghautmakersmarket|2026-07-07",
-      "firstSeen": "2026-07-07"
-    },
-    {
-      "title": "Tuesday Evening Reading @ Marina Square (Beyond Pancakes)",
-      "category": "event",
-      "date": "2026-07-07",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Beyond Pancakes - Marina Square, 6 Raffles Boulevard, Marina Square #03-131A, Singapore 039594",
-      "url": "https://www.meetup.com/we-read-together/events/314891416/",
-      "description": "Evening reading group meetup. Bring a book, buy drinks/food, read together with introductions and sharing.",
-      "source": "We Read Together",
-      "key": "tuesdayeveningreadingmarinasquarebeyondpancakes|2026-07-07",
-      "firstSeen": "2026-07-07"
-    },
-    {
-      "title": "Fat Prince: Tuscany to Beirut Wine Dinner",
-      "category": "event",
-      "date": "2026-07-08",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Wine dinner event",
-      "source": null,
-      "key": "fatprincetuscanytobeirutwinedinner|2026-07-08",
-      "firstSeen": "2026-07-04"
-    },
-    {
       "title": "A SINGLE OWNER COLLECTION OF WINE WHISKY",
       "category": "event",
       "date": "2026-07-09",
@@ -627,69 +536,17 @@
       "firstSeen": "2026-07-04"
     },
     {
-      "title": "Open Writing Sessions",
-      "category": "workshop",
+      "title": "Thai Festival",
+      "category": "festival",
       "date": "2026-07-10",
-      "endDate": null,
-      "time": "6pm-9pm",
-      "venue": "Casual Poet Library, 123 Bukit Merah Lane 1, #01-110, Singapore 150123",
-      "url": "https://rainbowfictioneers.com/open-writing-sessions",
-      "description": "Small group writing sessions for poets, prose writers, and creative writers. 2.5 hours of protected writing time with group sharing.",
-      "source": "Rainbow Fictioneers",
-      "key": "openwritingsessions|2026-07-10",
-      "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "Learn how to Create Your Own Product Campaign AI Image",
-      "category": "workshop",
-      "date": "2026-07-10",
-      "endDate": null,
-      "time": null,
-      "venue": null,
+      "endDate": "2026-07-12",
+      "time": "10am to 8pm",
+      "venue": "Royal Thai Embassy, Singapore",
       "url": null,
-      "description": "AI product campaign creation workshop",
-      "source": null,
-      "key": "learnhowtocreateyourownproductcampaignaiimage|2026-07-10",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "[Parenting Workshop] Listening Before Correcting",
-      "category": "workshop",
-      "date": "2026-07-10",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Parenting workshop on effective listening techniques",
-      "source": null,
-      "key": "parentingworkshoplisteningbeforecorrecting|2026-07-10",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "From Plate to Insight: How AI Understands Your Food",
-      "category": "workshop",
-      "date": "2026-07-10",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Workshop on AI food analysis and insights",
-      "source": null,
-      "key": "fromplatetoinsighthowaiunderstandsyourfood|2026-07-10",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Friday Evening Reading @ SOD Cafe (Upper Thomson)",
-      "category": "event",
-      "date": "2026-07-10",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "SOD Cafe, 183 Upper Thomson Road, Longhaus, #01-05, 574429, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315555515/",
-      "description": "Evening reading group meetup. Bring a book, buy drinks/food, read together with introductions and sharing.",
-      "source": "We Read Together",
-      "key": "fridayeveningreadingsodcafeupperthomson|2026-07-10",
-      "firstSeen": "2026-07-07"
+      "description": "Thai Festival featuring food booths and cultural activities along Orchard Road.",
+      "source": "Royal Thai Embassy, Singapore",
+      "key": "thaifestival|2026-07-10",
+      "firstSeen": "2026-07-11"
     },
     {
       "title": "Asia Art & Craft Fair 2026",
@@ -913,6 +770,71 @@
       "firstSeen": "2026-07-07"
     },
     {
+      "title": "Knuckles & Notch at IAF 2026",
+      "category": "market",
+      "date": "2026-07-11",
+      "endDate": "2026-07-13",
+      "time": null,
+      "venue": "IAF (Booth B12)",
+      "url": null,
+      "description": "Knuckles & Notch showcase new works by collaborating artists and limited edition chunky book featuring Shane Tan's decades-spanning works.",
+      "source": "knucklesandnotch",
+      "key": "knucklesnotchatiaf2026|2026-07-11",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Saturday Afternoon Reading @ Holland Village (Keong Saik Bakery)",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": "3:00 PM",
+      "venue": "Keong Saik Bakery @ Holland Village (Chip Bee), 44 Jln Merah Saga, #01-42, Singapore 278116",
+      "url": "https://www.meetup.com/we-read-together/events/315596932/",
+      "description": "Book reading meetup group. Bring a book, buy drinks/food, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "saturdayafternoonreadinghollandvillagekeongsaikbakery|2026-07-11",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Modern Families, Real Conversations",
+      "category": "event",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Workshop on modern families and real conversations",
+      "source": null,
+      "key": "modernfamiliesrealconversations|2026-07-11",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Enchanted Odyssey Music By Del Angel Music",
+      "category": "music",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Music performance from Enchantia to Nanyang",
+      "source": null,
+      "key": "enchantedodysseymusicbydelangelmusic|2026-07-11",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Harmony Through Heritage: Woven Identities",
+      "category": "exhibition",
+      "date": "2026-07-11",
+      "endDate": "2026-07-12",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Exhibition on woven identities and heritage",
+      "source": null,
+      "key": "harmonythroughheritagewovenidentities|2026-07-11",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "Weekend Culture",
       "category": "festival",
       "date": "2026-07-12",
@@ -952,6 +874,58 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "Sunday Reading @ Thus Coffee (Upper Thomson)",
+      "category": "event",
+      "date": "2026-07-12",
+      "endDate": null,
+      "time": "10:00 AM",
+      "venue": "Thus Coffee, 4 Jalan Kuras, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315598907/",
+      "description": "Book reading meetup group. Bring a book, buy drinks/food, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "sundayreadingthuscoffeeupperthomson|2026-07-12",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "The Weekend Comedy Show: Sons of Singapore",
+      "category": "theatre",
+      "date": "2026-07-12",
+      "endDate": null,
+      "time": null,
+      "venue": "East Coast Comedy Club",
+      "url": null,
+      "description": "Comedy show by East Coast Comedy Club (M18 rated)",
+      "source": null,
+      "key": "theweekendcomedyshowsonsofsingapore|2026-07-12",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "PARADE by Makers Market at PLQ Mall",
+      "category": "market",
+      "date": "2026-07-13",
+      "endDate": null,
+      "time": "11AM - 10PM",
+      "venue": "PLQ Mall",
+      "url": "https://invade.co/spaces/plq-mall-pushcarts-by-parade-jul-sep-2026",
+      "description": "Weekly pushcart market with unique crafts and artisanal lifestyle merchandise.",
+      "source": "INVADE",
+      "key": "paradebymakersmarketatplqmall|2026-07-13",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Dhoby Ghaut Makers' Market",
+      "category": "market",
+      "date": "2026-07-13",
+      "endDate": null,
+      "time": "11AM - 4PM",
+      "venue": "Staytion Lifestyle Centre, Dhoby Ghaut MRT",
+      "url": "https://invade.co/spaces/makers-market-dhoby-ghaut-jul-aug",
+      "description": "Weekly curated artisanal market featuring local makers and crafts.",
+      "source": "INVADE",
+      "key": "dhobyghautmakersmarket|2026-07-13",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "JEWELLERY WATCHES - JULY",
       "category": "event",
       "date": "2026-07-14",
@@ -978,6 +952,19 @@
       "firstSeen": "2026-07-07"
     },
     {
+      "title": "Why What You Read Determines What AI Can Do for You",
+      "category": "workshop",
+      "date": "2026-07-14",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Workshop on reading and AI prompting skills",
+      "source": null,
+      "key": "whywhatyoureaddetermineswhataicandoforyou|2026-07-14",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "Girls' Night Out Soirée at Madame Claude",
       "category": "event",
       "date": "2026-07-15",
@@ -989,6 +976,19 @@
       "source": null,
       "key": "girlsnightoutsoireatmadameclaude|2026-07-15",
       "firstSeen": "2026-06-23"
+    },
+    {
+      "title": "Mayer Mistral SG61 \"Together As One\" Promotion",
+      "category": "event",
+      "date": "2026-07-15",
+      "endDate": "2026-08-31",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Mayer Mistral promotion campaign",
+      "source": null,
+      "key": "mayermistralsg61togetherasonepromotion|2026-07-15",
+      "firstSeen": "2026-07-11"
     },
     {
       "title": "Guardian Wellness Fiesta",
@@ -1134,6 +1134,19 @@
       "firstSeen": "2026-07-07"
     },
     {
+      "title": "Book Doctor Session at Casual Poet Library",
+      "category": "workshop",
+      "date": "2026-07-18",
+      "endDate": null,
+      "time": "4:30 PM – 5:30 PM",
+      "venue": "Casual Poet Library",
+      "url": "https://www.instagram.com/sgwritersfest/",
+      "description": "Session with Book Doctor @whatmaisiesaid offering new perspectives on reading and book recommendations. Limited slots available.",
+      "source": "@sgwritersfest",
+      "key": "bookdoctorsessionatcasualpoetlibrary|2026-07-18",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "Quiet Readers Club Session",
       "category": "event",
       "date": "2026-07-19",
@@ -1160,6 +1173,19 @@
       "firstSeen": "2026-07-07"
     },
     {
+      "title": "Quiet Readers Club Reading Session",
+      "category": "event",
+      "date": "2026-07-19",
+      "endDate": null,
+      "time": "11:00 AM - 2:00 PM",
+      "venue": "Studio Five Spaces, 10 Gambas Cres, Two Terrace Units, S757003",
+      "url": "https://www.instagram.com/quietreadersclub",
+      "description": "Quiet reading session followed by small-group discussions. $18 per pax, $16 with first-time friend.",
+      "source": "Quiet Readers Club",
+      "key": "quietreadersclubreadingsession|2026-07-19",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "Non-Religious Meaning-Making Discussion with Robin",
       "category": "event",
       "date": "2026-07-20",
@@ -1171,6 +1197,19 @@
       "source": "Stranger Convos",
       "key": "nonreligiousmeaningmakingdiscussionwithrobin|2026-07-20",
       "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Non-Religion and Meaning-Making in Singapore",
+      "category": "event",
+      "date": "2026-07-20",
+      "endDate": null,
+      "time": "7:00 PM",
+      "venue": "Stranger Conversations, 195 Pearl's Hill Terrace #02-38D",
+      "url": "https://www.instagram.com/strangerconvos",
+      "description": "Community discussion on non-religious worldviews and finding meaning. Contribution: $15.",
+      "source": "Stranger Conversations",
+      "key": "nonreligionandmeaningmakinginsingapore|2026-07-20",
+      "firstSeen": "2026-07-11"
     },
     {
       "title": "Asian Ceramics & Works of Art - August",
@@ -1251,6 +1290,19 @@
       "firstSeen": "2026-07-07"
     },
     {
+      "title": "Singapore Gaga",
+      "category": "event",
+      "date": "2026-07-24",
+      "endDate": null,
+      "time": null,
+      "venue": "Swee Lee Clarke Quay",
+      "url": null,
+      "description": "Tan Pin Pin's acclaimed documentary on Singapore's aural landscape. Singapore's first documentary with cinematic release.",
+      "source": null,
+      "key": "singaporegaga|2026-07-24",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "INTERIORS COLLECTIBLES",
       "category": "event",
       "date": "2026-07-25",
@@ -1275,6 +1327,19 @@
       "source": "Hotlotz",
       "key": "interiorscollectiblesjuly|2026-07-25",
       "firstSeen": "2026-07-04"
+    },
+    {
+      "title": "Soul Scribbles: A Writing Circle About Joy",
+      "category": "workshop",
+      "date": "2026-07-25",
+      "endDate": null,
+      "time": "6PM-9PM",
+      "venue": "Casual Poet Library",
+      "url": "bit.ly/soul-scribbles-signup",
+      "description": "Explore joy through poems, gentle writing prompts, and moments of stillness. Sign up for this reflective writing experience.",
+      "source": "ginkgo.wellness",
+      "key": "soulscribblesawritingcircleaboutjoy|2026-07-25",
+      "firstSeen": "2026-07-11"
     },
     {
       "title": "Catching Light: A Gentle Beading Workshop",
@@ -1537,6 +1602,32 @@
       "firstSeen": "2026-07-04"
     },
     {
+      "title": "Gillman Gatherings - Singapore Gallery Month",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "1:00 PM – 7:00 PM",
+      "venue": "Gillman Barracks",
+      "url": "https://www.instagram.com/singaporegallerymonth/",
+      "description": "Full day celebration of contemporary art with gallery exhibitions, artist talks, tours, and activities. Free entry for all ages and pets.",
+      "source": "@singaporegallerymonth",
+      "key": "gillmangatheringssingaporegallerymonth|2026-08-15",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Singapore Gallery Month",
+      "category": "festival",
+      "date": "2026-08-15",
+      "endDate": "2026-09-13",
+      "time": null,
+      "venue": "Multiple galleries across Singapore",
+      "url": "https://www.instagram.com/p/DaUMQEtJ0J6/",
+      "description": "Curated art programme featuring collectors' home tours, private art advisory sessions, artist studio visits. Patron's Pass includes SGD500 art credits.",
+      "source": "Singapore Gallery Month",
+      "key": "singaporegallerymonth|2026-08-15",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "and periwinkle blues",
       "category": "exhibition",
       "date": "2026-08-16",
@@ -1693,6 +1784,84 @@
       "firstSeen": "2026-07-07"
     },
     {
+      "title": "Collectors Home Tour | An Afternoon with Arts Patrons",
+      "category": "event",
+      "date": "2026-09-06",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/collectors-home-tour-an-afternoon-with-arts-patrons/",
+      "description": "Intimate home tour exploring contemporary Southeast Asian art collection and role of art in everyday life.",
+      "source": "Art Galleries Association Singapore",
+      "key": "collectorshometouranafternoonwithartspatrons|2026-09-06",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Collectors Home Tour | The Malcolm Road Collection",
+      "category": "event",
+      "date": "2026-09-12",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/collectors-home-tours-the-malcolm-road-collection/",
+      "description": "Guided tour of a historical black and white property featuring a curated collection of Asian art and antiquities.",
+      "source": "Art Galleries Association Singapore",
+      "key": "collectorshometourthemalcolmroadcollection|2026-09-12",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Meet the Artist | Boedi Widjaja",
+      "category": "event",
+      "date": "2026-09-12",
+      "endDate": null,
+      "time": null,
+      "venue": "Boedi Widjaja's home studio",
+      "url": "https://agas.org.sg/events/meet-the-artist-boedi-widjaja/",
+      "description": "Intimate session with artist Boedi Widjaja discussing his artistic practice and recent projects in his studio.",
+      "source": "Art Galleries Association Singapore",
+      "key": "meettheartistboediwidjaja|2026-09-12",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Patron's Brunch: Eko Nugroho Exhibition Workshop Tour",
+      "category": "event",
+      "date": "2026-09-12",
+      "endDate": null,
+      "time": null,
+      "venue": "STPI",
+      "url": "https://agas.org.sg/events/patrons-brunch-eko-nugroho-exhibition-workshop-tour-2/",
+      "description": "Guided tour of Eko Nugroho's solo exhibition with exclusive workshop access and insights into the creative process.",
+      "source": "Art Galleries Association Singapore",
+      "key": "patronsbrunchekonugrohoexhibitionworkshoptour|2026-09-12",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Meet the Artist | Johann Fauzi",
+      "category": "event",
+      "date": "2026-09-13",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/meet-the-artist-johann-fauzi/",
+      "description": "Meet Singaporean artist Johann M. Fauzi to explore his immersive interior installations inspired by Baroque and Rococo aesthetics.",
+      "source": "Art Galleries Association Singapore",
+      "key": "meettheartistjohannfauzi|2026-09-13",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Collectors Home Tour | A Matrix of Art",
+      "category": "event",
+      "date": "2026-09-13",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/collectors-home-tour-a-matrix-of-art-as-environment/",
+      "description": "Glimpse into dynamic collection exploring intersections between art, space, and environment by Singapore-based architectural practice.",
+      "source": "Art Galleries Association Singapore",
+      "key": "collectorshometouramatrixofart|2026-09-13",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "trace03: life drawing x dance",
       "category": "workshop",
       "date": "2026-09-14",
@@ -1719,6 +1888,19 @@
       "firstSeen": "2026-06-16"
     },
     {
+      "title": "Chicken Illustration Workshop by Rachel Oon",
+      "category": "workshop",
+      "date": "2026-09-19",
+      "endDate": null,
+      "time": null,
+      "venue": "I.F. Gallery",
+      "url": "https://agas.org.sg/events/chicken-illustration-workshop-by-rachel-oon/",
+      "description": "Two-weekend workshop using clay, watercolour, and acrylic to create unique artworks inspired by A Tale of Cats and Birds.",
+      "source": "Art Galleries Association Singapore",
+      "key": "chickenillustrationworkshopbyracheloon|2026-09-19",
+      "firstSeen": "2026-07-11"
+    },
+    {
       "title": "Makers Market at PLQ Plaza",
       "category": "market",
       "date": "2026-09-25",
@@ -1732,30 +1914,30 @@
       "firstSeen": "2026-06-23"
     },
     {
-      "title": "Travel Ephemera Picnic & Zine Circle",
-      "category": "market",
-      "date": null,
+      "title": "Lana Del Rey Concert",
+      "category": "music",
+      "date": "2026-10-11",
       "endDate": null,
       "time": null,
-      "venue": null,
-      "url": "https://www.instagram.com/p/DZgws7Lic_t/",
-      "description": "Intimate gathering to exchange travel-inspired stationery, ephemera, and memories. Create a simple travel zine together.",
-      "source": "@onigiriandtoast",
-      "key": "travelephemerapicniczinecircle|",
-      "firstSeen": "2026-06-16"
+      "venue": "Zone 4, Padang Stage",
+      "url": null,
+      "description": "Lana Del Rey live performance. Tickets from $198.",
+      "source": null,
+      "key": "lanadelreyconcert|2026-10-11",
+      "firstSeen": "2026-07-11"
     },
     {
-      "title": "Hand&Wheel Pottery Workshop - June",
-      "category": "workshop",
-      "date": null,
+      "title": "wakeup&dance!",
+      "category": "music",
+      "date": "2027-01-24",
       "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://www.instagram.com/p/DYgavFbmCZu/",
-      "description": "Pottery workshop tickets launching May 20. Limited slots. SG Culture Pass accepted.",
-      "source": "Common Touch Craft",
-      "key": "handwheelpotteryworkshopjune|",
-      "firstSeen": "2026-06-16"
+      "time": "9am to 1pm",
+      "venue": "SALT Fitness",
+      "url": null,
+      "description": "Sober, early morning electronic dance event. Sober. Early. Electric.",
+      "source": "The Breakfast Club Rave",
+      "key": "wakeupdance|2027-01-24",
+      "firstSeen": "2026-07-11"
     },
     {
       "title": "Quiet Readers Club Anniversary Book Swap",
@@ -2003,6 +2185,45 @@
       "source": "Weekend Culture",
       "key": "singaporegagascreening|",
       "firstSeen": "2026-07-07"
+    },
+    {
+      "title": "Self Portrait Workshop with Nydia Shiang",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": "3 hours",
+      "venue": null,
+      "url": null,
+      "description": "Learn self-portrait photography through creative direction, posing and lighting techniques. Studio-quality tips and tricks included.",
+      "source": null,
+      "key": "selfportraitworkshopwithnydiashiang|",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Hiroshi Sugimoto: Form Is Emptiness",
+      "category": "exhibition",
+      "date": null,
+      "endDate": "2026-10-04",
+      "time": null,
+      "venue": "SAM",
+      "url": null,
+      "description": "First major survey exhibition in Southeast Asia. 63 works from 11 series and 14 fossils tracing five decades of artistic inquiry.",
+      "source": null,
+      "key": "hiroshisugimotoformisemptiness|",
+      "firstSeen": "2026-07-11"
+    },
+    {
+      "title": "Passion is Volcanic: Desire in Southeast Asian Art",
+      "category": "exhibition",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "National Gallery",
+      "url": null,
+      "description": "Exhibition tackling sensuality, spirituality and identity in Southeast Asian art. R18. No photos allowed.",
+      "source": null,
+      "key": "passionisvolcanicdesireinsoutheastasianart|",
+      "firstSeen": "2026-07-11"
     }
   ]
 }
