@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T14:06:35.599Z",
-  "totalEvents": 51,
+  "lastUpdated": "2026-07-11T13:38:17.384Z",
+  "totalEvents": 53,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -484,6 +484,19 @@
       "firstSeen": "2026-06-30"
     },
     {
+      "title": "Travel Ephemera Picnic & Zine Circle",
+      "category": "market",
+      "date": "2026-07-11",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://www.instagram.com/p/DZgws7Lic_t/",
+      "description": "Intimate gathering to exchange travel-inspired stationery, ephemera, and memories. Create a simple travel zine together.",
+      "source": "@onigiriandtoast",
+      "key": "travelephemerapicniczinecircle|",
+      "firstSeen": "2026-06-16"
+    },
+    {
       "title": "Weekend Culture",
       "category": "festival",
       "date": "2026-07-12",
@@ -664,6 +677,19 @@
       "firstSeen": "2026-06-14",
       "category": "exhibition",
       "endDate": "2026-08-23"
+    },
+    {
+      "title": "Figure Drawing Sessions",
+      "category": "workshop",
+      "date": null,
+      "endDate": "2026-07-29",
+      "time": null,
+      "venue": "195 Pearl's Hill Terrace, 01-06",
+      "url": "https://www.instagram.com/p/DaAPWEljurL/",
+      "description": "Figure drawing sessions for July. Explore the human figure through drawing. All materials provided.",
+      "source": "Arterly Obsessed",
+      "key": "figuredrawingsessions|",
+      "firstSeen": "2026-06-27"
     }
   ]
 }
