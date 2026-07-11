@@ -316,6 +316,17 @@ async function main() {
   }
 
   log(`Done. ${newEvents.length} events found this run, ${addedCount} new ones added for review. Now: ${freshPending.length} pending, ${liveApproved.length} live on sigout.`);
+
+  // ---------- 6. Hand off to the curator ----------
+  // curate.mjs judges everything pending against taste.md and publishes /
+  // rejects / holds (shadow switch lives in curator-config.json). It runs as
+  // a separate process so a curator failure can never lose the scrape.
+  if (fs.existsSync("curate.mjs")) {
+    const { spawnSync } = await import("node:child_process");
+    log("Handing off to the curator (curate.mjs)…");
+    const run = spawnSync("node", ["curate.mjs"], { stdio: "inherit" });
+    if (run.status !== 0) log(`Curator exited with status ${run.status} — scrape results are kept regardless.`);
+  }
 }
 
 main().catch((e) => { console.error("Run failed:", e); process.exit(1); });
