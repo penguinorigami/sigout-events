@@ -1,64 +1,69 @@
-# Curator report — backlog applied 2026-07-03 (live from next run)
+# Curator report — 2026-07-14 (live)
 
-The calibration pass was reviewed by Jane and applied with three overrides:
-We Read Together meetups published individually, David Hockney published
-(dates/venue researched and filled in), Zarina + ACM guided tours rejected.
-taste.md was updated to encode all three. The curator now runs LIVE after
-every scrape.
+The most recent auto-curation run. Every decision and its reason. To change
+future behaviour, edit taste.md. To overrule any single decision, use /curate.
 
-**40 published → sigout now lists 51 · 67 rejected/duplicates recorded · 11 left pending (undated)**
+**13 published · 29 rejected · 8 left for Jane · 5 duplicates collapsed**
 
-## Published
-- **Open Writing Sessions** (workshop · 2026-05-22 → 2026-07-31)
-- **Maps | Directions to My House** (event · 2026-06-06 → 2026-08-01)
-- **STPI Annual Special Exhibition | Zarina: Directions to My House** (exhibition · 2026-06-06 → 2026-08-01)
-- **Arty Afternoon | Timber Textures: Charcoal Rubbings** (workshop · 2026-06-13 → 2026-08-01)
-- **Fragments of a Living City by Anthony Chua Say Hua** (exhibition · 2026-06-13 → 2026-07-13)
-- **Hiroshi Sugimoto: Form Is Emptiness** (exhibition · 2026-06-16 → 2026-10-04)
-- **Chine Collé Class | Collected Recollections** (workshop · 2026-06-17 → 2026-07-11)
-- **Crosscurrents: Masterpieces of Mughal, Safavid and Ottoman Art from the Musée du Louvre** (exhibition · 2026-06-19 → 2027-01-24)
-- **Collagraphy Class | Mapping Memories** (workshop · 2026-06-20 → 2026-07-08)
-- **Of Light and Matter** (exhibition · 2026-06-26 → 2026-07-11)
-- **Raffles Heritage Sunset Tour 2026** (event · 2026-06-26 → 2026-08-01)
-- **Tuesday Reading @ Clementi** (event · 2026-07-07)
-- **14th World Oyster Festival** (festival · 2026-07-01 → 2026-07-31)
-- **Wednesday Evening Reading @ Waterloo St** (event · 2026-07-08)
-- **Malu Malu Indie Club** (music · 2026-07-03 → 2026-07-04)
-- **The Elemental Channel Immersion** (workshop · 2026-07-04 → 2026-07-11)
-- **Pocket Fest** (festival · 2026-07-04 → 2026-07-05)
-- **Craft Fest SG REMIX** (market · 2026-07-04 → 2026-07-05)
-- **Romanticisation of the Tropics: Batik Paintings by Chuah Thean Teng, Choo Keng Kwang and Seah Kim Joo** (exhibition · 2026-07-04 → 2026-07-19)
-- **Contemplative Materials** (exhibition · 2026-07-04 → 2026-07-26)
-- **Journaling Club** (workshop · 2026-07-04)
-- **Spontaneous Hangout Night** (event · 2026-07-04)
-- **Saturday Afternoon Reading @ Holland Village** (event · 2026-07-04)
-- **Saturday Afternoon Reading @ Italian Coffee Lab** (event · 2026-07-04)
-- **Gao Gao Party: A Pet-Friendly New Bahru Party** (event · 2026-07-04)
-- **Cityluxe x Thorn Key Whisk Wonder: A Journaling RPG Afternoon** (workshop · 2026-07-11)
-- **Cityluxe Fountain Pen Club Meet-Up** (event · 2026-07-11)
-- **Fo(u)r Humours** (exhibition · 2026-07-11 → 2026-09-12)
-- **Dennis Lee Piano Series - Inaugural Concert** (music · 2026-07-11)
-- **Weekend Culture** (festival · 2026-07-12 → 2026-07-31)
-- **The Kyoto Travel Journal: Capturing the Soul of a Journey Through Sketches** (workshop · 2026-07-18)
-- **Silent Book Club** (event · 2026-07-18)
-- **Grey Ying's 1st Community Event: 別為愛 The Art Of Letting Go** (music · 2026-07-18)
-- **Poetry: The Quiet Between the Words** (event · 2026-07-18)
-- **Catching Light: A Gentle Beading Workshop** (workshop · 2026-07-26)
-- **A fool rushing in.** (event · 2026-07-31 → 2026-08-29)
-- **Singapore Gallery Month** (festival · 2026-08-13 → 2026-09-15)
-- **ART AGAIN THIRD ANNIVERSARY SHOW** (exhibition · 2026-08-22)
-- **trace03: life drawing x dance** (workshop · 2026-09-14)
-- **David Hockney: Bigger & Closer (not smaller & further away)** (exhibition · 2026-02-13 → 2026-08-31)
+## Published to sigout
+- **Speed Friending Fridays — Vybes Socials Season 1 Episode 5** (event) — Speed friending at Stranger Convos, 195 Pearl's Hill Terrace fits indie community room socials.
+- **Voyage Issue 02 Launch Party - "Winds, Gathering"** (event) — Literary journal launch at Casual Poet Library fits indie literary community room taste.
+- **Non-Religious Singapore: Finding Meaning Beyond Faith** (event) — Discussion at Stranger Conversations fits indie community room taste.
+- **Soul Scribbles: Exploring Joy** (workshop) — Creative writing workshop at Casual Poet Library fits indie community room taste.
+- **ALCHEMICAL DREAMSPACE: The Home Within** (workshop) — Cacao/blue lotus circle at The Living Room SG fits indie wellness-with-soul community rooms.
+- **Book Doctor Session at Casual Poet Library** (workshop) — Book prescription session at Casual Poet Library fits indie community room taste.
+- **Saturday Brunch Reading @ Five Oars Coffee Roasters (Tanjong Pagar)** (event) — We Read Together per-café meetups are listed individually per taste rule.
+- **Quiet Readers Club Session** (event) — Silent/quiet reading community session fits community-with-charm taste.
+- **PSYCHEDELIC BREATH: Solar Heart** (workshop) — Breathwork circle at The Living Room SG fits wellness-with-soul taste.
+- **Stranger Sounds Session** (music) — Music-sharing circle at Stranger Conversations fits indie community room taste.
+- **Chicken Illustration Workshop by Rachel Oon** (workshop) — Craft workshop tied to an indie gallery exhibition fits 'craft with character'.
+- **International Art Fair Singapore (IAF) 2026 - Knuckles & Notch Booth** (market) — Independent artist booth at an art fair fits indie gallery/real-artist taste.
+- **Singapore Gaga Film Screening** (event) — Indie documentary screening on Singapore's sound culture fits arts festival taste.
 
-## Still pending — need dates
-- **Travel Ephemera Picnic & Zine Circle** (market) — add a date via /curate to publish
-- **Hand&Wheel Pottery Workshop - June** (workshop) — add a date via /curate to publish
-- **Quiet Readers Club Anniversary Book Swap** (event) — add a date via /curate to publish
-- **Botero: Heart of Volume** (exhibition) — add a date via /curate to publish
-- **Botero: A Life in Fullness** (exhibition) — add a date via /curate to publish
-- **Broth & Beyond Floral Art Jamming Session** (workshop) — add a date via /curate to publish
-- **Common Touch Craft July Shows** (theatre) — add a date via /curate to publish
-- **Art Workshops - SG Culture Pass** (workshop) — add a date via /curate to publish
-- **Electric Playa** (music) — add a date via /curate to publish
-- **Figure Drawing Sessions** (workshop) — add a date via /curate to publish
-- **Vibe First, Swipe Later: Who Stole Cupid's Arrow? (21st & 22nd running)** (event) — add a date via /curate to publish
+## Rejected
+- **FIFA World Cup Live Screenings & Street Food Fair** (event) — Kids football clinic and mall promo fair — hard no for family/kids and corporate mall activations.
+- **PARADE by Makers Market at PLQ Mall** (market) — Weekly PLQ pushcart maker market is the explicitly excluded INVADE circuit.
+- **Dhoby Ghaut Makers' Market** (market) — Dhoby Ghaut weekly pushcart market is the explicitly excluded INVADE circuit.
+- **Tuesday Afternoon Reading @ Lavender** (event) — Per-location We Read Together session covered by published umbrella card.
+- **Why What You Read Determines What AI Can Do for You** (workshop) — Thin-info AI/reading workshop with no venue or real detail reads as corporate promo.
+- **Wednesday Evening Reading @ Dewgather, Star Vista (Buona Vista)** (event) — Per-location We Read Together session covered by published umbrella card.
+- **Wednesday Evening Reading @ Old Chang Kee (Bugis)** (event) — Per-location We Read Together session covered by published umbrella card.
+- **Mayer Mistral SG61 Together As One Promotion** (event) — Corporate brand promo campaign, not a real event.
+- **Guardian Wellness Fiesta** (market) — Guardian-branded wellness fiesta is a corporate/retail promo, not indie wellness.
+- **The Barn beSPOKE Sale** (market) — Reads as a retail bespoke sale rather than a curated market with a point of view.
+- **Leadership, Growth and Reinvention in the AI Era** (workshop) — Corporate leadership/AI workshop with no venue, thin-info promo.
+- **Cleanse-Reset** (workshop) — Generic wellness workshop with no venue or practitioner detail, thin-info promo.
+- **Threads of Fire Spice at Man Fu Yuan** (event) — Restaurant four-hands dining collab is menu marketing, hard no.
+- **Passive Income Streams Using AI with Mangla Sachdev** (workshop) — Corporate AI passive-income workshop with no venue, thin-info promo.
+- **Glow Festival** (festival) — Arena-style headliner beach festival with Jason Derulo/Alessia Cara is a hard-no.
+- **Singapore Sabercon 2026** (workshop) — Cosplay/hobby con is a hard-no immersive commercial spectacle.
+- **Discover the vibrant world of Uwe Klauke at W Singapore** (exhibition) — Hotel lobby art display isn't a serious institution or indie gallery show.
+- **CÉ LA VI Singapore Presents Noir Blanc Brunch** (event) — Branded gin brunch promo at a club is a hard-no.
+- **Melodies of the Straits Saturday Brunch Buffet** (event) — Restaurant brunch buffet marketing, not food-with-a-story.
+- **Live Performance: C2AC, Chowk, Secret Melur** (music) — Session under already-published Weekend Culture series is covered by published card.
+- **Interiors Collectibles - August, Fine Art Focus** (event) — Hotlotz auction is a hard-no collector sale.
+- **One Woman's Wardrobe: Fashion's Playground** (event) — Hotlotz auction is a hard-no collector sale.
+- **Watches Timepieces - September** (event) — Hotlotz auction is a hard-no collector sale.
+- **Interiors Collectibles/Coins Banknotes - September** (event) — Auction/collector sale — hard no.
+- **Collectors Home Tour | An Afternoon with Arts Patrons** (event) — Plain guided/home tour of a private collection, not a curated show — tours are out.
+- **Patron's Brunch: Eko Nugroho Exhibition Workshop Tour** (event) — Plain guided tour of an exhibition — explicitly excluded even for STPI shows.
+- **Collectors Home Tours | The Malcolm Road Collection** (event) — Plain guided home tour of a private collection — tours are out.
+- **Collectors Home Tour | A Matrix of Art** (event) — Plain guided home tour of a private collection — tours are out.
+- **Lana Del Rey Concert** (music) — Arena headliner concert — hard no regardless of fame.
+
+## Left in pending for Jane (unsure)
+- **Voices of the World (VOTW)** (music) — Taste-plausible arts festival but missing venue information.
+- **Common Room** (exhibition) — Exhibition category is plausible but no venue or real detail to confirm fit.
+- **528 presents: SEA RAE (Live from NYC)** (music) — Intimate live music could fit the music bar taste but missing venue to confirm.
+- **Play Together: Guitar Orchestra** (music) — Taste-plausible music event but missing venue and detail.
+- **Self Portrait Workshop with Nydia Thakid** (workshop) — Craft workshop plausible but venue missing.
+- **Meet the Artist | Boedi Widjaja** (event) — Exclusive patron-only studio visit, unclear if it's genuine public artist-talk programming.
+- **Meet the Artist | Johann Fauzi** (event) — Exclusive patron-only studio visit, unclear if it's genuine public artist-talk programming.
+- **Soak Sound - Crystal Bowl Sound Healing** (workshop) — Sound healing fits wellness taste but has no date, so it must stay pending per mechanical rule.
+
+## Duplicates collapsed
+- Hiroshi Sugimoto: Form Is Emptiness → kept: already published: Hiroshi Sugimoto: Form Is Emptiness
+- 別為愛: The Art Of Letting Go → kept: already published: Grey Ying's 1st Community Event: 別為愛 The Art Of Letting Go
+- Rainbow Fictioneers Open Writing Sessions → kept: already published: Open Writing Sessions
+- Gillman Gatherings - Singapore Gallery Month Opening → kept: already published: Singapore Gallery Month
+- Singapore GaGa Screening → kept: Singapore Gaga Film Screening
