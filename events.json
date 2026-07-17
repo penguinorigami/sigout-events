@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T23:29:32.747Z",
-  "totalEvents": 43,
+  "lastUpdated": "2026-07-17T23:26:39.179Z",
+  "totalEvents": 55,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -94,6 +94,19 @@
       "key": "wereadtogetherreadingmeetups|2026-06-11"
     },
     {
+      "title": "Xue Song: Where is the Mountain?",
+      "category": "exhibition",
+      "date": "2026-06-12",
+      "endDate": "2026-08-22",
+      "time": "10:00-19:00",
+      "venue": "Kwai Fung Hin Art Gallery, 30 Beach Road, #01-01, Singapore 189763",
+      "url": "https://agas.org.sg/events/xue-song-where-is-the-mountain/",
+      "description": "Retrospective of Chinese contemporary artist Xue Song's 'New Landscape' series",
+      "source": "Kwai Fung Hin Art Gallery",
+      "key": "xuesongwhereisthemountain|2026-06-12",
+      "firstSeen": "2026-07-18"
+    },
+    {
       "title": "Arty Afternoon | Timber Textures: Charcoal Rubbings",
       "category": "workshop",
       "date": "2026-06-13",
@@ -144,6 +157,19 @@
       "source": null,
       "key": "rafflesheritagesunsettour2026|2026-06-26",
       "firstSeen": "2026-06-27"
+    },
+    {
+      "title": "Shadows, Signals, and the Line: Abstract Expressionism in Singapore",
+      "category": "exhibition",
+      "date": "2026-06-29",
+      "endDate": "2026-08-23",
+      "time": null,
+      "venue": "The Private Museum",
+      "url": "https://agas.org.sg/events/shadows-signals-and-the-line-abstract-expressionism-in-singapore/",
+      "description": "Exhibition exploring development of abstraction in Singapore with twelve Singaporean artists",
+      "source": "The Private Museum",
+      "key": "shadowssignalsandthelineabstractexpressionisminsingapore|2026-06-29",
+      "firstSeen": "2026-07-18"
     },
     {
       "title": "14th World Oyster Festival",
@@ -209,32 +235,6 @@
       "source": null,
       "key": "weekendculture|2026-07-12",
       "firstSeen": "2026-06-27"
-    },
-    {
-      "title": "ALCHEMICAL DREAMSPACE: The Home Within",
-      "category": "workshop",
-      "date": "2026-07-14",
-      "endDate": null,
-      "time": "19:30-21:00",
-      "venue": "The Living Room SG, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
-      "url": "https://www.instagram.com/gaiarisingwithmalvina",
-      "description": "New moon cacao & blue lotus circle workshop",
-      "source": "Gaia Rising with Malvina",
-      "key": "alchemicaldreamspacethehomewithin|2026-07-14",
-      "firstSeen": "2026-07-14"
-    },
-    {
-      "title": "Speed Friending Fridays — Vybes Socials Season 1 Episode 5",
-      "category": "event",
-      "date": "2026-07-17",
-      "endDate": null,
-      "time": "7 PM – 9 PM ++",
-      "venue": "Stranger Convos, 195 Pearl's Hill Terrace #02-38D",
-      "url": "https://www.instagram.com/p/DaRy-AGkbrm/",
-      "description": "Speed friending event with guided conversations to help strangers connect. Early bird $24, regular $28.",
-      "source": "Vybes Socials",
-      "key": "speedfriendingfridaysvybessocialsseason1episode5|2026-07-17",
-      "firstSeen": "2026-07-14"
     },
     {
       "title": "International Art Fair Singapore (IAF) 2026 - Knuckles & Notch Booth",
@@ -354,6 +354,45 @@
       "firstSeen": "2026-07-14"
     },
     {
+      "title": "Sunday Reading @ Jurong",
+      "category": "event",
+      "date": "2026-07-19",
+      "endDate": null,
+      "time": "11:00 AM",
+      "venue": "Huggs Coffee (Ng Teng Fong Hospital), 1 Jurong East Street 21, #02-32A, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315721421/",
+      "description": "Small group reading session at a cafe. Bring a book, buy a drink/bite, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "sundayreadingjurong|2026-07-19",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Sunday Reading @ Lilac Oak (Somerset)",
+      "category": "event",
+      "date": "2026-07-19",
+      "endDate": null,
+      "time": "14:30",
+      "venue": "Lilac Oak | Vegan Café Bakes, 71 Oxley Rise, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315665328/",
+      "description": "Small group reading session at a cafe. Bring a book, buy a drink/bite, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "sundayreadinglilacoaksomerset|2026-07-19",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Sunday Afternoon Reading @ Jalan Besar",
+      "category": "event",
+      "date": "2026-07-19",
+      "endDate": null,
+      "time": "16:00",
+      "venue": "Ms Durian | Speciality Bakery Cafe, 11 Kelantan Rd, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315600752/",
+      "description": "Small group reading session at a cafe. Bring a book, buy a drink/bite, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "sundayafternoonreadingjalanbesar|2026-07-19",
+      "firstSeen": "2026-07-18"
+    },
+    {
       "title": "Non-Religious Singapore: Finding Meaning Beyond Faith",
       "category": "event",
       "date": "2026-07-20",
@@ -404,6 +443,19 @@
       "source": "Stranger Sounds",
       "key": "strangersoundssession|2026-07-25",
       "firstSeen": "2026-07-14"
+    },
+    {
+      "title": "Shokudo Club (Pop-up)",
+      "category": "event",
+      "date": "2026-07-25",
+      "endDate": null,
+      "time": "2:00 PM - 6:00 PM",
+      "venue": "NOWHERE Bathhouse, 14A Dempsey Road, Singapore 249669",
+      "url": "https://www.nowherebaths.com/events",
+      "description": "Pair your bath with refreshing rice koji amazake. Complimentary tasting or purchase bottles to complement your bathhouse visit.",
+      "source": "NOWHERE",
+      "key": "shokudoclubpopup|2026-07-25",
+      "firstSeen": "2026-07-18"
     },
     {
       "title": "Catching Light: A Gentle Beading Workshop",
@@ -458,6 +510,58 @@
       "firstSeen": "2026-06-20"
     },
     {
+      "title": "Neha Vedpathak: Land, Body, Spirit",
+      "category": "exhibition",
+      "date": "2026-08-15",
+      "endDate": "2026-10-17",
+      "time": null,
+      "venue": "Sundaram Tagore Gallery",
+      "url": "https://agas.org.sg/events/neha-vedpathak-land-body-spirit/",
+      "description": "Solo exhibition by Indian-born, Detroit-based artist exploring traditional media transformation",
+      "source": "Sundaram Tagore Gallery",
+      "key": "nehavedpathaklandbodyspirit|2026-08-15",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Scenes from Another Life, Imagined Narratives inspired by film, art and pop culture",
+      "category": "exhibition",
+      "date": "2026-08-15",
+      "endDate": "2026-10-11",
+      "time": null,
+      "venue": "Yeo Workshop",
+      "url": "https://agas.org.sg/events/scenes-from-another-life-imagined-narratives-inspired-by-film-art-and-pop-culture/",
+      "description": "Group exhibition curated by Chelsea Pettitt featuring four artists exploring mise-en-scène",
+      "source": "Yeo Workshop",
+      "key": "scenesfromanotherlifeimaginednarrativesinspiredbyfilmartandpopculture|2026-08-15",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Counterweight: The Systems of Two",
+      "category": "exhibition",
+      "date": "2026-08-15",
+      "endDate": "2026-10-17",
+      "time": null,
+      "venue": "Whitestone Gallery",
+      "url": "https://agas.org.sg/events/counterweight-the-systems-of-two/",
+      "description": "Exhibition of artist duos Chow Lin and Ruobing Sai exploring physics as metaphor for shared existence",
+      "source": "Whitestone Gallery",
+      "key": "counterweightthesystemsoftwo|2026-08-15",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Singapore Night Festival 2026",
+      "category": "festival",
+      "date": "2026-08-21",
+      "endDate": "2026-09-05",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Multi-week night festival celebration",
+      "source": null,
+      "key": "singaporenightfestival2026|2026-08-21",
+      "firstSeen": "2026-07-18"
+    },
+    {
       "title": "ART AGAIN THIRD ANNIVERSARY SHOW",
       "category": "exhibition",
       "date": "2026-08-22",
@@ -469,6 +573,58 @@
       "source": "Art Again",
       "key": "artagainthirdanniversaryshow|2026-08-22",
       "firstSeen": "2026-06-16"
+    },
+    {
+      "title": "Settling Sounds: Field Recording in Tiong Bahru with Huijun Lu",
+      "category": "workshop",
+      "date": "2026-08-22",
+      "endDate": null,
+      "time": null,
+      "venue": "Tiong Bahru",
+      "url": "https://agas.org.sg/events/settling-sounds-field-recording-in-tiong-bahru-with-huijun-lu/",
+      "description": "Workshop exploring living textures of Tiong Bahru through sound and field recording",
+      "source": "Sullivan+Strumpf",
+      "key": "settlingsoundsfieldrecordingintiongbahruwithhuijunlu|2026-08-22",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "OUTSIDE LOOKING IN",
+      "category": "exhibition",
+      "date": "2026-08-27",
+      "endDate": "2026-10-17",
+      "time": null,
+      "venue": "LOY Contemporary Art Gallery",
+      "url": "https://agas.org.sg/events/outside-looking-in/",
+      "description": "Exhibition across photography, painting, and ceramics exploring boundaries of disciplines",
+      "source": "LOY Contemporary Art Gallery",
+      "key": "outsidelookingin|2026-08-27",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Meet the Artist | Luke Heng Pulp Editions",
+      "category": "event",
+      "date": "2026-08-28",
+      "endDate": null,
+      "time": null,
+      "venue": "Tagore Industrial Avenue",
+      "url": "https://agas.org.sg/events/meet-the-artist-luke-heng-pulp-editions/",
+      "description": "Intimate studio visit with artist Luke Heng exploring his working process and current practice",
+      "source": "Pulp Editions",
+      "key": "meettheartistlukehengpulpeditions|2026-08-28",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Responsive Art Therapy Workshop with The Red Pencil",
+      "category": "workshop",
+      "date": "2026-09-05",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://agas.org.sg/events/responsive-art-therapy-workshop-with-the-red-pencil/",
+      "description": "Art therapy workshop in exhibition spaces connecting public appreciation with personal wellness",
+      "source": "The Red Pencil",
+      "key": "responsivearttherapyworkshopwiththeredpencil|2026-09-05",
+      "firstSeen": "2026-07-18"
     },
     {
       "title": "trace03: life drawing x dance",

@@ -1,69 +1,54 @@
-# Curator report — 2026-07-14 (live)
+# Curator report — 2026-07-18 (live)
 
 The most recent auto-curation run. Every decision and its reason. To change
 future behaviour, edit taste.md. To overrule any single decision, use /curate.
 
-**13 published · 29 rejected · 8 left for Jane · 5 duplicates collapsed**
+**14 published · 18 rejected · 5 left for Jane · 3 duplicates collapsed**
 
 ## Published to sigout
-- **Speed Friending Fridays — Vybes Socials Season 1 Episode 5** (event) — Speed friending at Stranger Convos, 195 Pearl's Hill Terrace fits indie community room socials.
-- **Voyage Issue 02 Launch Party - "Winds, Gathering"** (event) — Literary journal launch at Casual Poet Library fits indie literary community room taste.
-- **Non-Religious Singapore: Finding Meaning Beyond Faith** (event) — Discussion at Stranger Conversations fits indie community room taste.
-- **Soul Scribbles: Exploring Joy** (workshop) — Creative writing workshop at Casual Poet Library fits indie community room taste.
-- **ALCHEMICAL DREAMSPACE: The Home Within** (workshop) — Cacao/blue lotus circle at The Living Room SG fits indie wellness-with-soul community rooms.
-- **Book Doctor Session at Casual Poet Library** (workshop) — Book prescription session at Casual Poet Library fits indie community room taste.
-- **Saturday Brunch Reading @ Five Oars Coffee Roasters (Tanjong Pagar)** (event) — We Read Together per-café meetups are listed individually per taste rule.
-- **Quiet Readers Club Session** (event) — Silent/quiet reading community session fits community-with-charm taste.
-- **PSYCHEDELIC BREATH: Solar Heart** (workshop) — Breathwork circle at The Living Room SG fits wellness-with-soul taste.
-- **Stranger Sounds Session** (music) — Music-sharing circle at Stranger Conversations fits indie community room taste.
-- **Chicken Illustration Workshop by Rachel Oon** (workshop) — Craft workshop tied to an indie gallery exhibition fits 'craft with character'.
-- **International Art Fair Singapore (IAF) 2026 - Knuckles & Notch Booth** (market) — Independent artist booth at an art fair fits indie gallery/real-artist taste.
-- **Singapore Gaga Film Screening** (event) — Indie documentary screening on Singapore's sound culture fits arts festival taste.
+- **Singapore Night Festival 2026** (festival) — Singapore Night Festival is a headline arts festival, strong yes.
+- **Sunday Reading @ Jurong** (event) — We Read Together per-cafe meetups are listed individually per rule.
+- **Sunday Reading @ Lilac Oak (Somerset)** (event) — We Read Together per-cafe meetups are listed individually per rule.
+- **Sunday Afternoon Reading @ Jalan Besar** (event) — We Read Together per-cafe meetups are listed individually per rule.
+- **Neha Vedpathak: Land, Body, Spirit** (exhibition) — Solo show at independent Sundaram Tagore Gallery fits strong-yes independent gallery rule.
+- **Scenes from Another Life, Imagined Narratives inspired by film, art and pop culture** (exhibition) — Curated group exhibition at independent Yeo Workshop fits strong-yes independent gallery rule.
+- **Counterweight: The Systems of Two** (exhibition) — Real artist duo show at independent Whitestone Gallery fits independent gallery rule.
+- **Settling Sounds: Field Recording in Tiong Bahru with Huijun Lu** (workshop) — Field recording workshop is craft/community with character, fits strong-yes indie programming.
+- **OUTSIDE LOOKING IN** (exhibition) — Cross-disciplinary show at independent LOY Contemporary Art Gallery fits taste.
+- **Meet the Artist | Luke Heng Pulp Editions** (event) — Intimate studio visit with an artist fits community/indie programming taste.
+- **Xue Song: Where is the Mountain?** (exhibition) — Independent gallery show by a real artist fits strong-yes institutions/galleries rule.
+- **Shadows, Signals, and the Line: Abstract Expressionism in Singapore** (exhibition) — Serious curated exhibition at an independent museum on Singapore abstraction.
+- **Responsive Art Therapy Workshop with The Red Pencil** (workshop) — Art therapy workshop with real practitioner fits wellness-with-soul rule.
+- **Shokudo Club (Pop-up)** (event) — Bathhouse pairing with rice koji tasting fits wellness-with-soul and food-with-a-story.
 
 ## Rejected
-- **FIFA World Cup Live Screenings & Street Food Fair** (event) — Kids football clinic and mall promo fair — hard no for family/kids and corporate mall activations.
-- **PARADE by Makers Market at PLQ Mall** (market) — Weekly PLQ pushcart maker market is the explicitly excluded INVADE circuit.
-- **Dhoby Ghaut Makers' Market** (market) — Dhoby Ghaut weekly pushcart market is the explicitly excluded INVADE circuit.
-- **Tuesday Afternoon Reading @ Lavender** (event) — Per-location We Read Together session covered by published umbrella card.
-- **Why What You Read Determines What AI Can Do for You** (workshop) — Thin-info AI/reading workshop with no venue or real detail reads as corporate promo.
-- **Wednesday Evening Reading @ Dewgather, Star Vista (Buona Vista)** (event) — Per-location We Read Together session covered by published umbrella card.
-- **Wednesday Evening Reading @ Old Chang Kee (Bugis)** (event) — Per-location We Read Together session covered by published umbrella card.
-- **Mayer Mistral SG61 Together As One Promotion** (event) — Corporate brand promo campaign, not a real event.
-- **Guardian Wellness Fiesta** (market) — Guardian-branded wellness fiesta is a corporate/retail promo, not indie wellness.
-- **The Barn beSPOKE Sale** (market) — Reads as a retail bespoke sale rather than a curated market with a point of view.
-- **Leadership, Growth and Reinvention in the AI Era** (workshop) — Corporate leadership/AI workshop with no venue, thin-info promo.
-- **Cleanse-Reset** (workshop) — Generic wellness workshop with no venue or practitioner detail, thin-info promo.
-- **Threads of Fire Spice at Man Fu Yuan** (event) — Restaurant four-hands dining collab is menu marketing, hard no.
-- **Passive Income Streams Using AI with Mangla Sachdev** (workshop) — Corporate AI passive-income workshop with no venue, thin-info promo.
-- **Glow Festival** (festival) — Arena-style headliner beach festival with Jason Derulo/Alessia Cara is a hard-no.
-- **Singapore Sabercon 2026** (workshop) — Cosplay/hobby con is a hard-no immersive commercial spectacle.
-- **Discover the vibrant world of Uwe Klauke at W Singapore** (exhibition) — Hotel lobby art display isn't a serious institution or indie gallery show.
-- **CÉ LA VI Singapore Presents Noir Blanc Brunch** (event) — Branded gin brunch promo at a club is a hard-no.
-- **Melodies of the Straits Saturday Brunch Buffet** (event) — Restaurant brunch buffet marketing, not food-with-a-story.
-- **Live Performance: C2AC, Chowk, Secret Melur** (music) — Session under already-published Weekend Culture series is covered by published card.
-- **Interiors Collectibles - August, Fine Art Focus** (event) — Hotlotz auction is a hard-no collector sale.
-- **One Woman's Wardrobe: Fashion's Playground** (event) — Hotlotz auction is a hard-no collector sale.
-- **Watches Timepieces - September** (event) — Hotlotz auction is a hard-no collector sale.
-- **Interiors Collectibles/Coins Banknotes - September** (event) — Auction/collector sale — hard no.
-- **Collectors Home Tour | An Afternoon with Arts Patrons** (event) — Plain guided/home tour of a private collection, not a curated show — tours are out.
-- **Patron's Brunch: Eko Nugroho Exhibition Workshop Tour** (event) — Plain guided tour of an exhibition — explicitly excluded even for STPI shows.
-- **Collectors Home Tours | The Malcolm Road Collection** (event) — Plain guided home tour of a private collection — tours are out.
-- **Collectors Home Tour | A Matrix of Art** (event) — Plain guided home tour of a private collection — tours are out.
-- **Lana Del Rey Concert** (music) — Arena headliner concert — hard no regardless of fame.
+- **Sanrio-themed Photo Booth and Pop-up Store** (event) — Brand pop-up store/photo booth is corporate promo dressed as event.
+- **Guardian Wellness Fiesta** (market) — Corporate-hosted wellness fiesta is brand promo, not indie wellness with soul.
+- **Open Stage Concert Band Competition** (music) — Generic competition/hobby fair without curatorial point of view.
+- **Let's Rock! A Tribute to Bon Jovi By ADRA Band** (music) — Generic tribute band gig lacks the indie/curated music-bar vibe required.
+- **TOKI Time at Pop City** (event) — Thin-info entertainment venue promo, no clear indie/artistic hook.
+- **DIY Canvas Bag Workshop In Chinatown** (workshop) — Generic DIY craft promo without gallery/craft-with-character depth.
+- **QT Singapore's FIFA World Cup Final Warm-Up Party** (event) — Hotel-branded World Cup viewing party is corporate promo/sports fiesta.
+- **Stranger Conversations: Being Non-Religious in Singapore** (event) — Covered by published card (Non-Religious Singapore: Finding Meaning Beyond Faith).
+- **PARADE by Makers Market at PLQ Mall** (market) — Mall pushcart maker market explicitly listed as hard no.
+- **Dhoby Ghaut Makers' Market** (market) — Mall pushcart maker market explicitly listed as hard no.
+- **Head Massage by YUMEMI** (workshop) — Standalone head massage is a standing service, hard no per venue-ad rule.
+- **Singapore Sabercon 2026** (workshop) — Sabre/lightsaber cosplay-adjacent event falls under immersive/expo hard no.
+- **National Day Concert** (music) — Mass national concert lacks the indie/curated point of view sigout looks for.
+- **Snoopy Run 2026** (event) — Themed run/race is a hard-no sports fiesta.
+- **Pop Toy Show** (market) — Toy show market reads as consumer/collector fair, not indie craft.
+- **Designer Luxury Fashion - September** (event) — Hotlotz timed auction is a hard-no collector sale.
+- **Christian Horner: Unfiltered** (event) — F1-adjacent celebrity interview is corporate promo machinery, hard no.
+- **Berryglass: M•A•C Cosmetics Collaboration Pop-up** (event) — Brand cosmetics pop-up is a corporate promo dressed as an event, hard no.
 
 ## Left in pending for Jane (unsure)
-- **Voices of the World (VOTW)** (music) — Taste-plausible arts festival but missing venue information.
-- **Common Room** (exhibition) — Exhibition category is plausible but no venue or real detail to confirm fit.
-- **528 presents: SEA RAE (Live from NYC)** (music) — Intimate live music could fit the music bar taste but missing venue to confirm.
-- **Play Together: Guitar Orchestra** (music) — Taste-plausible music event but missing venue and detail.
-- **Self Portrait Workshop with Nydia Thakid** (workshop) — Craft workshop plausible but venue missing.
-- **Meet the Artist | Boedi Widjaja** (event) — Exclusive patron-only studio visit, unclear if it's genuine public artist-talk programming.
-- **Meet the Artist | Johann Fauzi** (event) — Exclusive patron-only studio visit, unclear if it's genuine public artist-talk programming.
-- **Soak Sound - Crystal Bowl Sound Healing** (workshop) — Sound healing fits wellness taste but has no date, so it must stay pending per mechanical rule.
+- **Play Together: Guitar Orchestra** (music) — Too little info (no venue/description) to judge fit confidently.
+- **Writing and Performing Your Personal Story** (workshop) — Plausible literary workshop but missing venue makes it too thin to card.
+- **Light Together Bras Basah.Bugis** (festival) — Arts festival in Bras Basah/Bugis fits taste but venue/details too thin to write an honest card.
+- **Kampung Elektrik** (festival) — Festival could fit 'music bar' vibe but no venue/description makes it too thin to judge confidently.
+- **GREEN-HOUSE Festival** (festival) — Festival name suggests taste fit but no venue or real description to confirm.
 
 ## Duplicates collapsed
-- Hiroshi Sugimoto: Form Is Emptiness → kept: already published: Hiroshi Sugimoto: Form Is Emptiness
-- 別為愛: The Art Of Letting Go → kept: already published: Grey Ying's 1st Community Event: 別為愛 The Art Of Letting Go
-- Rainbow Fictioneers Open Writing Sessions → kept: already published: Open Writing Sessions
-- Gillman Gatherings - Singapore Gallery Month Opening → kept: already published: Singapore Gallery Month
-- Singapore GaGa Screening → kept: Singapore Gaga Film Screening
+- Stranger Sounds Music Session → kept: already published: Stranger Sounds Session
+- Singapore Gallery Month 2026 Launch Party → kept: already published: Singapore Gallery Month
+- International Art Fair (IAF) 2026 - Knuckles and Notch Booth → kept: already published: International Art Fair Singapore (IAF) 2026 - Knuckles & Notch Booth

@@ -1,5 +1,71 @@
 {
-  "lastUpdated": "2026-07-14T02:11:28.293Z",
-  "count": 0,
-  "events": []
+  "lastUpdated": "2026-07-17T23:26:39.179Z",
+  "count": 5,
+  "events": [
+    {
+      "title": "Play Together: Guitar Orchestra",
+      "category": "music",
+      "date": "2026-07-18",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Guitar orchestra experience event",
+      "source": null,
+      "key": "playtogetherguitarorchestra|2026-07-18",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Writing and Performing Your Personal Story",
+      "category": "workshop",
+      "date": "2026-07-18",
+      "endDate": "2026-07-25",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Workshop on writing and performing personal stories",
+      "source": null,
+      "key": "writingandperformingyourpersonalstory|2026-07-18",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Light Together Bras Basah.Bugis",
+      "category": "festival",
+      "date": "2026-08-01",
+      "endDate": "2026-08-05",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Festival in Bras Basah and Bugis area",
+      "source": null,
+      "key": "lighttogetherbrasbasahbugis|2026-08-01",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Kampung Elektrik",
+      "category": "festival",
+      "date": "2026-08-13",
+      "endDate": "2026-08-16",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Festival event",
+      "source": null,
+      "key": "kampungelektrik|2026-08-13",
+      "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "GREEN-HOUSE Festival",
+      "category": "festival",
+      "date": "2026-08-28",
+      "endDate": "2026-08-30",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Festival event",
+      "source": null,
+      "key": "greenhousefestival|2026-08-28",
+      "firstSeen": "2026-07-18"
+    }
+  ]
 }
