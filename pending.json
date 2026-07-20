@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-07-17T23:26:39.179Z",
-  "count": 5,
+  "lastUpdated": "2026-07-20T23:33:43.451Z",
+  "count": 9,
   "events": [
-    {
-      "title": "Play Together: Guitar Orchestra",
-      "category": "music",
-      "date": "2026-07-18",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Guitar orchestra experience event",
-      "source": null,
-      "key": "playtogetherguitarorchestra|2026-07-18",
-      "firstSeen": "2026-07-18"
-    },
     {
       "title": "Writing and Performing Your Personal Story",
       "category": "workshop",
@@ -29,17 +16,69 @@
       "firstSeen": "2026-07-18"
     },
     {
-      "title": "Light Together Bras Basah.Bugis",
-      "category": "festival",
-      "date": "2026-08-01",
-      "endDate": "2026-08-05",
+      "title": "CS Cavity Sliders at Archifest",
+      "category": "exhibition",
+      "date": "2026-07-23",
+      "endDate": null,
       "time": null,
       "venue": null,
       "url": null,
-      "description": "Festival in Bras Basah and Bugis area",
+      "description": "Architecture exhibition redefining space through sliding systems",
       "source": null,
-      "key": "lighttogetherbrasbasahbugis|2026-08-01",
-      "firstSeen": "2026-07-18"
+      "key": "cscavityslidersatarchifest|2026-07-23",
+      "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "Sake Meguri",
+      "category": "event",
+      "date": "2026-07-24",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Sake tasting and cultural event",
+      "source": null,
+      "key": "sakemeguri|2026-07-24",
+      "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "Maria Taniguchi: Afterimage",
+      "category": "exhibition",
+      "date": "2026-07-24",
+      "endDate": "2026-11-22",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Art exhibition by Maria Taniguchi",
+      "source": null,
+      "key": "mariataniguchiafterimage|2026-07-24",
+      "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "SYNC. Festival 2026",
+      "category": "festival",
+      "date": "2026-07-26",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Synchronisation festival featuring arts and culture",
+      "source": null,
+      "key": "syncfestival2026|2026-07-26",
+      "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "Ladies' Night @ HWC: The Best Feng Shui Is Your Mindset",
+      "category": "workshop",
+      "date": "2026-07-29",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Feng shui and mindset workshop for women",
+      "source": null,
+      "key": "ladiesnighthwcthebestfengshuiisyourmindset|2026-07-29",
+      "firstSeen": "2026-07-21"
     },
     {
       "title": "Kampung Elektrik",
@@ -66,6 +105,19 @@
       "source": null,
       "key": "greenhousefestival|2026-08-28",
       "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Zentangle Workshop with LiFern",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Casual Poet Library",
+      "url": "https://www.instagram.com/p/DazJeSwvDqI/",
+      "description": "Gentle meditative art of Zentangle. No drawing experience needed. Evening session with conversation.",
+      "source": "Casual Poet Library",
+      "key": "zentangleworkshopwithlifern|",
+      "firstSeen": "2026-07-21"
     }
   ]
 }
