@@ -1,46 +1,7 @@
 {
-  "lastUpdated": "2026-07-20T23:33:43.451Z",
-  "count": 9,
+  "lastUpdated": "2026-07-24T23:35:49.160Z",
+  "count": 8,
   "events": [
-    {
-      "title": "Writing and Performing Your Personal Story",
-      "category": "workshop",
-      "date": "2026-07-18",
-      "endDate": "2026-07-25",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Workshop on writing and performing personal stories",
-      "source": null,
-      "key": "writingandperformingyourpersonalstory|2026-07-18",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "CS Cavity Sliders at Archifest",
-      "category": "exhibition",
-      "date": "2026-07-23",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Architecture exhibition redefining space through sliding systems",
-      "source": null,
-      "key": "cscavityslidersatarchifest|2026-07-23",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Sake Meguri",
-      "category": "event",
-      "date": "2026-07-24",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Sake tasting and cultural event",
-      "source": null,
-      "key": "sakemeguri|2026-07-24",
-      "firstSeen": "2026-07-21"
-    },
     {
       "title": "Maria Taniguchi: Afterimage",
       "category": "exhibition",
@@ -65,19 +26,6 @@
       "description": "Synchronisation festival featuring arts and culture",
       "source": null,
       "key": "syncfestival2026|2026-07-26",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Ladies' Night @ HWC: The Best Feng Shui Is Your Mindset",
-      "category": "workshop",
-      "date": "2026-07-29",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Feng shui and mindset workshop for women",
-      "source": null,
-      "key": "ladiesnighthwcthebestfengshuiisyourmindset|2026-07-29",
       "firstSeen": "2026-07-21"
     },
     {
@@ -118,6 +66,45 @@
       "source": "Casual Poet Library",
       "key": "zentangleworkshopwithlifern|",
       "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "Journaling Club at Stranger Convos",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Stranger Convos",
+      "url": "https://www.instagram.com/p/DbJFj9aTNSB/",
+      "description": "Casual communal journaling session with prompts. $10 contribution. Reserve via DM.",
+      "source": "humanstudiosg",
+      "key": "journalingclubatstrangerconvos|",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Zentangle Workshop at Casual Poet Library",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Casual Poet Library",
+      "url": null,
+      "description": "Meditative art session exploring Zentangle patterns. No drawing experience needed. RSVP to lifern75@gmail.com",
+      "source": "Casual Poet Library",
+      "key": "zentangleworkshopatcasualpoetlibrary|",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Self-Portraiture Workshop with Nydia Shiang",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Hands-on workshop on self-portraiture art and techniques with photographer and art director Nydia Shiang.",
+      "source": "Corner Room",
+      "key": "selfportraitureworkshopwithnydiashiang|",
+      "firstSeen": "2026-07-25"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T23:33:43.451Z",
-  "totalEvents": 53,
+  "lastUpdated": "2026-07-24T23:35:49.160Z",
+  "totalEvents": 57,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -224,95 +224,17 @@
       "firstSeen": "2026-06-27"
     },
     {
-      "title": "Tuesday Afternoon Reading @ Robertson Quay",
-      "category": "event",
-      "date": "2026-07-21",
-      "endDate": null,
-      "time": "2:30 PM",
-      "venue": "The Book Cafe, #01-02, 20 Martin Road, Seng Kee Building, Robertson Quay, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315678239/",
-      "description": "Small group reading session. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "tuesdayafternoonreadingrobertsonquay|2026-07-21",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Tuesday Reading @ Clementi",
-      "category": "event",
-      "date": "2026-07-21",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Tsujiri @ Clementi Peaks, 464B Clementi Ave 1, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315484237/",
-      "description": "Small group reading session. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "tuesdayreadingclementi|2026-07-21",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Tuesday Evening Reading @ Wheelock Place",
-      "category": "event",
-      "date": "2026-07-21",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "M S Cafe, 501 Orchard Rd, #01-k2, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315598307/",
-      "description": "Small group reading session. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "tuesdayeveningreadingwheelockplace|2026-07-21",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Knuckles and Notch at IAF 2026",
-      "category": "market",
-      "date": "2026-07-21",
-      "endDate": "2026-07-23",
-      "time": null,
-      "venue": "IAF, Booth B12",
-      "url": "https://www.instagram.com/p/DaUQg9XOaPU/",
-      "description": "Artist booth featuring new works, collaborations, and limited edition chunky book.",
-      "source": "Knuckles and Notch",
-      "key": "knucklesandnotchatiaf2026|2026-07-21",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Wednesday Afternoon Reading @ Capturoffee (Esplanade)",
-      "category": "event",
-      "date": "2026-07-22",
-      "endDate": null,
-      "time": "2:00 PM",
-      "venue": "Capturoffee Coffee Stand, 6 Raffles Blvd, #02-03/04, Marina Square, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315689957/",
-      "description": "Small group reading session. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "wednesdayafternoonreadingcapturoffeeesplanade|2026-07-22",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "PSYCHEDELIC BREATH: Solar Heart",
+      "title": "Writing and Performing Your Personal Story",
       "category": "workshop",
-      "date": "2026-07-24",
-      "endDate": null,
-      "time": "19:30-21:00",
-      "venue": "The Living Room SG, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
-      "url": "https://www.instagram.com/gaiarisingwithmalvina",
-      "description": "Psychedelic breath circle workshop",
-      "source": "Gaia Rising with Malvina",
-      "key": "psychedelicbreathsolarheart|2026-07-24",
-      "firstSeen": "2026-07-14"
-    },
-    {
-      "title": "Singapore Gaga Film Screening",
-      "category": "event",
-      "date": "2026-07-24",
-      "endDate": null,
+      "date": "2026-07-18",
+      "endDate": "2026-07-25",
       "time": null,
-      "venue": "Swee Lee Clarke Quay",
+      "venue": null,
       "url": null,
-      "description": "Documentary film about Singapore's aural landscape. Singapore's first documentary with cinematic release.",
-      "source": "Swee Lee Clarke Quay",
-      "key": "singaporegagafilmscreening|2026-07-24",
-      "firstSeen": "2026-07-14"
+      "description": "Workshop on writing and performing personal stories",
+      "source": null,
+      "key": "writingandperformingyourpersonalstory|2026-07-18",
+      "firstSeen": "2026-07-18"
     },
     {
       "title": "Stranger Sounds Session",
@@ -367,6 +289,19 @@
       "firstSeen": "2026-07-21"
     },
     {
+      "title": "Saturday Afternoon Reading @ Holland Village (Craftsmen Coffee)",
+      "category": "event",
+      "date": "2026-07-25",
+      "endDate": null,
+      "time": "3:00 PM",
+      "venue": "Craftsman Coffee (Holland Village), 275 Holland Ave, Singapore 278993",
+      "url": "https://www.meetup.com/we-read-together/events/315788072/",
+      "description": "Small group reading session at cafe. Bring a book, buy a drink, read together, and share.",
+      "source": "We Read Together",
+      "key": "saturdayafternoonreadinghollandvillagecraftsmencoffee|2026-07-25",
+      "firstSeen": "2026-07-25"
+    },
+    {
       "title": "Catching Light: A Gentle Beading Workshop",
       "category": "workshop",
       "date": "2026-07-26",
@@ -378,6 +313,71 @@
       "source": "@the.living.room.sg",
       "key": "catchinglightagentlebeadingworkshop|2026-07-26",
       "firstSeen": "2026-06-30"
+    },
+    {
+      "title": "Sunday Morning Reading @ Bencoolen",
+      "category": "event",
+      "date": "2026-07-26",
+      "endDate": null,
+      "time": "10:00 AM",
+      "venue": "Crossings Cafe, 55 Waterloo St, Singapore 187954",
+      "url": "https://www.meetup.com/we-read-together/events/315769983/",
+      "description": "Small group reading session at social enterprise cafe. Bring a book, socialize, and read together.",
+      "source": "We Read Together",
+      "key": "sundaymorningreadingbencoolen|2026-07-26",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Sunday Reading @ Feng Food (Woodlands)",
+      "category": "event",
+      "date": "2026-07-26",
+      "endDate": null,
+      "time": "11:00 AM",
+      "venue": "Feng Food, 6 Woodlands Square B2-04 Woods Square Mall S737737",
+      "url": "https://www.meetup.com/we-read-together/events/315819725/",
+      "description": "Small group reading session. Bring a book, grab refreshments, read and share with the community.",
+      "source": "We Read Together",
+      "key": "sundayreadingfengfoodwoodlands|2026-07-26",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Wednesday Evening Reading @ Dewgather, Star Vista (Buona Vista)",
+      "category": "event",
+      "date": "2026-07-29",
+      "endDate": null,
+      "time": "7:00 PM",
+      "venue": "Dewgather, The Star Vista, 1 Vista Exchange Green, #01-46, S138617",
+      "url": "https://www.meetup.com/we-read-together/events/315817379/",
+      "description": "Evening reading meetup at Dewgather. Bring a book, enjoy drinks/food, read and socialize.",
+      "source": "We Read Together",
+      "key": "wednesdayeveningreadingdewgatherstarvistabuonavista|2026-07-29",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Artists Anonymous: Creative Support Session",
+      "category": "workshop",
+      "date": "2026-07-30",
+      "endDate": null,
+      "time": "7:30 PM - 10:00 PM",
+      "venue": "Stranger Conversations, 195 Pearl's Hill Terrace, 02-38D",
+      "url": "https://tinyurl.com/AACreativeSupportSessions",
+      "description": "Monthly creative support session for artists to build momentum, structure, and progress on creative dreams.",
+      "source": "Penguin Girl Art",
+      "key": "artistsanonymouscreativesupportsession|2026-07-30",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Live Cello Performance & Wine Tasting",
+      "category": "music",
+      "date": "2026-07-30",
+      "endDate": null,
+      "time": "6:30 PM",
+      "venue": "Wasuka Art Gallery",
+      "url": "https://www.instagram.com/p/DbCovsnPV6b/",
+      "description": "Cellist Khachatur Khachatryan performs live with Portuguese wine tasting by Vinea. $88 per person.",
+      "source": "Wasuka Art",
+      "key": "livecelloperformancewinetasting|2026-07-30",
+      "firstSeen": "2026-07-25"
     },
     {
       "title": "A fool rushing in.",
@@ -443,6 +443,32 @@
       "source": null,
       "key": "lighttogetherbrasbasahbugis|2026-08-01",
       "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "3 Course Meal + Riso Zine Workshop",
+      "category": "workshop",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": "6:00pm–9:30pm",
+      "venue": "Mother Dough Bakery, Level 2",
+      "url": null,
+      "description": "Risograph zinemaking workshop with curated 3-course meal. Beginners friendly. Create your own 2-colour zine. $140/person.",
+      "source": "Knuckles and Notch",
+      "key": "3coursemealrisozineworkshop|2026-08-01",
+      "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Research Sharing: Singapore Hawker Heritage & Livelihood",
+      "category": "event",
+      "date": "2026-08-02",
+      "endDate": null,
+      "time": "6:00 PM - 7:00 PM",
+      "venue": "Mad Roaster's Slow Bar, 20 Lengkok Bahru #01-20 Enabling Village Outpost",
+      "url": "https://www.instagram.com/p/DbJEEBkFBYd/",
+      "description": "Live research session with Chef Jenny Dorsey on Singapore hawker centres, UNESCO heritage, and the future of hawker culture.",
+      "source": "Stranger Conversations",
+      "key": "researchsharingsingaporehawkerheritagelivelihood|2026-08-02",
+      "firstSeen": "2026-07-25"
     },
     {
       "title": "Between the Lines: A Curated Social Evening for Readers",
@@ -562,6 +588,19 @@
       "firstSeen": "2026-07-18"
     },
     {
+      "title": "Eko Nugroho: STRANGE MONSTER VIEW",
+      "category": "exhibition",
+      "date": "2026-08-22",
+      "endDate": "2026-10-10",
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/eko-nugroho-strange-monster-view",
+      "description": "Solo exhibition by Indonesian artist Eko Nugroho showcasing contemporary art practice.",
+      "source": "STPI",
+      "key": "ekonugrohostrangemonsterview|2026-08-22",
+      "firstSeen": "2026-07-25"
+    },
+    {
       "title": "OUTSIDE LOOKING IN",
       "category": "exhibition",
       "date": "2026-08-27",
@@ -625,6 +664,19 @@
       "source": "I.F. Gallery",
       "key": "chickenillustrationworkshopbyracheloon|2026-09-19",
       "firstSeen": "2026-07-14"
+    },
+    {
+      "title": "OH! Golden Mile Art Walk",
+      "category": "event",
+      "date": "2027-01-17",
+      "endDate": "2027-01-31",
+      "time": null,
+      "venue": "Golden Mile Tower, Singapore",
+      "url": "https://ohopenhouse.org/Programmes",
+      "description": "Signature art walk uncovering hidden stories, characters and spaces within Golden Mile Tower, rethinking the role of shared places in our lives.",
+      "source": "OH! Open House",
+      "key": "ohgoldenmileartwalk|2027-01-17",
+      "firstSeen": "2026-07-25"
     },
     {
       "title": "Passion is Volcanic: Desire in Southeast Asian Art (R18)",
