@@ -1,52 +1,82 @@
-# Curator report — 2026-07-25 (live)
+# Curator report — 2026-08-01 (live)
 
 The most recent auto-curation run. Every decision and its reason. To change
 future behaviour, edit taste.md. To overrule any single decision, use /curate.
 
-**11 published · 16 rejected · 8 left for Jane · 3 duplicates collapsed**
+**17 published · 28 rejected · 18 left for Jane · 5 duplicates collapsed**
 
 ## Published to sigout
-- **Eko Nugroho: STRANGE MONSTER VIEW** (exhibition) — Headline STPI solo exhibition fits the serious-institutions strong yes.
-- **Saturday Afternoon Reading @ Holland Village (Craftsmen Coffee)** (event) — We Read Together individual café meetup listed per Jane's rule
-- **Sunday Morning Reading @ Bencoolen** (event) — We Read Together individual café meetup listed per Jane's rule
-- **Sunday Reading @ Feng Food (Woodlands)** (event) — We Read Together individual café meetup listed per Jane's rule
-- **Wednesday Evening Reading @ Dewgather, Star Vista (Buona Vista)** (event) — We Read Together individual café meetup listed per Jane's rule
-- **Artists Anonymous: Creative Support Session** (workshop) — Indie community room session at Stranger Conversations
-- **OH! Golden Mile Art Walk** (event) — OH! Open House indie art walk fits the arts-festival/indie-gallery strong yes.
-- **Live Cello Performance & Wine Tasting** (music) — Intimate art-music evening fits music bar taste
-- **3 Course Meal + Riso Zine Workshop** (workshop) — Craft with character zine workshop with food story
-- **Research Sharing: Singapore Hawker Heritage & Livelihood** (event) — Food-culture research talk at indie community venue
-- **Writing and Performing Your Personal Story** (workshop) — Indie writing/performance workshop fits community craft taste
+- **14th World Oyster Festival** (festival) — Oyster festival explicitly matches food-with-a-story strong yes
+- **Arterly Obsessed August & September Nude Figure Drawing** (workshop) — Arterly Obsessed life drawing is explicitly named indie community room, strong yes.
+- **Saturday Reading @ Redhill (Enabling Village)** (event) — We Read Together per-café meetup, listed individually per rule.
+- **Saturday Reading @ Da Paolo Gastronomia (Holland Village)** (event) — We Read Together per-café meetup, listed individually per rule.
+- **Saturday Afternoon Reading @ Taiseng (L'Vie5)** (event) — We Read Together per-café meetup, listed individually per rule.
+- **BookTalk: Taiwan Travelogue @ Redhill (Abundance Taiwanese)** (event) — We Read Together book discussion session, community with charm.
+- **National Day Patriotic Workshops** (workshop) — Craft workshop at indie community room (195 Pearl's Hill Terrace)
+- **Wa Suka Singapore - Exhibition** (exhibition) — Independent gallery exhibition by named artists, strong yes.
+- **Don't Say Bojio - Speed-Friending & Game Day** (event) — Speed-friending social at Strangers Convo fits indie community charm
+- **Head Massage by YUMEMI** (workshop) — Gentle wellness practitioner session at bathhouse fits soul-wellness taste
+- **Chess Night at the Bathhouse** (event) — Chess and bathing social at characterful venue fits community charm
+- **Departures** (exhibition) — Serious indie arts programme (OH! Open House site-responsive commissions) fits strong-yes institutions/indie category.
+- **SLA25 Rediscovery Trail** (exhibition) — Heritage/architecture trail fits arts festival & community culture weekend category.
+- **Drag & Dance Night at The Standard** (music) — Free dance/drag showcase with DJ fits indie music-bar vibe
+- **Boutiques Singapore - The Gifting Edition 2026** (market) — Indie/curated design marketplace fits strong-yes indie markets rule.
+- **The Makers Ground @ EXPO** (market) — Curated maker market at EXPO fits indie market category, not mall pushcart circuit.
+- **Baia x 100% Latin Brunch Party** (event) — Indie-vibe rooftop brunch party fits music bar taste
 
 ## Rejected
-- **Chef Motokichi Yukimura - Dine, Meet & Selfie Sessions** (event) — Restaurant chef meet-and-greet is brand promo
-- **Adventures of Grumpy Cat Exhibition** (exhibition) — Grumpy Cat exhibition is a branded commercial spectacle
-- **Orh Gao Peh Gao Turns 7** (event) — Anniversary celebration reads as thin-info promo
-- **Voyage Issue 02 Launch Party** (event) — covered by published card
-- **Associate Artist Programme (CY26-27)** (event) — Ongoing residency programme, not a specific attendable event
-- **PARADE by Makers Market at PLQ Mall** (market) — Mall pushcart maker market hard no
-- **Dhoby Ghaut Makers' Market** (market) — Mall pushcart maker market hard no
-- **ON Exclusive** (event) — Corporate brand members-only event
-- **Ladies' Night @ HWC: The Best Feng Shui Is Your Mindset** (workshop) — Thin-info branded ladies-night workshop
-- **National Day Workshops** (workshop) — Branded keychain/resin craft booth genre is a hard no even at an indie venue.
-- **Jewellery - August** (event) — Hotlotz jewellery auction is a hard-no collector sale.
-- **Nauti: All Things Naughty and Nautical** (exhibition) — Covered by published card (Art Again Third Anniversary Show).
-- **Interiors Collectibles - September** (event) — Hotlotz interiors/collectibles auction is a hard-no collector sale.
-- **Asian Ceramics Works of Art - October** (event) — Hotlotz ceramics auction is a hard-no collector sale.
-- **Zapin, Odissi & DJ Night at Corner Room** (music) — Covered by published card (Odissi and Zapin Dance Performance).
-- **Lune Grand Opening - Kids Events Space** (event) — Kids events space grand opening falls under the hard-no kids/family rule.
+- **BeautyFresh Warehouse Sale - Up to 80% off 120+ Brands** (market) — Corporate warehouse sale promo, hard no.
+- **Lenskart x Old Chang Kee Pop-up - Suntec City** (market) — Brand pop-up/product promo dressed as event.
+- **The Great Bounce Party at Aperia Mall** (music) — Mall activation-style bounce event, corporate promo hard no.
+- **Improv Taster Sessions** (workshop) — Generic hobby/taster class, thin info promo.
+- **FairPrice Made in Singapore Fair** (market) — FairPrice branded fair with games/sales is corporate promo, hard no.
+- **Office Planner Pop-up at Changi Airport** (market) — Snoopy-themed brand pop-up, corporate promo hard no.
+- **Makers Market at PLQ Mall - PARADE by Makers Market** (market) — PLQ pushcart maker market is explicit hard no.
+- **Dhoby Ghaut Makers' Market** (market) — Dhoby Ghaut maker market circuit is explicit hard no.
+- **The Good Weekend 2026** (market) — Generic shopping event, thin-info promo.
+- **The Centrestage** (music) — Thin-info promo with no venue or real description
+- **Studio Monkey Shoulder LIVE** (music) — Branded whisky venue live music reads as corporate promo
+- **BMDP Community Carnival** (festival) — Generic community carnival with no details, thin-info promo
+- **National Day at Bedrock Bar Grill and Bedrock Origin** (festival) — Restaurant National Day promo, not a real event
+- **The Three-Legged Crab-Eating Mongoose And The Giant** (theatre) — Kids/children's theatre is a hard no
+- **Level Up your Wellness with Guardian yuu Rewards Club** (event) — Guardian rewards club activation is a brand promo
+- **Bedrock Bar Grill World Meat Series 2026 Edition III** (event) — Restaurant meat series is corporate promo
+- **Lenskart x Old Chang Kee Pop-up - VivoCity** (market) — Mall brand collab pop-up is a corporate promo
+- **Neha Vedpathak: In Plain Sight** (exhibition) — Same Neha Vedpathak show already published under another title
+- **Lenskart x Old Chang Kee Pop-up - Jurong Point** (market) — Duplicate mall brand collab pop-up, corporate promo
+- **We Are All Strangers** (theatre) — Generic cinema film release, not a curated event
+- **RWS Cares Festival 2026** (festival) — Corporate resort CSR marketplace festival, not indie/curated taste fit.
+- **Lenskart x Old Chang Kee Pop-up - Eastpoint Mall** (market) — Brand product pop-up (Lenskart x Old Chang Kee) is corporate promo dressed as event.
+- **GREEN-HOUSE Festival** (festival) — Thin-info promo with no venue or real description despite festival label.
+- **Eat. Chill. Play. @ West Coast: National Day Edition** (event) — Generic National Day dining/activities event reads as thin promo without distinct taste angle.
+- **Nothing Purrsonal** (workshop) — Description too thin to judge, smells like generic promo listing.
+- **VIBE: Volunteering In BEdok** (event) — Generic volunteering listing lacks craft/food/art taste fit and is thin-info.
+- **Nature Play Time with Wildlings** (workshop) — Kids/family nature play workshop falls under hard-no family category.
+- **Makers Market at i12 Katong** (market) — INVADE-style mall pushcart maker market is explicitly a hard-no.
 
 ## Left in pending for Jane (unsure)
-- **Maria Taniguchi: Afterimage** (exhibition) — Serious art exhibition but missing venue
-- **SYNC. Festival 2026** (festival) — Arts festival taste-plausible but missing venue
-- **Kampung Elektrik** (festival) — Festival with a date but no venue and only placeholder description, too thin to judge.
-- **GREEN-HOUSE Festival** (festival) — Festival with dates but no venue and only placeholder description, too thin to judge.
-- **Zentangle Workshop with LiFern** (workshop) — No date or end date given, so cannot be placed on the site despite fitting craft/community taste.
-- **Journaling Club at Stranger Convos** (workshop) — No date or end date given, so cannot be placed on the site despite fitting the indie community-room taste.
-- **Zentangle Workshop at Casual Poet Library** (workshop) — No date or end date given, cannot be placed on the site.
-- **Self-Portraiture Workshop with Nydia Shiang** (workshop) — No date or venue given for this craft workshop, too thin to place.
+- **Maria Taniguchi: Afterimage** (exhibition) — Real artist exhibition but venue missing, per mechanical rule for taste-plausible events lacking venue.
+- **Florist For A Day Workshop** (workshop) — Florist craft workshop fits taste but venue missing.
+- **National Day Celebrations at the National Museum** (festival) — Museum National Day storytelling programme sounds family/kids-oriented, hard no risk but institution-run.
+- **The Forgotten Meaning of Offerings** (workshop) — Plausible cultural workshop but missing venue
+- **Kampung Elektrik** (festival) — Festival with no venue or description, too thin to judge fit
+- **Zentangle Workshop with LiFern** (workshop) — Taste-plausible craft workshop at Casual Poet Library but missing date per mechanical rule.
+- **Journaling Club at Stranger Convos** (workshop) — Taste-plausible indie-room journaling session but missing date per mechanical rule.
+- **Zentangle Workshop at Casual Poet Library** (workshop) — Taste-plausible craft workshop at Casual Poet Library but missing date per mechanical rule.
+- **Self-Portraiture Workshop with Nydia Shiang** (workshop) — Craft-with-character self-portraiture workshop but missing date per mechanical rule.
+- **Art Jam by Barely Ran** (workshop) — Indie-room creative art jam but missing date per mechanical rule.
+- **Rewire Social Club's Thursday Social Night** (event) — Community social mixer at indie room fits charm but missing date per mechanical rule.
+- **Electric Playa - Beach Dance Event** (music) — Beach day-party DJ set fits music-bar vibe rule but missing date per mechanical rule.
+- **ALCHEMICAL DREAMSPACE: The Home Within** (workshop) — Wellness cacao circle at The Living Room fits soulful-wellness taste but missing date per mechanical rule.
+- **PSYCHEDELIC BREATH: Solar Heart** (workshop) — Breathwork session at The Living Room fits soulful-wellness taste but missing date per mechanical rule.
+- **Catching Light: A Gentle Beading Workshop** (workshop) — Craft-with-character beading workshop but missing date per mechanical rule.
+- **Masak Masak - Traditions, Reimagined** (workshop) — Heritage cooking workshop fits food-with-a-story taste but missing date per mechanical rule.
+- **Guided Farm Tour + Farm-to-Table Nasi Ulam** (workshop) — Farm-to-table heritage food experience fits taste but missing date per mechanical rule.
+- **Farm to Tablescape with Studio Wilt** (workshop) — Craft workshop plausibly fits but has no date, so can't be placed on the site.
 
 ## Duplicates collapsed
-- T.G.I.F! 2026 → kept: already published: Raffles Heritage Sunset Tour 2026
-- Voyage Issue 02 Launch Party: Winds, Gathering → kept: Voyage Issue 02 Launch Party
-- Chowk - Odissi Dance Performance → kept: already published: Odissi and Zapin Dance Performance
+- 100% Latin Rooftop Brunch Party → kept: Baia x 100% Latin Brunch Party
+- Between the Lines - Social Evening for Readers → kept: already published: Between the Lines: A Curated Social Evening for Readers
+- OH! Golden Mile → kept: already published: OH! Golden Mile Art Walk
+- Zentangle Workshop → kept: Zentangle Workshop with LiFern
+- Guided Farm Tour + Farm-to-Table Laksa → kept: Guided Farm Tour + Farm-to-Table Nasi Ulam

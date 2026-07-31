@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-24T23:35:49.160Z",
-  "count": 8,
+  "lastUpdated": "2026-07-31T23:33:31.053Z",
+  "count": 18,
   "events": [
     {
       "title": "Maria Taniguchi: Afterimage",
@@ -16,17 +16,43 @@
       "firstSeen": "2026-07-21"
     },
     {
-      "title": "SYNC. Festival 2026",
+      "title": "Florist For A Day Workshop",
+      "category": "workshop",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": "12:30–5:30pm",
+      "venue": null,
+      "url": "https://www.instagram.com/p/DWD8nWTkbMX/",
+      "description": "Full-day floristry workshop. Learn flower arranging and design techniques.",
+      "source": "A Sassy Florist",
+      "key": "floristforadayworkshop|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "National Day Celebrations at the National Museum",
       "category": "festival",
-      "date": "2026-07-26",
+      "date": "2026-08-01",
+      "endDate": "2026-08-12",
+      "time": null,
+      "venue": "National Museum",
+      "url": null,
+      "description": "National Day celebrations featuring myths, legends and stories.",
+      "source": null,
+      "key": "nationaldaycelebrationsatthenationalmuseum|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "The Forgotten Meaning of Offerings",
+      "category": "workshop",
+      "date": "2026-08-03",
       "endDate": null,
       "time": null,
       "venue": null,
       "url": null,
-      "description": "Synchronisation festival featuring arts and culture",
+      "description": "Workshop exploring the forgotten meanings and traditions of offerings.",
       "source": null,
-      "key": "syncfestival2026|2026-07-26",
-      "firstSeen": "2026-07-21"
+      "key": "theforgottenmeaningofofferings|2026-08-03",
+      "firstSeen": "2026-08-01"
     },
     {
       "title": "Kampung Elektrik",
@@ -39,19 +65,6 @@
       "description": "Festival event",
       "source": null,
       "key": "kampungelektrik|2026-08-13",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "GREEN-HOUSE Festival",
-      "category": "festival",
-      "date": "2026-08-28",
-      "endDate": "2026-08-30",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Festival event",
-      "source": null,
-      "key": "greenhousefestival|2026-08-28",
       "firstSeen": "2026-07-18"
     },
     {
@@ -105,6 +118,123 @@
       "source": "Corner Room",
       "key": "selfportraitureworkshopwithnydiashiang|",
       "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Art Jam by Barely Ran",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Stranger Convos, 195 Pearl's Hill Ter, #02-38D",
+      "url": "https://www.instagram.com/p/DbX0U0zEh-r/",
+      "description": "Creative collaborative art jam session. Sliding scale tickets SGD 15-30.",
+      "source": "Barely Ran",
+      "key": "artjambybarelyran|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Rewire Social Club's Thursday Social Night",
+      "category": "event",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Strangers' Conversations, Pearl's Hill Terrace",
+      "url": "https://www.instagram.com/p/DbTDueZD9Jm/",
+      "description": "Interactive social mixer with games and meaningful conversations. Early bird tickets $24 until Aug 10.",
+      "source": "Rewire Social Club",
+      "key": "rewiresocialclubsthursdaysocialnight|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Electric Playa - Beach Dance Event",
+      "category": "music",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Tanjong Beach Club",
+      "url": "https://www.instagram.com/p/DYMXUHykflG/",
+      "description": "Ultimate beach day dance with Eelke Kleijn 3-hour sunset set and local selectors. Barefoot moments, golden hour energy, Funktion-One sound.",
+      "source": "Art Beyond Asia",
+      "key": "electricplayabeachdanceevent|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "ALCHEMICAL DREAMSPACE: The Home Within",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "The Living Room SG, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
+      "url": "https://www.instagram.com/p/DaUKNp6E94O/",
+      "description": "New moon cacao & blue lotus circle. $68/pax or $65 each for 2 ($130).",
+      "source": "Gaia Rising with Malvina",
+      "key": "alchemicaldreamspacethehomewithin|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "PSYCHEDELIC BREATH: Solar Heart",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "The Living Room SG, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
+      "url": "https://www.instagram.com/p/DaUKNp6E94O/",
+      "description": "Breathwork session. $65/pax or $55 each for 2 ($110). Attend both for $100 total.",
+      "source": "Gaia Rising with Malvina",
+      "key": "psychedelicbreathsolarheart|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Catching Light: A Gentle Beading Workshop",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Create beaded sun catchers with Art Psychotherapist Dawn Kwan. No artistic experience needed. Explore creativity as curiosity, not performance.",
+      "source": null,
+      "key": "catchinglightagentlebeadingworkshop|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Masak Masak - Traditions, Reimagined",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://citysprouts.com.sg/products/masak-masak-traditions-reimagined-1",
+      "description": "Cooking workshop exploring traditional cuisine reimagined",
+      "source": "City Sprouts",
+      "key": "masakmasaktraditionsreimagined|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Guided Farm Tour + Farm-to-Table Nasi Ulam",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://citysprouts.com.sg/products/guided-farm-tour-farm-to-table-nasi-ulam",
+      "description": "Farm tour with farm-to-table Nasi Ulam cooking experience",
+      "source": "City Sprouts",
+      "key": "guidedfarmtourfarmtotablenasiulam|",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Farm to Tablescape with Studio Wilt",
+      "category": "workshop",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": "https://citysprouts.com.sg/products/farm-to-tablescape-with-studio-wilt",
+      "description": "Floral design and table styling workshop combining farm and flora",
+      "source": "City Sprouts",
+      "key": "farmtotablescapewithstudiowilt|",
+      "firstSeen": "2026-08-01"
     }
   ]
 }

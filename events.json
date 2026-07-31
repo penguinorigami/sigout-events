@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-24T23:35:49.160Z",
-  "totalEvents": 57,
+  "lastUpdated": "2026-07-31T23:33:31.053Z",
+  "totalEvents": 53,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -14,45 +14,6 @@
       "source": "@Gardensbythebay",
       "key": "davidhockneybiggerclosernotsmallerfurtheraway|",
       "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "Open Writing Sessions",
-      "category": "workshop",
-      "date": "2026-05-22",
-      "endDate": "2026-07-31",
-      "time": "6pm - 9pm",
-      "venue": "casual poet library (123 Bukit Merah Lane 1, #01-110, S150123)",
-      "url": "https://rainbowfictioneers.com/open-writing-sessions",
-      "description": "Protected writing time for poetry, prose, plays and creative nonfiction",
-      "source": "@rainbowfictioneers",
-      "key": "openwritingsessions|2026-05-22",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Pasarfish Pop-Up",
-      "category": "event",
-      "date": "2026-05-27",
-      "endDate": "2026-07-26",
-      "time": null,
-      "venue": "Chef X, Clarke Quay Central",
-      "url": "https://leadyouelsewhere.com/7-best-things-to-do-in-singapore-june-2026/",
-      "description": "16-dish pop-up reviving disappearing wet-market fish dishes; from $8.",
-      "source": null,
-      "firstSeen": "2026-06-13",
-      "key": "pasarfishpopup|2026-05-27"
-    },
-    {
-      "title": "Lazy Days with Dog & Frog",
-      "category": "event",
-      "date": "2026-05-29",
-      "endDate": "2026-07-26",
-      "time": null,
-      "venue": "Heartware Store & Gallery, Joo Chiat",
-      "url": "https://www.instagram.com/p/DY7iyx-CXtn/",
-      "description": "Irish comic artist Niall Breen's debut solo show making a quiet case for doing nothing; free.",
-      "source": "Heartware Store",
-      "firstSeen": "2026-06-13",
-      "key": "lazydayswithdogfrog|2026-05-29"
     },
     {
       "title": "Maps | Directions to My House",
@@ -79,19 +40,6 @@
       "source": "STPI",
       "key": "stpiannualspecialexhibitionzarinadirectionstomyhouse|2026-06-06",
       "firstSeen": "2026-06-16"
-    },
-    {
-      "title": "We Read Together Reading Meetups",
-      "category": "event",
-      "date": "2026-06-11",
-      "endDate": "2026-07-31",
-      "time": null,
-      "venue": "Various cafes (Bugis, Holland Village and more)",
-      "url": "https://www.meetup.com/we-read-together/events/",
-      "description": "Casual bring-your-own-book reading meetups several times a week at rotating cafes; buy a drink and read together.",
-      "source": "We Read Together",
-      "firstSeen": "2026-06-13",
-      "key": "wereadtogetherreadingmeetups|2026-06-11"
     },
     {
       "title": "Xue Song: Where is the Mountain?",
@@ -172,32 +120,6 @@
       "firstSeen": "2026-07-18"
     },
     {
-      "title": "14th World Oyster Festival",
-      "category": "festival",
-      "date": "2026-07-01",
-      "endDate": "2026-07-31",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "World oyster festival",
-      "source": null,
-      "key": "14thworldoysterfestival|2026-07-01",
-      "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Contemplative Materials",
-      "category": "exhibition",
-      "date": "2026-07-04",
-      "endDate": "2026-07-26",
-      "time": "15:00",
-      "venue": "Mizuma Gallery",
-      "url": "https://agas.org.sg/events/contemplative-materials/",
-      "description": "Works by Iswanto Soerjanto, Liu Liling and Sarah Isabelle Tan. Opening reception and exhibition walkthrough.",
-      "source": "Mizuma Gallery",
-      "key": "contemplativematerials|2026-07-04",
-      "firstSeen": "2026-06-27"
-    },
-    {
       "title": "Fo(u)r Humours",
       "category": "exhibition",
       "date": "2026-07-11",
@@ -209,175 +131,6 @@
       "source": null,
       "key": "fourhumours|2026-07-11",
       "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Weekend Culture",
-      "category": "festival",
-      "date": "2026-07-12",
-      "endDate": "2026-07-31",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Weekend Culture festival featuring community-driven cultural activities and intersecting crafts.",
-      "source": null,
-      "key": "weekendculture|2026-07-12",
-      "firstSeen": "2026-06-27"
-    },
-    {
-      "title": "Writing and Performing Your Personal Story",
-      "category": "workshop",
-      "date": "2026-07-18",
-      "endDate": "2026-07-25",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Workshop on writing and performing personal stories",
-      "source": null,
-      "key": "writingandperformingyourpersonalstory|2026-07-18",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Stranger Sounds Session",
-      "category": "music",
-      "date": "2026-07-25",
-      "endDate": null,
-      "time": "4:00pm - 6:30pm",
-      "venue": "Stranger Conversations, 195 Pearls Hill Terrace, 02-38D",
-      "url": "https://www.instagram.com/p/DarxOATE_ms/",
-      "description": "Share original work-in-progress music, create songs in groups, connect with strangers through music.",
-      "source": "Stranger Sounds",
-      "key": "strangersoundssession|2026-07-25",
-      "firstSeen": "2026-07-14"
-    },
-    {
-      "title": "Shokudo Club (Pop-up)",
-      "category": "event",
-      "date": "2026-07-25",
-      "endDate": null,
-      "time": "2:00 PM - 6:00 PM",
-      "venue": "NOWHERE Bathhouse, 14A Dempsey Road, Singapore 249669",
-      "url": "https://www.nowherebaths.com/events",
-      "description": "Pair your bath with refreshing rice koji amazake. Complimentary tasting or purchase bottles to complement your bathhouse visit.",
-      "source": "NOWHERE",
-      "key": "shokudoclubpopup|2026-07-25",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Voyage Issue 02 Launch Party - 'Winds, Gathering'",
-      "category": "event",
-      "date": "2026-07-25",
-      "endDate": null,
-      "time": "2:00pm - 4:00pm",
-      "venue": "casual poet library",
-      "url": "https://www.instagram.com/p/Daw_Cf8x_6F/",
-      "description": "Launch party for Voyage literary journal Issue 02. Sign up required.",
-      "source": "Rainbow Fictioneers",
-      "key": "voyageissue02launchpartywindsgathering|2026-07-25",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "SAM Art Carnival",
-      "category": "festival",
-      "date": "2026-07-25",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Art carnival featuring various artists and performances",
-      "source": null,
-      "key": "samartcarnival|2026-07-25",
-      "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Saturday Afternoon Reading @ Holland Village (Craftsmen Coffee)",
-      "category": "event",
-      "date": "2026-07-25",
-      "endDate": null,
-      "time": "3:00 PM",
-      "venue": "Craftsman Coffee (Holland Village), 275 Holland Ave, Singapore 278993",
-      "url": "https://www.meetup.com/we-read-together/events/315788072/",
-      "description": "Small group reading session at cafe. Bring a book, buy a drink, read together, and share.",
-      "source": "We Read Together",
-      "key": "saturdayafternoonreadinghollandvillagecraftsmencoffee|2026-07-25",
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Catching Light: A Gentle Beading Workshop",
-      "category": "workshop",
-      "date": "2026-07-26",
-      "endDate": null,
-      "time": "14:00-16:00",
-      "venue": "The Living Room",
-      "url": "https://www.instagram.com/p/DaH9q0TTVph/",
-      "description": "Beading workshop creating sun catchers with crystals and found materials. Led by Art Psychotherapist Dawn Kwan.",
-      "source": "@the.living.room.sg",
-      "key": "catchinglightagentlebeadingworkshop|2026-07-26",
-      "firstSeen": "2026-06-30"
-    },
-    {
-      "title": "Sunday Morning Reading @ Bencoolen",
-      "category": "event",
-      "date": "2026-07-26",
-      "endDate": null,
-      "time": "10:00 AM",
-      "venue": "Crossings Cafe, 55 Waterloo St, Singapore 187954",
-      "url": "https://www.meetup.com/we-read-together/events/315769983/",
-      "description": "Small group reading session at social enterprise cafe. Bring a book, socialize, and read together.",
-      "source": "We Read Together",
-      "key": "sundaymorningreadingbencoolen|2026-07-26",
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Sunday Reading @ Feng Food (Woodlands)",
-      "category": "event",
-      "date": "2026-07-26",
-      "endDate": null,
-      "time": "11:00 AM",
-      "venue": "Feng Food, 6 Woodlands Square B2-04 Woods Square Mall S737737",
-      "url": "https://www.meetup.com/we-read-together/events/315819725/",
-      "description": "Small group reading session. Bring a book, grab refreshments, read and share with the community.",
-      "source": "We Read Together",
-      "key": "sundayreadingfengfoodwoodlands|2026-07-26",
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Wednesday Evening Reading @ Dewgather, Star Vista (Buona Vista)",
-      "category": "event",
-      "date": "2026-07-29",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Dewgather, The Star Vista, 1 Vista Exchange Green, #01-46, S138617",
-      "url": "https://www.meetup.com/we-read-together/events/315817379/",
-      "description": "Evening reading meetup at Dewgather. Bring a book, enjoy drinks/food, read and socialize.",
-      "source": "We Read Together",
-      "key": "wednesdayeveningreadingdewgatherstarvistabuonavista|2026-07-29",
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Artists Anonymous: Creative Support Session",
-      "category": "workshop",
-      "date": "2026-07-30",
-      "endDate": null,
-      "time": "7:30 PM - 10:00 PM",
-      "venue": "Stranger Conversations, 195 Pearl's Hill Terrace, 02-38D",
-      "url": "https://tinyurl.com/AACreativeSupportSessions",
-      "description": "Monthly creative support session for artists to build momentum, structure, and progress on creative dreams.",
-      "source": "Penguin Girl Art",
-      "key": "artistsanonymouscreativesupportsession|2026-07-30",
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Live Cello Performance & Wine Tasting",
-      "category": "music",
-      "date": "2026-07-30",
-      "endDate": null,
-      "time": "6:30 PM",
-      "venue": "Wasuka Art Gallery",
-      "url": "https://www.instagram.com/p/DbCovsnPV6b/",
-      "description": "Cellist Khachatur Khachatryan performs live with Portuguese wine tasting by Vinea. $88 per person.",
-      "source": "Wasuka Art",
-      "key": "livecelloperformancewinetasting|2026-07-30",
-      "firstSeen": "2026-07-25"
     },
     {
       "title": "A fool rushing in.",
@@ -393,17 +146,17 @@
       "firstSeen": "2026-06-20"
     },
     {
-      "title": "Odissi and Zapin Dance Performance",
-      "category": "theatre",
+      "title": "SLA25 Rediscovery Trail",
+      "category": "exhibition",
       "date": "2026-07-31",
-      "endDate": null,
+      "endDate": "2026-09-13",
       "time": null,
-      "venue": "The Standard Singapore",
+      "venue": null,
       "url": null,
-      "description": "Traditional dance forms Odissi and Zapin performed by Secret Melur and Chowk. DJ C2AC spinning beats. Free entry.",
-      "source": "Secret Melur / Chowk",
-      "key": "odissiandzapindanceperformance|2026-07-31",
-      "firstSeen": "2026-07-21"
+      "description": "SLA25 Rediscovery Trail celebrating Singapore's architectural heritage.",
+      "source": null,
+      "key": "sla25rediscoverytrail|2026-07-31",
+      "firstSeen": "2026-08-01"
     },
     {
       "title": "Soul Scribbles: Exploring Joy",
@@ -458,6 +211,123 @@
       "firstSeen": "2026-07-25"
     },
     {
+      "title": "14th World Oyster Festival",
+      "category": "festival",
+      "date": "2026-08-01",
+      "endDate": "2026-08-31",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "14th World Oyster Festival celebrating oyster cuisine and culture.",
+      "source": null,
+      "key": "14thworldoysterfestival|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Arterly Obsessed August & September Nude Figure Drawing",
+      "category": "workshop",
+      "date": "2026-08-01",
+      "endDate": "2026-09-30",
+      "time": null,
+      "venue": "Arterly Obsessed Studio, Pearl's Hill Terrace Unit 01-06",
+      "url": "https://www.instagram.com/arterlyobsessed/",
+      "description": "Nude figure drawing sessions at the studio. Booking available for August and September.",
+      "source": "@arterlyobsessed",
+      "key": "arterlyobsessedaugustseptembernudefiguredrawing|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Saturday Reading @ Redhill (Enabling Village)",
+      "category": "event",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": "10:00 AM",
+      "venue": "Postboy Coffee (Redhill), 20 Lengkok Bahru, Blk #02-01, Singapore 159053",
+      "url": "https://www.meetup.com/we-read-together/events/315871456/",
+      "description": "Small group reading meetup. Bring a book, buy a drink/bite, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "saturdayreadingredhillenablingvillage|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Saturday Reading @ Da Paolo Gastronomia (Holland Village)",
+      "category": "event",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": "11:00 AM",
+      "venue": "Da Paolo Gastronomia - Holland Village, 118 Holland Ave, #01-06, Raffles 278997, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315890446/",
+      "description": "Small group reading meetup. Bring a book, buy a drink/bite, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "saturdayreadingdapaologastronomiahollandvillage|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Saturday Afternoon Reading @ Taiseng (L'Vie5)",
+      "category": "event",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": "2:00 PM",
+      "venue": "Le Café Vie5 (L'Vie5 @TaiSeng), 151 Upper Paya Lebar Rd, Singapore 534851",
+      "url": "https://www.meetup.com/we-read-together/events/315856733/",
+      "description": "Small group reading meetup. Bring a book, buy a drink/bite, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "saturdayafternoonreadingtaisenglvie5|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "BookTalk: Taiwan Travelogue @ Redhill (Abundance Taiwanese)",
+      "category": "event",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": "2:30 PM",
+      "venue": "Abundance, 63A Lengkok Bahru, #01-378 S151063, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315439391/",
+      "description": "Book discussion group for Taiwan Travelogue. Bring your copy, drink, food. Open discussion with guiding topics.",
+      "source": "We Read Together",
+      "key": "booktalktaiwantravelogueredhillabundancetaiwanese|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Wa Suka Singapore - Exhibition",
+      "category": "exhibition",
+      "date": "2026-08-01",
+      "endDate": "2026-08-31",
+      "time": null,
+      "venue": "Wa Suka Singapore Gallery",
+      "url": "https://www.instagram.com/p/DbMrRYPv2hY/",
+      "description": "Exhibition celebrating Singapore through artworks inspired by everyday neighbourhoods, featuring works by Foo Kwee Horng and GohHong.",
+      "source": "Wa Suka",
+      "key": "wasukasingaporeexhibition|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "The Makers Ground @ EXPO",
+      "category": "market",
+      "date": "2026-08-01",
+      "endDate": "2026-08-02",
+      "time": null,
+      "venue": "EXPO",
+      "url": null,
+      "description": "Makers market at EXPO featuring artisan goods and crafts.",
+      "source": null,
+      "key": "themakersgroundexpo|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Baia x 100% Latin Brunch Party",
+      "category": "event",
+      "date": "2026-08-01",
+      "endDate": null,
+      "time": null,
+      "venue": "Baia",
+      "url": null,
+      "description": "Latin rooftop brunch party at Baia with 100% Latin music.",
+      "source": null,
+      "key": "baiax100latinbrunchparty|2026-08-01",
+      "firstSeen": "2026-08-01"
+    },
+    {
       "title": "Research Sharing: Singapore Hawker Heritage & Livelihood",
       "category": "event",
       "date": "2026-08-02",
@@ -471,6 +341,19 @@
       "firstSeen": "2026-07-25"
     },
     {
+      "title": "Drag & Dance Night at The Standard",
+      "category": "music",
+      "date": "2026-08-02",
+      "endDate": null,
+      "time": null,
+      "venue": "The Standard",
+      "url": null,
+      "description": "Secret Melur's Malay dance showcase with Chowk's Odissi dance theatre and DJ C2AC. Free, registration required.",
+      "source": "The Standard",
+      "key": "dragdancenightatthestandard|2026-08-02",
+      "firstSeen": "2026-08-01"
+    },
+    {
       "title": "Between the Lines: A Curated Social Evening for Readers",
       "category": "event",
       "date": "2026-08-07",
@@ -482,6 +365,32 @@
       "source": "Quiet Readers Club",
       "key": "betweenthelinesacuratedsocialeveningforreaders|2026-08-07",
       "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "National Day Patriotic Workshops",
+      "category": "workshop",
+      "date": "2026-08-09",
+      "endDate": null,
+      "time": null,
+      "venue": "195 Pearl's Hill Terrace #1-10 & #1-06",
+      "url": "https://www.instagram.com/p/DbAsL2YoG5x/",
+      "description": "Hybrid orchid linked keychains and chicken saucer UV resin painting. Dress in red/white for special surprise.",
+      "source": "Arterly Obsessed",
+      "key": "nationaldaypatrioticworkshops|2026-08-09",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Don't Say Bojio - Speed-Friending & Game Day",
+      "category": "event",
+      "date": "2026-08-10",
+      "endDate": null,
+      "time": "14:00",
+      "venue": "Strangers Convo, 195 Pearl Hill Terrace #02-38D",
+      "url": "https://tally.so/r/2EoEee",
+      "description": "2 hours speed-friending followed by social deduction games. National Day special pricing from $24.",
+      "source": "Vybes Social",
+      "key": "dontsaybojiospeedfriendinggameday|2026-08-10",
+      "firstSeen": "2026-08-01"
     },
     {
       "title": "Singapore Gallery Month",
@@ -547,6 +456,32 @@
       "source": "Silent Book Club Singapore",
       "key": "silentbookclub|2026-08-15",
       "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "Head Massage by YUMEMI",
+      "category": "workshop",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "1:00 PM - 7:00 PM",
+      "venue": "NOWHERE, 14A Dempsey Road, Singapore 249669",
+      "url": "https://nowherebaths.as.me/massage",
+      "description": "30-minute signature head massage for deep relaxation and bathing bliss. Bathhouse entry available as add-on.",
+      "source": "NOWHERE",
+      "key": "headmassagebyyumemi|2026-08-15",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Chess Night at the Bathhouse",
+      "category": "event",
+      "date": "2026-08-19",
+      "endDate": null,
+      "time": "7:00 PM - 10:00 PM",
+      "venue": "NOWHERE, 14A Dempsey Road, Singapore 249669",
+      "url": "https://nowherebaths.as.me/chess-night",
+      "description": "Evening of bathing and chess with Aliwal Chess Club. Free lounge entry and chess participation with bathhouse pass. DJs playing throughout.",
+      "source": "NOWHERE",
+      "key": "chessnightatthebathhouse|2026-08-19",
+      "firstSeen": "2026-08-01"
     },
     {
       "title": "Singapore Night Festival 2026",
@@ -666,6 +601,32 @@
       "firstSeen": "2026-07-14"
     },
     {
+      "title": "Departures",
+      "category": "exhibition",
+      "date": "2026-11-06",
+      "endDate": "2026-12-31",
+      "time": null,
+      "venue": null,
+      "url": "https://ohopenhouse.org/",
+      "description": "Pilot programme commissioning site-responsive artworks in spaces slated for clearance or redevelopment.",
+      "source": "OH! Open House",
+      "key": "departures|2026-11-06",
+      "firstSeen": "2026-08-01"
+    },
+    {
+      "title": "Boutiques Singapore - The Gifting Edition 2026",
+      "category": "market",
+      "date": "2026-11-20",
+      "endDate": "2026-11-22",
+      "time": null,
+      "venue": "F1 Pit Building, Singapore",
+      "url": "https://www.instagram.com/p/DbQgLusD7C_/",
+      "description": "Design marketplace celebrating original design in Asia with independent brands and designers. Vendor applications open.",
+      "source": "Boutique Fairs",
+      "key": "boutiquessingaporethegiftingedition2026|2026-11-20",
+      "firstSeen": "2026-08-01"
+    },
+    {
       "title": "OH! Golden Mile Art Walk",
       "category": "event",
       "date": "2027-01-17",
@@ -729,19 +690,6 @@
       "firstSeen": "2026-06-14",
       "category": "exhibition",
       "endDate": "2026-08-23"
-    },
-    {
-      "title": "Figure Drawing Sessions",
-      "category": "workshop",
-      "date": null,
-      "endDate": "2026-07-29",
-      "time": null,
-      "venue": "195 Pearl's Hill Terrace, 01-06",
-      "url": "https://www.instagram.com/p/DaAPWEljurL/",
-      "description": "Figure drawing sessions for July. Explore the human figure through drawing. All materials provided.",
-      "source": "Arterly Obsessed",
-      "key": "figuredrawingsessions|",
-      "firstSeen": "2026-06-27"
     }
   ]
 }
