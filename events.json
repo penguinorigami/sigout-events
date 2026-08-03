@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T23:33:31.053Z",
-  "totalEvents": 53,
+  "lastUpdated": "2026-08-03T23:39:53.029Z",
+  "totalEvents": 52,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -16,32 +16,6 @@
       "firstSeen": "2026-06-20"
     },
     {
-      "title": "Maps | Directions to My House",
-      "category": "event",
-      "date": "2026-06-06",
-      "endDate": "2026-08-01",
-      "time": null,
-      "venue": "STPI",
-      "url": "https://agas.org.sg/events/maps-directions-to-my-house/",
-      "description": "Create a personal map of your journey to STPI and add it to the collection of cartographies from other visitors.",
-      "source": "STPI",
-      "key": "mapsdirectionstomyhouse|2026-06-06",
-      "firstSeen": "2026-06-16"
-    },
-    {
-      "title": "STPI Annual Special Exhibition | Zarina: Directions to My House",
-      "category": "exhibition",
-      "date": "2026-06-06",
-      "endDate": "2026-08-01",
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/stpi-annual-special-exhibition-zarina-directions-to-my-house",
-      "description": "Solo exhibition exploring Zarina's artistic practice and directions.",
-      "source": "STPI",
-      "key": "stpiannualspecialexhibitionzarinadirectionstomyhouse|2026-06-06",
-      "firstSeen": "2026-06-16"
-    },
-    {
       "title": "Xue Song: Where is the Mountain?",
       "category": "exhibition",
       "date": "2026-06-12",
@@ -53,19 +27,6 @@
       "source": "Kwai Fung Hin Art Gallery",
       "key": "xuesongwhereisthemountain|2026-06-12",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Arty Afternoon | Timber Textures: Charcoal Rubbings",
-      "category": "workshop",
-      "date": "2026-06-13",
-      "endDate": "2026-08-01",
-      "time": "11:00 AM",
-      "venue": "STPI",
-      "url": "https://agas.org.sg/events/arty-afternoon-timber-textures-charcoal-rubbings/",
-      "description": "Free drop-in printmaking event exploring charcoal rubbings with natural materials and carved woodblocks for all ages.",
-      "source": "STPI",
-      "key": "artyafternoontimbertexturescharcoalrubbings|2026-06-13",
-      "firstSeen": "2026-06-16"
     },
     {
       "title": "Hiroshi Sugimoto: Form Is Emptiness",
@@ -92,19 +53,6 @@
       "source": "Asian Civilisations Museum",
       "key": "crosscurrentsmasterpiecesofmughalsafavidandottomanartfromthemusedulouvre|2026-06-19",
       "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Raffles Heritage Sunset Tour 2026",
-      "category": "event",
-      "date": "2026-06-26",
-      "endDate": "2026-08-01",
-      "time": null,
-      "venue": "Raffles Hotel",
-      "url": null,
-      "description": "Heritage tour exploring Raffles Hotel's historic significance and architecture",
-      "source": null,
-      "key": "rafflesheritagesunsettour2026|2026-06-26",
-      "firstSeen": "2026-06-27"
     },
     {
       "title": "Shadows, Signals, and the Line: Abstract Expressionism in Singapore",
@@ -159,32 +107,6 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "Soul Scribbles: Exploring Joy",
-      "category": "workshop",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "6:00pm - 9:00pm",
-      "venue": "Casual Poet Library",
-      "url": "https://bit.ly/soul-scribbles-signup",
-      "description": "Creative writing workshop exploring joy through poems, writing prompts and stillness. All welcome.",
-      "source": "Ginkgo Wellness",
-      "key": "soulscribblesexploringjoy|2026-08-01",
-      "firstSeen": "2026-07-14"
-    },
-    {
-      "title": "Symphony in the Gardens",
-      "category": "music",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "18:00-19:00",
-      "venue": "Shaw Foundation Symphony Stage, Singapore Botanic Gardens",
-      "url": null,
-      "description": "Symphony concert in the gardens. Free entry.",
-      "source": "Singapore Botanic Gardens",
-      "key": "symphonyinthegardens|2026-08-01",
-      "firstSeen": "2026-07-21"
-    },
-    {
       "title": "Light Together Bras Basah.Bugis",
       "category": "festival",
       "date": "2026-08-01",
@@ -196,19 +118,6 @@
       "source": null,
       "key": "lighttogetherbrasbasahbugis|2026-08-01",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "3 Course Meal + Riso Zine Workshop",
-      "category": "workshop",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "6:00pm–9:30pm",
-      "venue": "Mother Dough Bakery, Level 2",
-      "url": null,
-      "description": "Risograph zinemaking workshop with curated 3-course meal. Beginners friendly. Create your own 2-colour zine. $140/person.",
-      "source": "Knuckles and Notch",
-      "key": "3coursemealrisozineworkshop|2026-08-01",
-      "firstSeen": "2026-07-25"
     },
     {
       "title": "14th World Oyster Festival",
@@ -237,58 +146,6 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "Saturday Reading @ Redhill (Enabling Village)",
-      "category": "event",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "10:00 AM",
-      "venue": "Postboy Coffee (Redhill), 20 Lengkok Bahru, Blk #02-01, Singapore 159053",
-      "url": "https://www.meetup.com/we-read-together/events/315871456/",
-      "description": "Small group reading meetup. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "saturdayreadingredhillenablingvillage|2026-08-01",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "Saturday Reading @ Da Paolo Gastronomia (Holland Village)",
-      "category": "event",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "11:00 AM",
-      "venue": "Da Paolo Gastronomia - Holland Village, 118 Holland Ave, #01-06, Raffles 278997, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315890446/",
-      "description": "Small group reading meetup. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "saturdayreadingdapaologastronomiahollandvillage|2026-08-01",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "Saturday Afternoon Reading @ Taiseng (L'Vie5)",
-      "category": "event",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "2:00 PM",
-      "venue": "Le Café Vie5 (L'Vie5 @TaiSeng), 151 Upper Paya Lebar Rd, Singapore 534851",
-      "url": "https://www.meetup.com/we-read-together/events/315856733/",
-      "description": "Small group reading meetup. Bring a book, buy a drink/bite, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "saturdayafternoonreadingtaisenglvie5|2026-08-01",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "BookTalk: Taiwan Travelogue @ Redhill (Abundance Taiwanese)",
-      "category": "event",
-      "date": "2026-08-01",
-      "endDate": null,
-      "time": "2:30 PM",
-      "venue": "Abundance, 63A Lengkok Bahru, #01-378 S151063, Singapore",
-      "url": "https://www.meetup.com/we-read-together/events/315439391/",
-      "description": "Book discussion group for Taiwan Travelogue. Bring your copy, drink, food. Open discussion with guiding topics.",
-      "source": "We Read Together",
-      "key": "booktalktaiwantravelogueredhillabundancetaiwanese|2026-08-01",
-      "firstSeen": "2026-08-01"
-    },
-    {
       "title": "Wa Suka Singapore - Exhibition",
       "category": "exhibition",
       "date": "2026-08-01",
@@ -302,56 +159,69 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "The Makers Ground @ EXPO",
-      "category": "market",
-      "date": "2026-08-01",
-      "endDate": "2026-08-02",
-      "time": null,
-      "venue": "EXPO",
-      "url": null,
-      "description": "Makers market at EXPO featuring artisan goods and crafts.",
-      "source": null,
-      "key": "themakersgroundexpo|2026-08-01",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "Baia x 100% Latin Brunch Party",
+      "title": "Tuesday Reading @ Clementi",
       "category": "event",
-      "date": "2026-08-01",
+      "date": "2026-08-04",
       "endDate": null,
-      "time": null,
-      "venue": "Baia",
-      "url": null,
-      "description": "Latin rooftop brunch party at Baia with 100% Latin music.",
-      "source": null,
-      "key": "baiax100latinbrunchparty|2026-08-01",
-      "firstSeen": "2026-08-01"
+      "time": "7:00 PM",
+      "venue": "Tsujiri @ Clementi Peaks, 464B Clementi Ave 1, Singapore 121464",
+      "url": "https://www.meetup.com/we-read-together/events/315775939/",
+      "description": "Book reading meetup. Bring a book, buy a drink/bite, read together with the group.",
+      "source": "We Read Together",
+      "key": "tuesdayreadingclementi|2026-08-04",
+      "firstSeen": "2026-08-04"
     },
     {
-      "title": "Research Sharing: Singapore Hawker Heritage & Livelihood",
+      "title": "Tuesday Evening Reading @ Little Farms (Holland Village)",
       "category": "event",
-      "date": "2026-08-02",
+      "date": "2026-08-04",
       "endDate": null,
-      "time": "6:00 PM - 7:00 PM",
-      "venue": "Mad Roaster's Slow Bar, 20 Lengkok Bahru #01-20 Enabling Village Outpost",
-      "url": "https://www.instagram.com/p/DbJEEBkFBYd/",
-      "description": "Live research session with Chef Jenny Dorsey on Singapore hawker centres, UNESCO heritage, and the future of hawker culture.",
-      "source": "Stranger Conversations",
-      "key": "researchsharingsingaporehawkerheritagelivelihood|2026-08-02",
-      "firstSeen": "2026-07-25"
+      "time": "7:00 PM",
+      "venue": "Little Farms, 2A Lorong Mambong, Singapore 277671",
+      "url": "https://www.meetup.com/we-read-together/events/315943242/",
+      "description": "Book reading meetup. Bring a book, buy a drink/bite, read together with the group.",
+      "source": "We Read Together",
+      "key": "tuesdayeveningreadinglittlefarmshollandvillage|2026-08-04",
+      "firstSeen": "2026-08-04"
     },
     {
-      "title": "Drag & Dance Night at The Standard",
+      "title": "[Activate August!] Tuesday Reading @ Tanjong Pagar",
+      "category": "event",
+      "date": "2026-08-04",
+      "endDate": null,
+      "time": "7:15 PM",
+      "venue": "Japan Rail Cafe, 5 Wallich St, #01-20 Guoco Tower, Singapore 078883",
+      "url": "https://www.meetup.com/we-read-together/events/315756031/",
+      "description": "Book reading meetup hosted by past attendee. Bring a book, buy a drink/bite, read together.",
+      "source": "We Read Together",
+      "key": "activateaugusttuesdayreadingtanjongpagar|2026-08-04",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Drag, Odissi & DJ Night at The Standard",
       "category": "music",
-      "date": "2026-08-02",
+      "date": "2026-08-05",
       "endDate": null,
       "time": null,
       "venue": "The Standard",
       "url": null,
-      "description": "Secret Melur's Malay dance showcase with Chowk's Odissi dance theatre and DJ C2AC. Free, registration required.",
-      "source": "The Standard",
-      "key": "dragdancenightatthestandard|2026-08-02",
-      "firstSeen": "2026-08-01"
+      "description": "Secret Melur performs Malay dance, Chowk performs Odissi, DJ C2AC spins. Free, registration required.",
+      "source": "Corner Room / The Standard",
+      "key": "dragodissidjnightatthestandard|2026-08-05",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Thursday Afternoon Reading @ Puffs And Peaks (Tampines)",
+      "category": "event",
+      "date": "2026-08-06",
+      "endDate": null,
+      "time": "3:30 PM",
+      "venue": "Puffs And Peaks Bakery Café, Tampines Changkat Community Club, 13 Tampines St 11, Singapore 529453",
+      "url": "https://www.meetup.com/we-read-together/events/315772100/",
+      "description": "Book reading meetup. Bring a book, buy a drink/bite, read together with the group.",
+      "source": "We Read Together",
+      "key": "thursdayafternoonreadingpuffsandpeakstampines|2026-08-06",
+      "firstSeen": "2026-08-04"
     },
     {
       "title": "Between the Lines: A Curated Social Evening for Readers",
@@ -365,6 +235,19 @@
       "source": "Quiet Readers Club",
       "key": "betweenthelinesacuratedsocialeveningforreaders|2026-08-07",
       "firstSeen": "2026-07-21"
+    },
+    {
+      "title": "Voyage Issue 02 Launch Party - Winds, Gathering",
+      "category": "event",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": "2:00 PM - 4:00 PM",
+      "venue": "Casual Poet Library",
+      "url": null,
+      "description": "Launch party for Issue 02 of Voyage magazine with theme 'Winds, Gathering'. Sign up required.",
+      "source": "rainbowfictioneers",
+      "key": "voyageissue02launchpartywindsgathering|2026-08-08",
+      "firstSeen": "2026-08-04"
     },
     {
       "title": "National Day Patriotic Workshops",
@@ -471,6 +354,19 @@
       "firstSeen": "2026-08-01"
     },
     {
+      "title": "Quiet Readers Club Gathering",
+      "category": "event",
+      "date": "2026-08-16",
+      "endDate": null,
+      "time": "11:00 - 14:00",
+      "venue": "Room to Imagine Art Studio, 420 North Bridge Road, #05-30",
+      "url": "https://www.instagram.com/p/DbhjquiReKa/",
+      "description": "Readers gathering at North Bridge Road. Registration $18 per pax ($16 with first-timer friend).",
+      "source": "Quiet Readers Club",
+      "key": "quietreadersclubgathering|2026-08-16",
+      "firstSeen": "2026-08-04"
+    },
+    {
       "title": "Chess Night at the Bathhouse",
       "category": "event",
       "date": "2026-08-19",
@@ -562,6 +458,32 @@
       "firstSeen": "2026-07-18"
     },
     {
+      "title": "Outdoor Library Day - Casual Poet Library 2nd Birthday",
+      "category": "event",
+      "date": "2026-08-29",
+      "endDate": null,
+      "time": "4pm-7pm",
+      "venue": "Outside Casual Poet Library",
+      "url": "https://www.instagram.com/p/Dbf8qKKvSzk/",
+      "description": "Celebrate Casual Poet Library's 2nd birthday with outdoor reading, Thai-Mex tacos, and pre-loved books.",
+      "source": "Casual Poet Library",
+      "key": "outdoorlibrarydaycasualpoetlibrary2ndbirthday|2026-08-29",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
+      "category": "workshop",
+      "date": "2026-08-29",
+      "endDate": null,
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/arty-afternoon-urban-impressions-embossing-and-stencilling",
+      "description": "Hands-on afternoon workshop on embossing and stencilling urban art techniques.",
+      "source": "STPI",
+      "key": "artyafternoonurbanimpressionsembossingstencilling|2026-08-29",
+      "firstSeen": "2026-08-04"
+    },
+    {
       "title": "Responsive Art Therapy Workshop with The Red Pencil",
       "category": "workshop",
       "date": "2026-09-05",
@@ -573,6 +495,32 @@
       "source": "The Red Pencil",
       "key": "responsivearttherapyworkshopwiththeredpencil|2026-09-05",
       "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Screenprinting Flocking | Layers of Identity",
+      "category": "workshop",
+      "date": "2026-09-05",
+      "endDate": "2026-09-09",
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/screenprinting-and-flocking-layers-of-identity",
+      "description": "Hands-on workshop on screenprinting and flocking techniques exploring identity themes.",
+      "source": "STPI",
+      "key": "screenprintingflockinglayersofidentity|2026-09-05",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
+      "category": "workshop",
+      "date": "2026-09-12",
+      "endDate": null,
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/arty-afternoon-urban-impressions-embossing-and-stencilling",
+      "description": "Hands-on afternoon workshop on embossing and stencilling urban art techniques.",
+      "source": "STPI",
+      "key": "artyafternoonurbanimpressionsembossingstencilling|2026-09-12",
+      "firstSeen": "2026-08-04"
     },
     {
       "title": "trace03: life drawing x dance",
@@ -599,6 +547,45 @@
       "source": "I.F. Gallery",
       "key": "chickenillustrationworkshopbyracheloon|2026-09-19",
       "firstSeen": "2026-07-14"
+    },
+    {
+      "title": "Mokulito | Mundane Monsters",
+      "category": "workshop",
+      "date": "2026-09-26",
+      "endDate": "2026-10-07",
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/mokulito-mundane-monsters",
+      "description": "Multi-day workshop exploring mundane monsters through artistic practice and creativity.",
+      "source": "STPI",
+      "key": "mokulitomundanemonsters|2026-09-26",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Street Art Special: Outside the Lines",
+      "category": "workshop",
+      "date": "2026-09-30",
+      "endDate": null,
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/street-art-special-outside-the-lines",
+      "description": "Special workshop on street art techniques and creative expression beyond boundaries.",
+      "source": "STPI",
+      "key": "streetartspecialoutsidethelines|2026-09-30",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
+      "category": "workshop",
+      "date": "2026-10-10",
+      "endDate": null,
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/arty-afternoon-urban-impressions-embossing-and-stencilling",
+      "description": "Hands-on afternoon workshop on embossing and stencilling urban art techniques.",
+      "source": "STPI",
+      "key": "artyafternoonurbanimpressionsembossingstencilling|2026-10-10",
+      "firstSeen": "2026-08-04"
     },
     {
       "title": "Departures",
