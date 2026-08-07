@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-08-03T23:39:53.029Z",
-  "count": 34,
+  "lastUpdated": "2026-08-07T23:09:11.671Z",
+  "count": 25,
   "events": [
-    {
-      "title": "Maria Taniguchi: Afterimage",
-      "category": "exhibition",
-      "date": "2026-07-24",
-      "endDate": "2026-11-22",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Art exhibition by Maria Taniguchi",
-      "source": null,
-      "key": "mariataniguchiafterimage|2026-07-24",
-      "firstSeen": "2026-07-21"
-    },
     {
       "title": "Storytelling through Photography",
       "category": "workshop",
@@ -42,82 +29,17 @@
       "firstSeen": "2026-08-04"
     },
     {
-      "title": "National Day Improv Comedy!",
-      "category": "event",
-      "date": "2026-08-05",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "National Day-themed improv comedy performance",
-      "source": null,
-      "key": "nationaldayimprovcomedy|2026-08-05",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Let's Celebrate: Timekeepers of Temasek Shophouse",
-      "category": "event",
-      "date": "2026-08-07",
-      "endDate": "2026-08-08",
-      "time": null,
-      "venue": "Temasek Shophouse",
-      "url": null,
-      "description": "Weekend celebration exploring timekeepers of Temasek Shophouse",
-      "source": null,
-      "key": "letscelebratetimekeepersoftemasekshophouse|2026-08-07",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Project: Ronggeng",
-      "category": "music",
-      "date": "2026-08-07",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Music and nightlife event Project: Ronggeng",
-      "source": null,
-      "key": "projectronggeng|2026-08-07",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Not Your Standard Bingo",
-      "category": "event",
+      "title": "Our Tampines: Beyond Heartbeats",
+      "category": "exhibition",
       "date": "2026-08-08",
-      "endDate": null,
+      "endDate": "2026-08-10",
       "time": null,
-      "venue": null,
+      "venue": "Tampines",
       "url": null,
-      "description": "Not Your Standard Bingo with Pups Go Blonde",
+      "description": "Our Tampines exhibition beyond heartbeats",
       "source": null,
-      "key": "notyourstandardbingo|2026-08-08",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Let's Celebrate Weekend: Old Spaces, New Purpose",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Celebration exploring old spaces repurposed with new purpose",
-      "source": null,
-      "key": "letscelebrateweekendoldspacesnewpurpose|2026-08-08",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Kampung Elektrik",
-      "category": "festival",
-      "date": "2026-08-13",
-      "endDate": "2026-08-16",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Festival event",
-      "source": null,
-      "key": "kampungelektrik|2026-08-13",
-      "firstSeen": "2026-07-18"
+      "key": "ourtampinesbeyondheartbeats|2026-08-08",
+      "firstSeen": "2026-08-08"
     },
     {
       "title": "Zentangle Workshop with LiFern",
@@ -302,19 +224,6 @@
       "firstSeen": "2026-08-04"
     },
     {
-      "title": "GohHong's Miniature Wildlife Drawings",
-      "category": "exhibition",
-      "date": null,
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://www.instagram.com/wasuka.art/",
-      "description": "Exhibition of intricate miniature drawings of Singapore's native wildlife, each drawing ~4cm",
-      "source": "Wasuka Art",
-      "key": "gohhongsminiaturewildlifedrawings|",
-      "firstSeen": "2026-08-04"
-    },
-    {
       "title": "Scent Journey Community - Guided Sensory Experience",
       "category": "workshop",
       "date": null,
@@ -341,19 +250,6 @@
       "firstSeen": "2026-08-04"
     },
     {
-      "title": "Gallery StoryMakers!",
-      "category": "workshop",
-      "date": null,
-      "endDate": null,
-      "time": null,
-      "venue": "National Gallery Singapore",
-      "url": "https://www.nationalgallery.sg/sg/en/workshops/Gallery-StoryMakers.html",
-      "description": "Workshop where participants create stories inspired by artworks.",
-      "source": "National Gallery Singapore",
-      "key": "gallerystorymakers|",
-      "firstSeen": "2026-08-04"
-    },
-    {
       "title": "Hands On! - A Scent Journey featuring A Thing of Sense",
       "category": "workshop",
       "date": null,
@@ -364,19 +260,6 @@
       "description": "Learn how scent interacts with interior environments, tactile furniture, and raw materials with artisanal scent studio A Thing of Sense.",
       "source": "A Thing of Sense",
       "key": "handsonascentjourneyfeaturingathingofsense|",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Crafted with Purpose: Journey East × FIN Crafted Goods",
-      "category": "event",
-      "date": null,
-      "endDate": null,
-      "time": null,
-      "venue": "Journey East, 315 Outram Rd, Singapore",
-      "url": "https://journeyeast.com/blogs/events/crafted-with-purpose-featuring-fin-crafted-goods",
-      "description": "Weekend collaboration honouring the soulful artistry of makers, menders, and the magic of the handmade.",
-      "source": "FIN Crafted Goods",
-      "key": "craftedwithpurposejourneyeastfincraftedgoods|",
       "firstSeen": "2026-08-04"
     },
     {

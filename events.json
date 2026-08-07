@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-03T23:39:53.029Z",
-  "totalEvents": 52,
+  "lastUpdated": "2026-08-07T23:09:11.671Z",
+  "totalEvents": 56,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -81,6 +81,19 @@
       "firstSeen": "2026-06-30"
     },
     {
+      "title": "Maria Taniguchi: Afterimage",
+      "category": "exhibition",
+      "date": "2026-07-24",
+      "endDate": "2026-11-22",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Art exhibition by Maria Taniguchi",
+      "source": null,
+      "key": "mariataniguchiafterimage|2026-07-24",
+      "firstSeen": "2026-07-21"
+    },
+    {
       "title": "A fool rushing in.",
       "category": "event",
       "date": "2026-07-31",
@@ -105,19 +118,6 @@
       "source": null,
       "key": "sla25rediscoverytrail|2026-07-31",
       "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "Light Together Bras Basah.Bugis",
-      "category": "festival",
-      "date": "2026-08-01",
-      "endDate": "2026-08-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Festival in Bras Basah and Bugis area",
-      "source": null,
-      "key": "lighttogetherbrasbasahbugis|2026-08-01",
-      "firstSeen": "2026-07-18"
     },
     {
       "title": "14th World Oyster Festival",
@@ -159,82 +159,17 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "Tuesday Reading @ Clementi",
-      "category": "event",
-      "date": "2026-08-04",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Tsujiri @ Clementi Peaks, 464B Clementi Ave 1, Singapore 121464",
-      "url": "https://www.meetup.com/we-read-together/events/315775939/",
-      "description": "Book reading meetup. Bring a book, buy a drink/bite, read together with the group.",
-      "source": "We Read Together",
-      "key": "tuesdayreadingclementi|2026-08-04",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Tuesday Evening Reading @ Little Farms (Holland Village)",
-      "category": "event",
-      "date": "2026-08-04",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venue": "Little Farms, 2A Lorong Mambong, Singapore 277671",
-      "url": "https://www.meetup.com/we-read-together/events/315943242/",
-      "description": "Book reading meetup. Bring a book, buy a drink/bite, read together with the group.",
-      "source": "We Read Together",
-      "key": "tuesdayeveningreadinglittlefarmshollandvillage|2026-08-04",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "[Activate August!] Tuesday Reading @ Tanjong Pagar",
-      "category": "event",
-      "date": "2026-08-04",
-      "endDate": null,
-      "time": "7:15 PM",
-      "venue": "Japan Rail Cafe, 5 Wallich St, #01-20 Guoco Tower, Singapore 078883",
-      "url": "https://www.meetup.com/we-read-together/events/315756031/",
-      "description": "Book reading meetup hosted by past attendee. Bring a book, buy a drink/bite, read together.",
-      "source": "We Read Together",
-      "key": "activateaugusttuesdayreadingtanjongpagar|2026-08-04",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Drag, Odissi & DJ Night at The Standard",
-      "category": "music",
-      "date": "2026-08-05",
-      "endDate": null,
-      "time": null,
-      "venue": "The Standard",
-      "url": null,
-      "description": "Secret Melur performs Malay dance, Chowk performs Odissi, DJ C2AC spins. Free, registration required.",
-      "source": "Corner Room / The Standard",
-      "key": "dragodissidjnightatthestandard|2026-08-05",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Thursday Afternoon Reading @ Puffs And Peaks (Tampines)",
-      "category": "event",
-      "date": "2026-08-06",
-      "endDate": null,
-      "time": "3:30 PM",
-      "venue": "Puffs And Peaks Bakery Café, Tampines Changkat Community Club, 13 Tampines St 11, Singapore 529453",
-      "url": "https://www.meetup.com/we-read-together/events/315772100/",
-      "description": "Book reading meetup. Bring a book, buy a drink/bite, read together with the group.",
-      "source": "We Read Together",
-      "key": "thursdayafternoonreadingpuffsandpeakstampines|2026-08-06",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Between the Lines: A Curated Social Evening for Readers",
+      "title": "Let's Celebrate: Timekeepers of Temasek Shophouse",
       "category": "event",
       "date": "2026-08-07",
-      "endDate": null,
-      "time": "19:30",
-      "venue": "Maha Yu Yi Bookstore, Bras Basah Complex, #02-15",
-      "url": "https://www.instagram.com/p/DazPgu_ETEn/",
-      "description": "Curated social evening for readers aged 25-45 with meaningful conversations and new connections.",
-      "source": "Quiet Readers Club",
-      "key": "betweenthelinesacuratedsocialeveningforreaders|2026-08-07",
-      "firstSeen": "2026-07-21"
+      "endDate": "2026-08-08",
+      "time": null,
+      "venue": "Temasek Shophouse",
+      "url": null,
+      "description": "Weekend celebration exploring timekeepers of Temasek Shophouse",
+      "source": null,
+      "key": "letscelebratetimekeepersoftemasekshophouse|2026-08-07",
+      "firstSeen": "2026-08-04"
     },
     {
       "title": "Voyage Issue 02 Launch Party - Winds, Gathering",
@@ -248,6 +183,97 @@
       "source": "rainbowfictioneers",
       "key": "voyageissue02launchpartywindsgathering|2026-08-08",
       "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Saturday Morning Reading @ Van Kafe (Jurong East)",
+      "category": "event",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": "10:00 AM",
+      "venue": "Van Kafe, 2 Jurong Gateway Rd, #01-02, Singapore 608512",
+      "url": "https://www.meetup.com/we-read-together/events/315976192/",
+      "description": "Small group reading session. Bring a book, buy a drink, read together with intros and sharing.",
+      "source": "We Read Together",
+      "key": "saturdaymorningreadingvankafejurongeast|2026-08-08",
+      "firstSeen": "2026-08-08"
+    },
+    {
+      "title": "[Activate August!] Saturday Reading @ Bras Basah",
+      "category": "event",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": "2:00 PM",
+      "venue": "Crossings Cafe, 55 Waterloo St, Singapore 187954",
+      "url": "https://www.meetup.com/we-read-together/events/315756078/",
+      "description": "Activate August hosted session. Bring a book, buy refreshments, read and share with the group.",
+      "source": "We Read Together",
+      "key": "activateaugustsaturdayreadingbrasbasah|2026-08-08",
+      "firstSeen": "2026-08-08"
+    },
+    {
+      "title": "Saturday Happy Hour Reading @ Orchard",
+      "category": "event",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": "5:00 PM",
+      "venue": "The House Bar, Regent Hotel, 1 Cuscaden Road, #01-02, Singapore 249715",
+      "url": "https://www.meetup.com/we-read-together/events/315747660/",
+      "description": "Reading session during happy hour. Bring a book, catch 1 for 1 cocktails and food deals.",
+      "source": "We Read Together",
+      "key": "saturdayhappyhourreadingorchard|2026-08-08",
+      "firstSeen": "2026-08-08"
+    },
+    {
+      "title": "Saturday Evening Reading @ Tampines",
+      "category": "event",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": "5:30 PM",
+      "venue": "GIG Cafe, Blk 419 Tampines Street 41, #01-104, Singapore 520419",
+      "url": "https://www.meetup.com/we-read-together/events/315973864/",
+      "description": "Evening reading session. Bring a book, enjoy drinks/snacks, participate in intros and sharing.",
+      "source": "We Read Together",
+      "key": "saturdayeveningreadingtampines|2026-08-08",
+      "firstSeen": "2026-08-08"
+    },
+    {
+      "title": "Tan Lip Seng: A Life in Colour",
+      "category": "exhibition",
+      "date": "2026-08-08",
+      "endDate": "2026-09-27",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Tan Lip Seng exhibition showcasing a life in colour",
+      "source": null,
+      "key": "tanlipsengalifeincolour|2026-08-08",
+      "firstSeen": "2026-08-08"
+    },
+    {
+      "title": "Let's Celebrate Weekend: Old Spaces, New Purpose",
+      "category": "event",
+      "date": "2026-08-08",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Celebration exploring old spaces repurposed with new purpose",
+      "source": null,
+      "key": "letscelebrateweekendoldspacesnewpurpose|2026-08-08",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Roots Resonance 2026: Through Brush and Memory",
+      "category": "exhibition",
+      "date": "2026-08-08",
+      "endDate": "2026-08-30",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Roots Resonance exhibition featuring brush and memory",
+      "source": null,
+      "key": "rootsresonance2026throughbrushandmemory|2026-08-08",
+      "firstSeen": "2026-08-08"
     },
     {
       "title": "National Day Patriotic Workshops",
@@ -367,6 +393,19 @@
       "firstSeen": "2026-08-04"
     },
     {
+      "title": "Stranger Conversation: Four Stories. Four Questions.",
+      "category": "event",
+      "date": "2026-08-18",
+      "endDate": null,
+      "time": "19:00-20:30",
+      "venue": "StrangerConvos",
+      "url": "https://www.instagram.com/reconnect.withshalini/",
+      "description": "Intimate evening sharing personal stories from Cambodia with reflective discussion in a safe circle. $15 tickets.",
+      "source": "reconnect.withshalini",
+      "key": "strangerconversationfourstoriesfourquestions|2026-08-18",
+      "firstSeen": "2026-08-08"
+    },
+    {
       "title": "Chess Night at the Bathhouse",
       "category": "event",
       "date": "2026-08-19",
@@ -430,6 +469,19 @@
       "source": "STPI",
       "key": "ekonugrohostrangemonsterview|2026-08-22",
       "firstSeen": "2026-07-25"
+    },
+    {
+      "title": "Beyond the Eyes | STRANGE MONSTER VIEW",
+      "category": "event",
+      "date": "2026-08-22",
+      "endDate": "2026-10-10",
+      "time": null,
+      "venue": "STPI",
+      "url": "https://www.stpi.com.sg/whats-on/beyond-the-eyes-strange-monster-view",
+      "description": "Communal activity program connected to Strange Monster View exhibition",
+      "source": "STPI",
+      "key": "beyondtheeyesstrangemonsterview|2026-08-22",
+      "firstSeen": "2026-08-08"
     },
     {
       "title": "OUTSIDE LOOKING IN",
