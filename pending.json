@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T23:09:11.671Z",
-  "count": 25,
+  "lastUpdated": "2026-08-10T23:10:43.159Z",
+  "count": 26,
   "events": [
     {
       "title": "Storytelling through Photography",
@@ -16,30 +16,30 @@
       "firstSeen": "2026-08-04"
     },
     {
-      "title": "MOGĀ's August Guest Shift Series",
-      "category": "event",
-      "date": "2026-08-05",
-      "endDate": "2026-08-13",
+      "title": "Art Informel: Hisao Domoto and Toshimitsu Imai",
+      "category": "exhibition",
+      "date": "2026-08-16",
+      "endDate": null,
       "time": null,
-      "venue": "MOGĀ",
+      "venue": null,
       "url": null,
-      "description": "Guest shift series at MOGĀ throughout August",
-      "source": "MOGĀ",
-      "key": "mogsaugustguestshiftseries|2026-08-05",
-      "firstSeen": "2026-08-04"
+      "description": "Art exhibition featuring works by Hisao Domoto and Toshimitsu Imai",
+      "source": null,
+      "key": "artinformelhisaodomotoandtoshimitsuimai|2026-08-16",
+      "firstSeen": "2026-08-11"
     },
     {
-      "title": "Our Tampines: Beyond Heartbeats",
+      "title": "Fragment of a Story",
       "category": "exhibition",
-      "date": "2026-08-08",
-      "endDate": "2026-08-10",
+      "date": "2026-08-21",
+      "endDate": "2026-10-04",
       "time": null,
-      "venue": "Tampines",
+      "venue": null,
       "url": null,
-      "description": "Our Tampines exhibition beyond heartbeats",
+      "description": "Art exhibition exploring fragments of narrative",
       "source": null,
-      "key": "ourtampinesbeyondheartbeats|2026-08-08",
-      "firstSeen": "2026-08-08"
+      "key": "fragmentofastory|2026-08-21",
+      "firstSeen": "2026-08-11"
     },
     {
       "title": "Zentangle Workshop with LiFern",
@@ -326,6 +326,19 @@
       "source": "Fawn World",
       "key": "handsonjourneyeastxfawnworldworkshop|",
       "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Journey Eats featuring No Sleep Club",
+      "category": "event",
+      "date": null,
+      "endDate": null,
+      "time": null,
+      "venue": "Journey East showroom, 315 Outram Rd, #03-02, Singapore 169074",
+      "url": "https://journeyeast.com/blogs/events/journey-eats-featuring-no-sleep-club",
+      "description": "One night only: Martinis, music, and mid-century magic with No Sleep Club.",
+      "source": "No Sleep Club",
+      "key": "journeyeatsfeaturingnosleepclub|",
+      "firstSeen": "2026-08-11"
     }
   ]
 }

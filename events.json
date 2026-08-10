@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T23:09:11.671Z",
-  "totalEvents": 56,
+  "lastUpdated": "2026-08-10T23:10:43.159Z",
+  "totalEvents": 57,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -159,82 +159,17 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "Let's Celebrate: Timekeepers of Temasek Shophouse",
+      "title": "MOGĀ's August Guest Shift Series",
       "category": "event",
-      "date": "2026-08-07",
-      "endDate": "2026-08-08",
+      "date": "2026-08-05",
+      "endDate": "2026-08-13",
       "time": null,
-      "venue": "Temasek Shophouse",
+      "venue": "MOGĀ",
       "url": null,
-      "description": "Weekend celebration exploring timekeepers of Temasek Shophouse",
-      "source": null,
-      "key": "letscelebratetimekeepersoftemasekshophouse|2026-08-07",
+      "description": "Guest shift series at MOGĀ throughout August",
+      "source": "MOGĀ",
+      "key": "mogsaugustguestshiftseries|2026-08-05",
       "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Voyage Issue 02 Launch Party - Winds, Gathering",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": "2:00 PM - 4:00 PM",
-      "venue": "Casual Poet Library",
-      "url": null,
-      "description": "Launch party for Issue 02 of Voyage magazine with theme 'Winds, Gathering'. Sign up required.",
-      "source": "rainbowfictioneers",
-      "key": "voyageissue02launchpartywindsgathering|2026-08-08",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Saturday Morning Reading @ Van Kafe (Jurong East)",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": "10:00 AM",
-      "venue": "Van Kafe, 2 Jurong Gateway Rd, #01-02, Singapore 608512",
-      "url": "https://www.meetup.com/we-read-together/events/315976192/",
-      "description": "Small group reading session. Bring a book, buy a drink, read together with intros and sharing.",
-      "source": "We Read Together",
-      "key": "saturdaymorningreadingvankafejurongeast|2026-08-08",
-      "firstSeen": "2026-08-08"
-    },
-    {
-      "title": "[Activate August!] Saturday Reading @ Bras Basah",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": "2:00 PM",
-      "venue": "Crossings Cafe, 55 Waterloo St, Singapore 187954",
-      "url": "https://www.meetup.com/we-read-together/events/315756078/",
-      "description": "Activate August hosted session. Bring a book, buy refreshments, read and share with the group.",
-      "source": "We Read Together",
-      "key": "activateaugustsaturdayreadingbrasbasah|2026-08-08",
-      "firstSeen": "2026-08-08"
-    },
-    {
-      "title": "Saturday Happy Hour Reading @ Orchard",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": "5:00 PM",
-      "venue": "The House Bar, Regent Hotel, 1 Cuscaden Road, #01-02, Singapore 249715",
-      "url": "https://www.meetup.com/we-read-together/events/315747660/",
-      "description": "Reading session during happy hour. Bring a book, catch 1 for 1 cocktails and food deals.",
-      "source": "We Read Together",
-      "key": "saturdayhappyhourreadingorchard|2026-08-08",
-      "firstSeen": "2026-08-08"
-    },
-    {
-      "title": "Saturday Evening Reading @ Tampines",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": "5:30 PM",
-      "venue": "GIG Cafe, Blk 419 Tampines Street 41, #01-104, Singapore 520419",
-      "url": "https://www.meetup.com/we-read-together/events/315973864/",
-      "description": "Evening reading session. Bring a book, enjoy drinks/snacks, participate in intros and sharing.",
-      "source": "We Read Together",
-      "key": "saturdayeveningreadingtampines|2026-08-08",
-      "firstSeen": "2026-08-08"
     },
     {
       "title": "Tan Lip Seng: A Life in Colour",
@@ -250,19 +185,6 @@
       "firstSeen": "2026-08-08"
     },
     {
-      "title": "Let's Celebrate Weekend: Old Spaces, New Purpose",
-      "category": "event",
-      "date": "2026-08-08",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Celebration exploring old spaces repurposed with new purpose",
-      "source": null,
-      "key": "letscelebrateweekendoldspacesnewpurpose|2026-08-08",
-      "firstSeen": "2026-08-04"
-    },
-    {
       "title": "Roots Resonance 2026: Through Brush and Memory",
       "category": "exhibition",
       "date": "2026-08-08",
@@ -276,32 +198,6 @@
       "firstSeen": "2026-08-08"
     },
     {
-      "title": "National Day Patriotic Workshops",
-      "category": "workshop",
-      "date": "2026-08-09",
-      "endDate": null,
-      "time": null,
-      "venue": "195 Pearl's Hill Terrace #1-10 & #1-06",
-      "url": "https://www.instagram.com/p/DbAsL2YoG5x/",
-      "description": "Hybrid orchid linked keychains and chicken saucer UV resin painting. Dress in red/white for special surprise.",
-      "source": "Arterly Obsessed",
-      "key": "nationaldaypatrioticworkshops|2026-08-09",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "Don't Say Bojio - Speed-Friending & Game Day",
-      "category": "event",
-      "date": "2026-08-10",
-      "endDate": null,
-      "time": "14:00",
-      "venue": "Strangers Convo, 195 Pearl Hill Terrace #02-38D",
-      "url": "https://tally.so/r/2EoEee",
-      "description": "2 hours speed-friending followed by social deduction games. National Day special pricing from $24.",
-      "source": "Vybes Social",
-      "key": "dontsaybojiospeedfriendinggameday|2026-08-10",
-      "firstSeen": "2026-08-01"
-    },
-    {
       "title": "Singapore Gallery Month",
       "category": "festival",
       "date": "2026-08-13",
@@ -313,6 +209,32 @@
       "source": "@singaporegallerymonth",
       "key": "singaporegallerymonth|2026-08-13",
       "firstSeen": "2026-06-20"
+    },
+    {
+      "title": "Friday Afternoon Reading @ Yuan Coffee (Joo Chiat)",
+      "category": "event",
+      "date": "2026-08-14",
+      "endDate": null,
+      "time": "2:30 PM",
+      "venue": "Yuan Coffee, 405 Joo Chiat Rd, #01-101 Joo Chiat Community Club, Singapore 427633",
+      "url": "https://www.meetup.com/we-read-together/events/316040343/",
+      "description": "Small group reading meetup. Bring a book, buy a drink, read together, and share.",
+      "source": "We Read Together",
+      "key": "fridayafternoonreadingyuancoffeejoochiat|2026-08-14",
+      "firstSeen": "2026-08-11"
+    },
+    {
+      "title": "Yellow Ribbon Community Arts Festival 2026",
+      "category": "festival",
+      "date": "2026-08-14",
+      "endDate": "2026-08-20",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Community arts festival by Yellow Ribbon",
+      "source": "Yellow Ribbon",
+      "key": "yellowribboncommunityartsfestival2026|2026-08-14",
+      "firstSeen": "2026-08-11"
     },
     {
       "title": "Neha Vedpathak: Land, Body, Spirit",
@@ -380,6 +302,58 @@
       "firstSeen": "2026-08-01"
     },
     {
+      "title": "Saturday Reading @ Stevens",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "10:00 AM",
+      "venue": "the Ritual (Bukit Timah), 383 Bukit Timah Rd, #01-09B, Singapore 259727",
+      "url": "https://www.meetup.com/we-read-together/events/315854424/",
+      "description": "Small group reading meetup. Bring a book, buy a drink, read together, and share.",
+      "source": "We Read Together",
+      "key": "saturdayreadingstevens|2026-08-15",
+      "firstSeen": "2026-08-11"
+    },
+    {
+      "title": "[Activate August!] Saturday Reading @ Hillview",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "2:30 PM",
+      "venue": "Hillv2 - Cedele, 4 Hillview Rise, Singapore",
+      "url": "https://www.meetup.com/we-read-together/events/315756218/",
+      "description": "Special Activate August session with past attendees hosting. Bring a book, read, and share.",
+      "source": "We Read Together",
+      "key": "activateaugustsaturdayreadinghillview|2026-08-15",
+      "firstSeen": "2026-08-11"
+    },
+    {
+      "title": "AGAS Multi-Voice Forum: A Rising Asia",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "5:45 PM – 6:45 PM",
+      "venue": "Ida's Bar & Event Space, 9 Lock Rd, Gillman Barracks",
+      "url": "https://agas.org.sg",
+      "description": "Flagship conversation on the future of art, collecting and cultural leadership in Asia with gallery owners, collectors, artists, and cultural leaders.",
+      "source": "AGAS",
+      "key": "agasmultivoiceforumarisingasia|2026-08-15",
+      "firstSeen": "2026-08-11"
+    },
+    {
+      "title": "Let Them Cook Vol. 13 feat. Edwin",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Latin American-Asian fusion culinary experiment featuring Edwin",
+      "source": null,
+      "key": "letthemcookvol13featedwin|2026-08-15",
+      "firstSeen": "2026-08-11"
+    },
+    {
       "title": "Quiet Readers Club Gathering",
       "category": "event",
       "date": "2026-08-16",
@@ -391,6 +365,32 @@
       "source": "Quiet Readers Club",
       "key": "quietreadersclubgathering|2026-08-16",
       "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "[Themed] Sunday Reading @ Duxton",
+      "category": "event",
+      "date": "2026-08-16",
+      "endDate": null,
+      "time": "9:30 AM",
+      "venue": "Book Bar, 57 Duxton Rd, Singapore 089521",
+      "url": "https://www.meetup.com/we-read-together/events/316040140/",
+      "description": "SingLit themed reading session for National Day month. Bring a Singapore literature book.",
+      "source": "We Read Together",
+      "key": "themedsundayreadingduxton|2026-08-16",
+      "firstSeen": "2026-08-11"
+    },
+    {
+      "title": "Paws Play Pet Yoga in Sentosa",
+      "category": "workshop",
+      "date": "2026-08-16",
+      "endDate": null,
+      "time": null,
+      "venue": "Amara Sanctuary Sentosa",
+      "url": null,
+      "description": "Pet yoga session at Amara Sanctuary Sentosa",
+      "source": "Amara Sanctuary Sentosa",
+      "key": "pawsplaypetyogainsentosa|2026-08-16",
+      "firstSeen": "2026-08-11"
     },
     {
       "title": "Stranger Conversation: Four Stories. Four Questions.",
@@ -729,6 +729,19 @@
       "firstSeen": "2026-06-14",
       "category": "exhibition",
       "endDate": "2026-08-23"
+    },
+    {
+      "title": "The Quiet Revolutionary: Chua Ek Kay",
+      "category": "exhibition",
+      "date": null,
+      "endDate": "2026-08-23",
+      "time": null,
+      "venue": "Confluence Art Space",
+      "url": null,
+      "description": "Fifty-one works by Cultural Medallion artist Chua Ek Kay spanning three decades of Chinese ink painting and abstraction.",
+      "source": "SG Arts Channel",
+      "key": "thequietrevolutionarychuaekkay|",
+      "firstSeen": "2026-08-11"
     }
   ]
 }
