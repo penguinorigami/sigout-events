@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-10T23:10:43.159Z",
-  "totalEvents": 57,
+  "lastUpdated": "2026-08-14T22:52:53.182Z",
+  "totalEvents": 64,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -159,19 +159,6 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "MOGĀ's August Guest Shift Series",
-      "category": "event",
-      "date": "2026-08-05",
-      "endDate": "2026-08-13",
-      "time": null,
-      "venue": "MOGĀ",
-      "url": null,
-      "description": "Guest shift series at MOGĀ throughout August",
-      "source": "MOGĀ",
-      "key": "mogsaugustguestshiftseries|2026-08-05",
-      "firstSeen": "2026-08-04"
-    },
-    {
       "title": "Tan Lip Seng: A Life in Colour",
       "category": "exhibition",
       "date": "2026-08-08",
@@ -209,19 +196,6 @@
       "source": "@singaporegallerymonth",
       "key": "singaporegallerymonth|2026-08-13",
       "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "Friday Afternoon Reading @ Yuan Coffee (Joo Chiat)",
-      "category": "event",
-      "date": "2026-08-14",
-      "endDate": null,
-      "time": "2:30 PM",
-      "venue": "Yuan Coffee, 405 Joo Chiat Rd, #01-101 Joo Chiat Community Club, Singapore 427633",
-      "url": "https://www.meetup.com/we-read-together/events/316040343/",
-      "description": "Small group reading meetup. Bring a book, buy a drink, read together, and share.",
-      "source": "We Read Together",
-      "key": "fridayafternoonreadingyuancoffeejoochiat|2026-08-14",
-      "firstSeen": "2026-08-11"
     },
     {
       "title": "Yellow Ribbon Community Arts Festival 2026",
@@ -354,6 +328,32 @@
       "firstSeen": "2026-08-11"
     },
     {
+      "title": "Saturday Evening Reading @ Pasir Panjang",
+      "category": "event",
+      "date": "2026-08-15",
+      "endDate": null,
+      "time": "4:30 PM",
+      "venue": "Knots Cafe Living (Pasir Panjang), 102E Pasir Panjang Rd, #01-08 Citilink Warehouse Complex, Singapore 118529",
+      "url": "https://www.meetup.com/we-read-together/events/316068869/",
+      "description": "Evening reading session. Bring a book, buy drinks/food, introductions and sharing with fellow readers.",
+      "source": "We Read Together",
+      "key": "saturdayeveningreadingpasirpanjang|2026-08-15",
+      "firstSeen": "2026-08-15"
+    },
+    {
+      "title": "Taiki Sakpisit: 13 Nightmares",
+      "category": "exhibition",
+      "date": "2026-08-15",
+      "endDate": "2026-10-04",
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Art exhibition featuring work by Taiki Sakpisit",
+      "source": null,
+      "key": "taikisakpisit13nightmares|2026-08-15",
+      "firstSeen": "2026-08-15"
+    },
+    {
       "title": "Quiet Readers Club Gathering",
       "category": "event",
       "date": "2026-08-16",
@@ -393,6 +393,32 @@
       "firstSeen": "2026-08-11"
     },
     {
+      "title": "Odissi Dance & Music Night",
+      "category": "theatre",
+      "date": "2026-08-16",
+      "endDate": null,
+      "time": null,
+      "venue": "The Standard, Singapore",
+      "url": null,
+      "description": "Drag queen Secret Melur performs Zapin, Chowk performs Odissi, DJ C2AC spins. Free, registration required.",
+      "source": null,
+      "key": "odissidancemusicnight|2026-08-16",
+      "firstSeen": "2026-08-15"
+    },
+    {
+      "title": "Art Informel: Hisao Domoto and Toshimitsu Imai",
+      "category": "exhibition",
+      "date": "2026-08-16",
+      "endDate": null,
+      "time": null,
+      "venue": null,
+      "url": null,
+      "description": "Art exhibition featuring works by Hisao Domoto and Toshimitsu Imai",
+      "source": null,
+      "key": "artinformelhisaodomotoandtoshimitsuimai|2026-08-16",
+      "firstSeen": "2026-08-11"
+    },
+    {
       "title": "Stranger Conversation: Four Stories. Four Questions.",
       "category": "event",
       "date": "2026-08-18",
@@ -404,6 +430,19 @@
       "source": "reconnect.withshalini",
       "key": "strangerconversationfourstoriesfourquestions|2026-08-18",
       "firstSeen": "2026-08-08"
+    },
+    {
+      "title": "A Matter Of Taste",
+      "category": "theatre",
+      "date": "2026-08-18",
+      "endDate": "2026-08-30",
+      "time": null,
+      "venue": "Checkpoint Theatre and Nouri Restaurant",
+      "url": null,
+      "description": "Production by Checkpoint Theatre and restaurant Nouri",
+      "source": null,
+      "key": "amatteroftaste|2026-08-18",
+      "firstSeen": "2026-08-15"
     },
     {
       "title": "Chess Night at the Bathhouse",
@@ -430,6 +469,19 @@
       "source": null,
       "key": "singaporenightfestival2026|2026-08-21",
       "firstSeen": "2026-07-18"
+    },
+    {
+      "title": "Psychedelic Breath: The Ritual Within",
+      "category": "workshop",
+      "date": "2026-08-21",
+      "endDate": null,
+      "time": "19:30-21:00",
+      "venue": "The Living Room, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
+      "url": "https://www.instagram.com/p/Db4hUzkw3B/",
+      "description": "Devotional breath journey experience. Energy exchange: $65/pax.",
+      "source": "Gaia Rising with Malvina",
+      "key": "psychedelicbreaththeritualwithin|2026-08-21",
+      "firstSeen": "2026-08-15"
     },
     {
       "title": "ART AGAIN THIRD ANNIVERSARY SHOW",
@@ -510,6 +562,19 @@
       "firstSeen": "2026-07-18"
     },
     {
+      "title": "Alchemical Dreamspace: Dreaming into Form",
+      "category": "workshop",
+      "date": "2026-08-28",
+      "endDate": null,
+      "time": "19:30-21:00",
+      "venue": "The Living Room, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
+      "url": "https://www.instagram.com/p/Db4hzUzkw3B/",
+      "description": "Full moon lunar eclipse cacao and blue lotus circle. Energy exchange: $68/pax.",
+      "source": "Gaia Rising with Malvina",
+      "key": "alchemicaldreamspacedreamingintoform|2026-08-28",
+      "firstSeen": "2026-08-15"
+    },
+    {
       "title": "Outdoor Library Day - Casual Poet Library 2nd Birthday",
       "category": "event",
       "date": "2026-08-29",
@@ -536,6 +601,19 @@
       "firstSeen": "2026-08-04"
     },
     {
+      "title": "Open Writing Sessions",
+      "category": "workshop",
+      "date": "2026-08-31",
+      "endDate": null,
+      "time": "18:00 - 21:00",
+      "venue": "casual poet library (123 Bukit Merah Lane 1, #01-110, S150123)",
+      "url": "https://www.instagram.com/p/DXIoB2WGYKO/",
+      "description": "Small group writing sessions for poetry, prose, plays and creative nonfiction. Drop-in anytime before 7:30pm.",
+      "source": "rainbowfictioneers",
+      "key": "openwritingsessions|2026-08-31",
+      "firstSeen": "2026-08-15"
+    },
+    {
       "title": "Responsive Art Therapy Workshop with The Red Pencil",
       "category": "workshop",
       "date": "2026-09-05",
@@ -560,6 +638,19 @@
       "source": "STPI",
       "key": "screenprintingflockinglayersofidentity|2026-09-05",
       "firstSeen": "2026-08-04"
+    },
+    {
+      "title": "Soul Scribbles: Equanimity Workshop",
+      "category": "workshop",
+      "date": "2026-09-05",
+      "endDate": null,
+      "time": "6pm-9pm",
+      "venue": "Casual Poet Library",
+      "url": null,
+      "description": "Explore balance and clarity in midst of change at Soul Scribbles. $18 per person",
+      "source": "ginkgo.wellness",
+      "key": "soulscribblesequanimityworkshop|2026-09-05",
+      "firstSeen": "2026-08-15"
     },
     {
       "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",

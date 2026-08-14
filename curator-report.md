@@ -1,73 +1,70 @@
-# Curator report — 2026-08-11 (live)
+# Curator report — 2026-08-15 (live)
 
 The most recent auto-curation run. Every decision and its reason. To change
 future behaviour, edit taste.md. To overrule any single decision, use /curate.
 
-**10 published · 16 rejected · 26 left for Jane · 7 duplicates collapsed**
+**9 published · 16 rejected · 25 left for Jane · 6 duplicates collapsed**
 
 ## Published to sigout
-- **Friday Afternoon Reading @ Yuan Coffee (Joo Chiat)** (event) — We Read Together per-cafe session listed individually per rule.
-- **Saturday Reading @ Stevens** (event) — We Read Together per-cafe session listed individually per rule.
-- **[Activate August!] Saturday Reading @ Hillview** (event) — We Read Together per-cafe session listed individually per rule.
-- **[Themed] Sunday Reading @ Duxton** (event) — We Read Together per-cafe session listed individually per rule.
-- **The Quiet Revolutionary: Chua Ek Kay** (exhibition) — Independent gallery exhibition of a Cultural Medallion artist, has an end date to place it.
-- **Yellow Ribbon Community Arts Festival 2026** (festival) — Community arts festival fits the arts-festival strong yes category.
-- **AGAS Multi-Voice Forum: A Rising Asia** (event) — Gallery/collector forum at Gillman Barracks fits independent gallery programming.
-- **MOGĀ's August Guest Shift Series** (event) — Indie bar guest shift series fits vibe-over-names music bar category.
-- **Let Them Cook Vol. 13 feat. Edwin** (event) — Indie culinary pop-up experiment fits food-with-a-story category.
-- **Paws Play Pet Yoga in Sentosa** (workshop) — Pet-friendly wellness session at an interesting venue fits community-with-charm.
+- **Saturday Evening Reading @ Pasir Panjang** (event) — We Read Together per-café meetups are listed individually per taste profile.
+- **Open Writing Sessions** (workshop) — Indie community room writing session fits Casual Poet Library taste
+- **Soul Scribbles: Equanimity Workshop** (workshop) — Craft/wellness workshop at Casual Poet Library fits taste
+- **Psychedelic Breath: The Ritual Within** (workshop) — Breathwork session at The Living Room fits wellness-with-soul taste.
+- **Alchemical Dreamspace: Dreaming into Form** (workshop) — Cacao/lunar ceremony at The Living Room fits gentle wellness taste.
+- **Odissi Dance & Music Night** (theatre) — Intimate indie dance/drag/DJ night fits the music-bar vibe-over-names rule.
+- **A Matter Of Taste** (theatre) — Indie theatre paired with food-with-a-story restaurant fits taste.
+- **Taiki Sakpisit: 13 Nightmares** (exhibition) — Serious artist exhibition fits independent/institutional show taste.
+- **Art Informel: Hisao Domoto and Toshimitsu Imai** (exhibition) — Art Informel show reads as a serious gallery/museum exhibition.
 
 ## Rejected
-- **Adventures of Grumpy Cat by Yip Yew Chong** (exhibition) — Licensed-character interactive installation reads as commercial/family spectacle.
-- **Makers Market at Dhoby Ghaut** (market) — Mall pushcart maker market circuit is a hard no.
-- **PARADE by Makers Market at PLQ Mall** (market) — PLQ pushcart market is a hard no.
-- **[Savour Life] "Playing with Fire" - Hashida x Drew** (event) — Restaurant chef collaboration reads as dining promo, not food-with-story.
-- **Riesling, Uncorked: A Four-Nation Tasting Dinner** (event) — Generic wine tasting dinner is thin commercial promo, not food-with-story.
-- **King Koil and Ashley Furniture SG61 Sale** (market) — Furniture brand sale is a corporate promo.
-- **Curated Encounters: Clarke Quay Tour** (event) — Plain guided precinct tour is excluded even for a published festival.
-- **Singapore IVF World Sprints 2026** (event) — Sports championship falls under races/sports fiestas hard no.
-- **Jesus Christ Superstar** (theatre) — Big commercial musical production, not indie/institutional art per taste profile.
-- **The Spirits Library Takes Over MO BAR, Singapore** (event) — Branded spirits takeover at a hotel bar reads as promo, not vibe-driven event.
-- **Curated Encounters: River Valley Tour** (event) — Plain guided precinct tour, excluded even under published Singapore Gallery Month.
-- **Curated Encounters: River Valley Tour** (event) — Plain guided precinct tour, excluded even under published Singapore Gallery Month.
-- **Curated Encounters: Bras Basah Tour** (event) — Plain guided precinct tour, excluded even under published Singapore Gallery Month.
-- **Curated Encounters: City Hall Tour** (event) — Plain guided precinct tour, excluded even under published Singapore Gallery Month.
-- **Silent Book Club** (event) — Single-session instance of already-published Silent Book Club.
-- **Makers Market at Dhoby Ghaut - September** (market) — Weekly INVADE mall pushcart maker market is a hard-no.
+- **Celebrate Jewel Blooms with LEGO Botanicals** (exhibition) — LEGO branded exhibition reads as commercial/family promo, hard no.
+- **Bites Without Borders** (event) — Thin mall food event with no story, smells like promo.
+- **Ani-One® POP™ Pop-Up** (market) — Blind-box/streetwear mall pop-up is a branded commercial activation.
+- **Makers Market at PLQ Mall - PARADE** (market) — PLQ pushcart maker market explicitly falls under the mall pushcart hard-no.
+- **Dhoby Ghaut Makers' Market** (market) — Dhoby Ghaut weekly INVADE pushcart market is the same hard-no genre.
+- **Battle of Bukit Chandu** (event) — Plain guided historical tour is explicitly excluded.
+- **Aliwal Chess Club x NOWHERE** (event) — Covered by published card (Chess Night at the Bathhouse).
+- **Aperol Spritz Sunset Block Party** (event) — Aperol-branded block party is a corporate promo dressed as an event.
+- **Bar Takeover by Tokyo's Kentaro Wada** (event) — Bar takeover reads as restaurant/bar marketing, not a standout indie event.
+- **Eric Prydz Singapore Headline Show** (music) — Arena headliner DJ show is a hard no regardless of fame.
+- **Strangers Spirits at Palais Renaissance** (event) — Thin mall event at Palais Renaissance smells like brand promo.
+- **Interiors Collectibles - September** (event) — Auction/collector sale is a hard no
+- **Silent Book Club Sep 2026** (event) — Single session of already-published Silent Book Club
+- **@trym Headline Show** (music) — Hard techno/hard trance headliner is a hard no
+- **TRYM Live at Studio Duplex** (music) — Hard techno/hard trance headliner is a hard no
+- **Wake Up & Dance Rave** (music) — Rave club night is a hard no even if 'sober'
 
 ## Left in pending for Jane (unsure)
-- **Storytelling through Photography** (workshop) — Photography workshop is taste-plausible but missing venue.
-- **Hands On! - A Scent Journey featuring A Thing of Sense** (workshop) — No date given so it cannot be placed per mechanical rule.
-- **Art Informel: Hisao Domoto and Toshimitsu Imai** (exhibition) — Serious-sounding art exhibition but missing venue/source to confirm fit.
-- **Fragment of a Story** (exhibition) — Exhibition has dates but no venue/source, too thin to confirm fit.
-- **Zentangle Workshop with LiFern** (workshop) — Craft session at Casual Poet Library fits taste but has no date.
-- **Journaling Club at Stranger Convos** (workshop) — Indie community-room journaling session fits taste but has no date.
-- **Zentangle Workshop at Casual Poet Library** (workshop) — Likely duplicate of Zentangle workshop and also missing a date.
-- **Self-Portraiture Workshop with Nydia Shiang** (workshop) — Craft workshop with a named practitioner fits taste but lacks a date.
-- **Art Jam by Barely Ran** (workshop) — Indie art jam at Stranger Convos fits taste but has no date.
-- **Rewire Social Club's Thursday Social Night** (event) — Indie social mixer at Pearl's Hill Terrace fits taste but has no date.
-- **Electric Playa - Beach Dance Event** (music) — Beach-club day party fits music-bar taste but has no date.
-- **ALCHEMICAL DREAMSPACE: The Home Within** (workshop) — Cacao circle fits wellness-with-soul taste but has no date.
-- **PSYCHEDELIC BREATH: Solar Heart** (workshop) — Breathwork session fits wellness-with-soul taste but has no date.
-- **Catching Light: A Gentle Beading Workshop** (workshop) — Beading craft workshop with art therapist fits taste but lacks a date.
-- **Masak Masak - Traditions, Reimagined** (workshop) — Food-with-a-story cooking workshop fits taste but has no date.
-- **Guided Farm Tour + Farm-to-Table Nasi Ulam** (workshop) — Taste-fit food/farm workshop but no date or end date provided.
-- **Farm to Tablescape with Studio Wilt** (workshop) — Craft workshop with character but missing date/end date.
-- **Art Jam - Stranger Convos** (workshop) — Indie community room event (Stranger Convos) but no date provided.
-- **Scent Journey Community - Guided Sensory Experience** (workshop) — Wellness/sensory community event fits taste but lacks any date.
-- **Singapore Gaga Screening & Trivia Night** (event) — Indie documentary screening plausible fit but missing date, venue, and source details.
-- **HANDS ON! featuring Art Again & Weekend Culture** (workshop) — Life drawing session fits craft/indie taste but has no date.
-- **HANDS ON! featuring The Amphora Project** (workshop) — Curated food/wine pairing fits 'food with a story' but missing date.
-- **HANDS ON! featuring Fossa Provisions** (workshop) — Sake tasting workshop with character but no date given.
-- **Journey Beats featuring JUNK** (music) — Indie live music night (music bar vibe) but missing date.
-- **HANDS ON! Journey East X Fawn World workshop** (workshop) — Floral craft workshop fits taste but no date provided.
-- **Journey Eats featuring No Sleep Club** (event) — One-night indie mixed music/social event but no date supplied.
+- **Storytelling through Photography** (workshop) — Plausible craft workshop but venue missing and description too thin to write an honest card.
+- **Fragment of a Story** (exhibition) — Exhibition premise sounds plausible but venue and detail too thin to confirm fit.
+- **Journaling Club at Stranger Convos** (workshop) — No date given, cannot be placed on site
+- **Zentangle Workshop at Casual Poet Library** (workshop) — No date given, cannot be placed on site
+- **Self-Portraiture Workshop with Nydia Shiang** (workshop) — No date or venue given, cannot be placed on site
+- **Art Jam by Barely Ran** (workshop) — No date given, cannot be placed on site
+- **Rewire Social Club's Thursday Social Night** (event) — No date given, cannot be placed on site
+- **Electric Playa - Beach Dance Event** (music) — No date given despite fitting beach-club day party vibe
+- **ALCHEMICAL DREAMSPACE: The Home Within** (workshop) — No date given, cannot be placed on site
+- **PSYCHEDELIC BREATH: Solar Heart** (workshop) — No date given, cannot be placed on site
+- **Catching Light: A Gentle Beading Workshop** (workshop) — No date given, cannot be placed on site
+- **Masak Masak - Traditions, Reimagined** (workshop) — No date given, cannot be placed on site
+- **Guided Farm Tour + Farm-to-Table Nasi Ulam** (workshop) — No date given, cannot be placed on site
+- **Farm to Tablescape with Studio Wilt** (workshop) — No date given, cannot be placed on site
+- **Art Jam - Stranger Convos** (workshop) — No date given, cannot be placed on site
+- **Scent Journey Community - Guided Sensory Experience** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
+- **Singapore Gaga Screening & Trivia Night** (event) — No date or end date provided, cannot be placed per mechanical rule.
+- **Hands On! - A Scent Journey featuring A Thing of Sense** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
+- **HANDS ON! featuring Art Again & Weekend Culture** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
+- **HANDS ON! featuring The Amphora Project** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
+- **HANDS ON! featuring Fossa Provisions** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
+- **Journey Beats featuring JUNK** (music) — No date or end date provided, cannot be placed per mechanical rule.
+- **HANDS ON! Journey East X Fawn World workshop** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
+- **Journey Eats featuring No Sleep Club** (event) — No date or end date provided, cannot be placed per mechanical rule.
+- **Free Art Workshops with SG Culture Pass** (workshop) — No date or end date provided, cannot be placed per mechanical rule.
 
 ## Duplicates collapsed
-- Wa Suka Singapore → kept: already published: Wa Suka Singapore - Exhibition
-- Makers Market at Dhoby Ghaut (Student Edition) → kept: Makers Market at Dhoby Ghaut
-- Gillman Gatherings - Singapore Gallery Month Launch → kept: already published: Singapore Gallery Month
-- Quiet Readers Club - August 16 Gathering → kept: already published: Quiet Readers Club Gathering
-- Counterweight: The Systems of Two → kept: already published: Counterweight: The Systems of Two
-- A fool rushing in. - Last Staging → kept: already published: A fool rushing in.
-- Hands On! – A Scent Journey featuring A Thing of Sense → kept: Hands On! - A Scent Journey featuring A Thing of Sense
+- Shadows, Signals, and the Line: Abstract Expressionism in Singapore → kept: already published: Shadows, Signals, and the Line: Abstract Expressionism in Singapore
+- The Quiet Revolutionary: Chua Ek Kay → kept: already published: The Quiet Revolutionary: Chua Ek Kay
+- Silent Book Club Aug 2026 → kept: already published: Silent Book Club
+- Quiet Readers Club - North Bridge Road Session → kept: already published: Quiet Readers Club Gathering
+- A Fool Rushing In - Final Staging → kept: already published: A fool rushing in.
+- Masak Masak - Traditions, Reimagined (General Admission) → kept: Masak Masak - Traditions, Reimagined
