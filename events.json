@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-21T22:52:50.590Z",
-  "totalEvents": 48,
+  "lastUpdated": "2026-08-24T22:55:47.309Z",
+  "totalEvents": 42,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -14,19 +14,6 @@
       "source": "@Gardensbythebay",
       "key": "davidhockneybiggerclosernotsmallerfurtheraway|",
       "firstSeen": "2026-06-20"
-    },
-    {
-      "title": "Xue Song: Where is the Mountain?",
-      "category": "exhibition",
-      "date": "2026-06-12",
-      "endDate": "2026-08-22",
-      "time": "10:00-19:00",
-      "venue": "Kwai Fung Hin Art Gallery, 30 Beach Road, #01-01, Singapore 189763",
-      "url": "https://agas.org.sg/events/xue-song-where-is-the-mountain/",
-      "description": "Retrospective of Chinese contemporary artist Xue Song's 'New Landscape' series",
-      "source": "Kwai Fung Hin Art Gallery",
-      "key": "xuesongwhereisthemountain|2026-06-12",
-      "firstSeen": "2026-07-18"
     },
     {
       "title": "Hiroshi Sugimoto: Form Is Emptiness",
@@ -53,19 +40,6 @@
       "source": "Asian Civilisations Museum",
       "key": "crosscurrentsmasterpiecesofmughalsafavidandottomanartfromthemusedulouvre|2026-06-19",
       "firstSeen": "2026-06-23"
-    },
-    {
-      "title": "Shadows, Signals, and the Line: Abstract Expressionism in Singapore",
-      "category": "exhibition",
-      "date": "2026-06-29",
-      "endDate": "2026-08-23",
-      "time": null,
-      "venue": "The Private Museum",
-      "url": "https://agas.org.sg/events/shadows-signals-and-the-line-abstract-expressionism-in-singapore/",
-      "description": "Exhibition exploring development of abstraction in Singapore with twelve Singaporean artists",
-      "source": "The Private Museum",
-      "key": "shadowssignalsandthelineabstractexpressionisminsingapore|2026-06-29",
-      "firstSeen": "2026-07-18"
     },
     {
       "title": "Fo(u)r Humours",
@@ -273,32 +247,6 @@
       "description": "Multi-week night festival celebration",
       "source": null,
       "key": "singaporenightfestival2026|2026-08-21",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "ART AGAIN THIRD ANNIVERSARY SHOW",
-      "category": "exhibition",
-      "date": "2026-08-22",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://artagain.co/pages/events",
-      "description": "Art Again celebrates its third anniversary with a special show.",
-      "source": "Art Again",
-      "key": "artagainthirdanniversaryshow|2026-08-22",
-      "firstSeen": "2026-06-16"
-    },
-    {
-      "title": "Settling Sounds: Field Recording in Tiong Bahru with Huijun Lu",
-      "category": "workshop",
-      "date": "2026-08-22",
-      "endDate": null,
-      "time": null,
-      "venue": "Tiong Bahru",
-      "url": "https://agas.org.sg/events/settling-sounds-field-recording-in-tiong-bahru-with-huijun-lu/",
-      "description": "Workshop exploring living textures of Tiong Bahru through sound and field recording",
-      "source": "Sullivan+Strumpf",
-      "key": "settlingsoundsfieldrecordingintiongbahruwithhuijunlu|2026-08-22",
       "firstSeen": "2026-07-18"
     },
     {
@@ -599,32 +547,6 @@
       "firstSeen": "2026-06-14",
       "category": "exhibition",
       "endDate": "2026-11-01"
-    },
-    {
-      "title": "He Xiangning: Ink Intent | 何香凝：画就丹青凭寄意",
-      "date": null,
-      "time": null,
-      "venue": "National Gallery Singapore",
-      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/He-Xiangning-Ink-Intent.html",
-      "description": "Exhibition featuring works by He Xiangning exploring ink painting and artistic intent",
-      "source": "National Gallery Singapore",
-      "key": "hexiangninginkintent|",
-      "firstSeen": "2026-06-14",
-      "category": "exhibition",
-      "endDate": "2026-08-23"
-    },
-    {
-      "title": "The Quiet Revolutionary: Chua Ek Kay",
-      "category": "exhibition",
-      "date": null,
-      "endDate": "2026-08-23",
-      "time": null,
-      "venue": "Confluence Art Space",
-      "url": null,
-      "description": "Fifty-one works by Cultural Medallion artist Chua Ek Kay spanning three decades of Chinese ink painting and abstraction.",
-      "source": "SG Arts Channel",
-      "key": "thequietrevolutionarychuaekkay|",
-      "firstSeen": "2026-08-11"
     }
   ]
 }
