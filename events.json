@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T22:55:47.309Z",
-  "totalEvents": 42,
+  "lastUpdated": "2026-08-29T03:48:23.002Z",
+  "totalEvents": 40,
   "events": [
     {
       "title": "David Hockney: Bigger & Closer (not smaller & further away)",
@@ -287,32 +287,6 @@
       "source": "LOY Contemporary Art Gallery",
       "key": "outsidelookingin|2026-08-27",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Meet the Artist | Luke Heng Pulp Editions",
-      "category": "event",
-      "date": "2026-08-28",
-      "endDate": null,
-      "time": null,
-      "venue": "Tagore Industrial Avenue",
-      "url": "https://agas.org.sg/events/meet-the-artist-luke-heng-pulp-editions/",
-      "description": "Intimate studio visit with artist Luke Heng exploring his working process and current practice",
-      "source": "Pulp Editions",
-      "key": "meettheartistlukehengpulpeditions|2026-08-28",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Alchemical Dreamspace: Dreaming into Form",
-      "category": "workshop",
-      "date": "2026-08-28",
-      "endDate": null,
-      "time": "19:30-21:00",
-      "venue": "The Living Room, 318 Tanglin Rd, Blk D, #01-55, Phoenix Park",
-      "url": "https://www.instagram.com/p/Db4hzUzkw3B/",
-      "description": "Full moon lunar eclipse cacao and blue lotus circle. Energy exchange: $68/pax.",
-      "source": "Gaia Rising with Malvina",
-      "key": "alchemicaldreamspacedreamingintoform|2026-08-28",
-      "firstSeen": "2026-08-15"
     },
     {
       "title": "Outdoor Library Day - Casual Poet Library 2nd Birthday",
