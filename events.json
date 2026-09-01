@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-08-29T03:48:23.002Z",
-  "totalEvents": 40,
+  "lastUpdated": "2026-09-01T01:22:21.927Z",
+  "totalEvents": 30,
   "events": [
-    {
-      "title": "David Hockney: Bigger & Closer (not smaller & further away)",
-      "category": "exhibition",
-      "date": "2026-02-13",
-      "endDate": "2026-08-31",
-      "time": null,
-      "venue": "IMBA Theatre, Gardens by the Bay",
-      "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/david-hockney-bigger-and-closer.html",
-      "description": "Exhibition featuring works by David Hockney at a featured venue.",
-      "source": "@Gardensbythebay",
-      "key": "davidhockneybiggerclosernotsmallerfurtheraway|",
-      "firstSeen": "2026-06-20"
-    },
     {
       "title": "Hiroshi Sugimoto: Form Is Emptiness",
       "category": "exhibition",
@@ -68,19 +55,6 @@
       "firstSeen": "2026-07-21"
     },
     {
-      "title": "A fool rushing in.",
-      "category": "event",
-      "date": "2026-07-31",
-      "endDate": "2026-08-29",
-      "time": "7:30pm",
-      "venue": "Grey Area Coffee Roasters, The Coup/Bunker Bunker, Chaos Gallery by Knuckles & Notch",
-      "url": "https://www.instagram.com/p/DZfIvDXE8bT/",
-      "description": "Experimental event blending readings, visuals, art exploring literature and art's connection to love and human experience.",
-      "source": "@nonstickpanda",
-      "key": "afoolrushingin|2026-07-31",
-      "firstSeen": "2026-06-20"
-    },
-    {
       "title": "SLA25 Rediscovery Trail",
       "category": "exhibition",
       "date": "2026-07-31",
@@ -91,19 +65,6 @@
       "description": "SLA25 Rediscovery Trail celebrating Singapore's architectural heritage.",
       "source": null,
       "key": "sla25rediscoverytrail|2026-07-31",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "14th World Oyster Festival",
-      "category": "festival",
-      "date": "2026-08-01",
-      "endDate": "2026-08-31",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "14th World Oyster Festival celebrating oyster cuisine and culture.",
-      "source": null,
-      "key": "14thworldoysterfestival|2026-08-01",
       "firstSeen": "2026-08-01"
     },
     {
@@ -120,19 +81,6 @@
       "firstSeen": "2026-08-01"
     },
     {
-      "title": "Wa Suka Singapore - Exhibition",
-      "category": "exhibition",
-      "date": "2026-08-01",
-      "endDate": "2026-08-31",
-      "time": null,
-      "venue": "Wa Suka Singapore Gallery",
-      "url": "https://www.instagram.com/p/DbMrRYPv2hY/",
-      "description": "Exhibition celebrating Singapore through artworks inspired by everyday neighbourhoods, featuring works by Foo Kwee Horng and GohHong.",
-      "source": "Wa Suka",
-      "key": "wasukasingaporeexhibition|2026-08-01",
-      "firstSeen": "2026-08-01"
-    },
-    {
       "title": "Tan Lip Seng: A Life in Colour",
       "category": "exhibition",
       "date": "2026-08-08",
@@ -143,19 +91,6 @@
       "description": "Tan Lip Seng exhibition showcasing a life in colour",
       "source": null,
       "key": "tanlipsengalifeincolour|2026-08-08",
-      "firstSeen": "2026-08-08"
-    },
-    {
-      "title": "Roots Resonance 2026: Through Brush and Memory",
-      "category": "exhibition",
-      "date": "2026-08-08",
-      "endDate": "2026-08-30",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Roots Resonance exhibition featuring brush and memory",
-      "source": null,
-      "key": "rootsresonance2026throughbrushandmemory|2026-08-08",
       "firstSeen": "2026-08-08"
     },
     {
@@ -224,19 +159,6 @@
       "firstSeen": "2026-08-15"
     },
     {
-      "title": "A Matter Of Taste",
-      "category": "theatre",
-      "date": "2026-08-18",
-      "endDate": "2026-08-30",
-      "time": null,
-      "venue": "Checkpoint Theatre and Nouri Restaurant",
-      "url": null,
-      "description": "Production by Checkpoint Theatre and restaurant Nouri",
-      "source": null,
-      "key": "amatteroftaste|2026-08-18",
-      "firstSeen": "2026-08-15"
-    },
-    {
       "title": "Singapore Night Festival 2026",
       "category": "festival",
       "date": "2026-08-21",
@@ -287,45 +209,6 @@
       "source": "LOY Contemporary Art Gallery",
       "key": "outsidelookingin|2026-08-27",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Outdoor Library Day - Casual Poet Library 2nd Birthday",
-      "category": "event",
-      "date": "2026-08-29",
-      "endDate": null,
-      "time": "4pm-7pm",
-      "venue": "Outside Casual Poet Library",
-      "url": "https://www.instagram.com/p/Dbf8qKKvSzk/",
-      "description": "Celebrate Casual Poet Library's 2nd birthday with outdoor reading, Thai-Mex tacos, and pre-loved books.",
-      "source": "Casual Poet Library",
-      "key": "outdoorlibrarydaycasualpoetlibrary2ndbirthday|2026-08-29",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
-      "category": "workshop",
-      "date": "2026-08-29",
-      "endDate": null,
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/arty-afternoon-urban-impressions-embossing-and-stencilling",
-      "description": "Hands-on afternoon workshop on embossing and stencilling urban art techniques.",
-      "source": "STPI",
-      "key": "artyafternoonurbanimpressionsembossingstencilling|2026-08-29",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Open Writing Sessions",
-      "category": "workshop",
-      "date": "2026-08-31",
-      "endDate": null,
-      "time": "18:00 - 21:00",
-      "venue": "casual poet library (123 Bukit Merah Lane 1, #01-110, S150123)",
-      "url": "https://www.instagram.com/p/DXIoB2WGYKO/",
-      "description": "Small group writing sessions for poetry, prose, plays and creative nonfiction. Drop-in anytime before 7:30pm.",
-      "source": "rainbowfictioneers",
-      "key": "openwritingsessions|2026-08-31",
-      "firstSeen": "2026-08-15"
     },
     {
       "title": "Responsive Art Therapy Workshop with The Red Pencil",
@@ -482,19 +365,6 @@
       "source": "OH! Open House",
       "key": "ohgoldenmileartwalk|2027-01-17",
       "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Passion is Volcanic: Desire in Southeast Asian Art (R18)",
-      "date": null,
-      "time": null,
-      "venue": "National Gallery Singapore",
-      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Passion-is-Volcanic-Desire-in-Southeast-Asian-Art.html",
-      "description": "Exhibition exploring desire in Southeast Asian art (R18 rated)",
-      "source": "National Gallery Singapore",
-      "key": "passionisvolcanicdesireinsoutheastasianartr18|",
-      "firstSeen": "2026-06-14",
-      "category": "exhibition",
-      "endDate": "2026-08-30"
     },
     {
       "title": "Fear No Power: Women Imagining Otherwise",
