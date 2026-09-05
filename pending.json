@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T01:22:21.926Z",
-  "count": 61,
+  "lastUpdated": "2026-09-05T00:17:15.057Z",
+  "count": 57,
   "events": [
     {
       "title": "Storytelling through Photography",
@@ -156,45 +156,6 @@
       "description": "Urban Impressions Embossing Stencilling art workshop",
       "source": null,
       "key": "artyafternoonembossingstencilling|2026-08-29",
-      "firstSeen": "2026-08-25"
-    },
-    {
-      "title": "The Apothecary Diaries Interactive Exhibition",
-      "category": "exhibition",
-      "date": "2026-09-01",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://secretsingapore.co/the-apothecary-diaries-exhibition/",
-      "description": "The hit anime brings its interactive exhibition to Singapore for five weeks this September",
-      "source": null,
-      "key": "theapothecarydiariesinteractiveexhibition|2026-09-01",
-      "firstSeen": "2026-08-18"
-    },
-    {
-      "title": "Eric Prydz Singapore Headline Show",
-      "category": "music",
-      "date": "2026-09-03",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://www.instagram.com/p/DZNDgz6FL91/",
-      "description": "Eric Prydz first Singapore headline show featuring tracks from Opus and Pjanoo",
-      "source": "Collective Minds Asia",
-      "key": "ericprydzsingaporeheadlineshow|2026-09-03",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "Art, Wine & Someone New",
-      "category": "event",
-      "date": "2026-09-04",
-      "endDate": null,
-      "time": "19:30-21:30",
-      "venue": "Wasuka Art Gallery",
-      "url": null,
-      "description": "Singles night featuring art, wine, and conversation at the gallery. Meet new people over artworks.",
-      "source": "Wasuka Art",
-      "key": "artwinesomeonenew|2026-09-04",
       "firstSeen": "2026-08-25"
     },
     {
@@ -417,19 +378,6 @@
       "source": "The Breakfast Club Rave",
       "key": "wakeupdance|2027-01-24",
       "firstSeen": "2026-08-18"
-    },
-    {
-      "title": "Journey Eats featuring No Sleep Club",
-      "category": "event",
-      "date": null,
-      "endDate": null,
-      "time": null,
-      "venue": "Journey East showroom, 315 Outram Rd, #03-02, Singapore 169074",
-      "url": "https://journeyeast.com/blogs/events/journey-eats-featuring-no-sleep-club",
-      "description": "One night only: Martinis, music, and mid-century magic with No Sleep Club.",
-      "source": "No Sleep Club",
-      "key": "journeyeatsfeaturingnosleepclub|",
-      "firstSeen": "2026-08-11"
     },
     {
       "title": "Free Art Workshops with SG Culture Pass",
