@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T00:17:15.057Z",
-  "count": 57,
+  "lastUpdated": "2026-09-08T00:36:17.050Z",
+  "count": 46,
   "events": [
     {
       "title": "Storytelling through Photography",
@@ -29,19 +29,6 @@
       "firstSeen": "2026-08-11"
     },
     {
-      "title": "A Date with Tradition",
-      "category": "event",
-      "date": "2026-08-21",
-      "endDate": "2026-09-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Arts and culture event celebrating tradition.",
-      "source": null,
-      "key": "adatewithtradition|2026-08-21",
-      "firstSeen": "2026-08-18"
-    },
-    {
       "title": "Lilytopia",
       "category": "exhibition",
       "date": "2026-08-21",
@@ -65,32 +52,6 @@
       "description": "Celebration of handmade crafts and artisanal goods in vibrant outdoor space.",
       "source": "INVADE",
       "key": "plqplazamakersmarket|2026-08-21",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "STORMY STRAITS By Melting Po(r)t Collective",
-      "category": "exhibition",
-      "date": "2026-08-21",
-      "endDate": "2026-09-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Singapore Night Festival exhibition by Melting Po(r)t Collective",
-      "source": null,
-      "key": "stormystraitsbymeltingportcollective|2026-08-21",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "The Blooming Hearts Fortune Merlion",
-      "category": "exhibition",
-      "date": "2026-08-21",
-      "endDate": "2026-09-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "The Blooming Hearts Fortune Merlion installation",
-      "source": null,
-      "key": "thebloomingheartsfortunemerlion|2026-08-21",
       "firstSeen": "2026-08-22"
     },
     {
@@ -156,97 +117,6 @@
       "description": "Urban Impressions Embossing Stencilling art workshop",
       "source": null,
       "key": "artyafternoonembossingstencilling|2026-08-29",
-      "firstSeen": "2026-08-25"
-    },
-    {
-      "title": "temper. Wine Room Lounge Turns One",
-      "category": "event",
-      "date": "2026-09-04",
-      "endDate": "2026-09-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "temper. Wine Room Lounge first anniversary celebration",
-      "source": null,
-      "key": "temperwineroomloungeturnsone|2026-09-04",
-      "firstSeen": "2026-08-25"
-    },
-    {
-      "title": "Creators & Connoisseurs – Speed Dating Art Event",
-      "category": "event",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": "14:00-15:00 / 16:00-17:00",
-      "venue": "Gajah Gallery, Singapore",
-      "url": "https://tinyurl.com/sgm2026-speed-dating",
-      "description": "Speed-dating-style event where artists and collectors engage in rapid-fire conversations over wine. Hosted by Becca D'Bus.",
-      "source": "Singapore Gallery Month",
-      "key": "creatorsconnoisseursspeeddatingartevent|2026-09-05",
-      "firstSeen": "2026-08-18"
-    },
-    {
-      "title": "Curated Encounters: City Hall Gallery Tour",
-      "category": "event",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": null,
-      "venue": "City Hall – LOY Contemporary Art Gallery & Ode to Art",
-      "url": null,
-      "description": "Gallery walk with artist and curator Daniel Chong exploring neighborhoods and current exhibitions.",
-      "source": "Singapore Gallery Month",
-      "key": "curatedencounterscityhallgallerytour|2026-09-05",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "Creators & Connoisseurs",
-      "category": "event",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": "14:00-17:00",
-      "venue": "Gajah Gallery",
-      "url": "https://tinyurl.com/sgm2026-speed-dating",
-      "description": "Speed-dating-style event for artists and collectors. Five-minute one-on-one conversations over wine. $150 or free for Patron's Pass holders.",
-      "source": "@singaporegallerymonth",
-      "key": "creatorsconnoisseurs|2026-09-05",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "Head Massage by YUMEMI",
-      "category": "workshop",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": "1:00 PM - 7:00 PM",
-      "venue": "NOWHERE, 14A Dempsey Road",
-      "url": "https://nowherebaths.as.me/schedule/6476376d/appointment/90764215/calendar/any?appointmentTypeIds[]=90764215",
-      "description": "30-min head massage for deep relaxation and totonoi bathing bliss. Bathhouse entry available as add-on.",
-      "source": "NOWHERE",
-      "key": "headmassagebyyumemi|2026-09-05",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "Trunk Show & Tell",
-      "category": "market",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": null,
-      "venue": "Journey East Tan Boon Liat showroom",
-      "url": "https://journeyeast.com/blogs/events/trunk-show-tell",
-      "description": "An afternoon salon with five design voices opening their personal archives. Pre-loved collectible design objects and curated wardrobe staples.",
-      "source": "Journey East",
-      "key": "trunkshowtell|2026-09-05",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "Eric Prydz Singapore Headline Show",
-      "category": "music",
-      "date": "2026-09-06",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "First Singapore headline show from Eric Prydz. GA Standing, GA Balcony, and VIP Stage Pass available.",
-      "source": "Collective Minds Asia",
-      "key": "ericprydzsingaporeheadlineshow|2026-09-06",
       "firstSeen": "2026-08-25"
     },
     {
@@ -378,19 +248,6 @@
       "source": "The Breakfast Club Rave",
       "key": "wakeupdance|2027-01-24",
       "firstSeen": "2026-08-18"
-    },
-    {
-      "title": "Free Art Workshops with SG Culture Pass",
-      "category": "workshop",
-      "date": null,
-      "endDate": null,
-      "time": null,
-      "venue": "Arterly Obsessed Studio, Singapore",
-      "url": "https://www.instagram.com/p/DWlyH1IDNDX/",
-      "description": "Redeemable free art and craft workshops for SG Culture Pass holders using $100 credits",
-      "source": "Arterly Obsessed",
-      "key": "freeartworkshopswithsgculturepass|",
-      "firstSeen": "2026-08-15"
     },
     {
       "title": "NOWASIA ART FAIR 2026",

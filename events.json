@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T00:17:15.058Z",
-  "totalEvents": 30,
+  "lastUpdated": "2026-09-08T00:36:17.050Z",
+  "totalEvents": 27,
   "events": [
     {
       "title": "Hiroshi Sugimoto: Form Is Emptiness",
@@ -159,19 +159,6 @@
       "firstSeen": "2026-08-15"
     },
     {
-      "title": "Singapore Night Festival 2026",
-      "category": "festival",
-      "date": "2026-08-21",
-      "endDate": "2026-09-05",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Multi-week night festival celebration",
-      "source": null,
-      "key": "singaporenightfestival2026|2026-08-21",
-      "firstSeen": "2026-07-18"
-    },
-    {
       "title": "Eko Nugroho: STRANGE MONSTER VIEW",
       "category": "exhibition",
       "date": "2026-08-22",
@@ -211,19 +198,6 @@
       "firstSeen": "2026-07-18"
     },
     {
-      "title": "Responsive Art Therapy Workshop with The Red Pencil",
-      "category": "workshop",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": null,
-      "venue": null,
-      "url": "https://agas.org.sg/events/responsive-art-therapy-workshop-with-the-red-pencil/",
-      "description": "Art therapy workshop in exhibition spaces connecting public appreciation with personal wellness",
-      "source": "The Red Pencil",
-      "key": "responsivearttherapyworkshopwiththeredpencil|2026-09-05",
-      "firstSeen": "2026-07-18"
-    },
-    {
       "title": "Screenprinting Flocking | Layers of Identity",
       "category": "workshop",
       "date": "2026-09-05",
@@ -235,19 +209,6 @@
       "source": "STPI",
       "key": "screenprintingflockinglayersofidentity|2026-09-05",
       "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "Soul Scribbles: Equanimity Workshop",
-      "category": "workshop",
-      "date": "2026-09-05",
-      "endDate": null,
-      "time": "6pm-9pm",
-      "venue": "Casual Poet Library",
-      "url": null,
-      "description": "Explore balance and clarity in midst of change at Soul Scribbles. $18 per person",
-      "source": "ginkgo.wellness",
-      "key": "soulscribblesequanimityworkshop|2026-09-05",
-      "firstSeen": "2026-08-15"
     },
     {
       "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
