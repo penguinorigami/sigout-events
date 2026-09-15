@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-12T00:27:59.072Z",
-  "totalEvents": 26,
+  "lastUpdated": "2026-09-15T00:47:32.775Z",
+  "totalEvents": 22,
   "events": [
     {
       "title": "Hiroshi Sugimoto: Form Is Emptiness",
@@ -29,19 +29,6 @@
       "firstSeen": "2026-06-23"
     },
     {
-      "title": "Fo(u)r Humours",
-      "category": "exhibition",
-      "date": "2026-07-11",
-      "endDate": "2026-09-12",
-      "time": null,
-      "venue": "Cuturi Gallery",
-      "url": null,
-      "description": "Group exhibition at Cuturi Gallery",
-      "source": null,
-      "key": "fourhumours|2026-07-11",
-      "firstSeen": "2026-06-30"
-    },
-    {
       "title": "Maria Taniguchi: Afterimage",
       "category": "exhibition",
       "date": "2026-07-24",
@@ -53,19 +40,6 @@
       "source": null,
       "key": "mariataniguchiafterimage|2026-07-24",
       "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "SLA25 Rediscovery Trail",
-      "category": "exhibition",
-      "date": "2026-07-31",
-      "endDate": "2026-09-13",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "SLA25 Rediscovery Trail celebrating Singapore's architectural heritage.",
-      "source": null,
-      "key": "sla25rediscoverytrail|2026-07-31",
-      "firstSeen": "2026-08-01"
     },
     {
       "title": "Arterly Obsessed August & September Nude Figure Drawing",
@@ -196,32 +170,6 @@
       "source": "LOY Contemporary Art Gallery",
       "key": "outsidelookingin|2026-08-27",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
-      "category": "workshop",
-      "date": "2026-09-12",
-      "endDate": null,
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/arty-afternoon-urban-impressions-embossing-and-stencilling",
-      "description": "Hands-on afternoon workshop on embossing and stencilling urban art techniques.",
-      "source": "STPI",
-      "key": "artyafternoonurbanimpressionsembossingstencilling|2026-09-12",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "title": "trace03: life drawing x dance",
-      "category": "workshop",
-      "date": "2026-09-14",
-      "endDate": null,
-      "time": "3:00 PM - 5:30 PM",
-      "venue": "Rumah P7:1SMA, Stamford Arts Centre",
-      "url": "https://bit.ly/trace1409",
-      "description": "Life drawing session with dance performance by Hasyimah Harith and Norhaizad Adam. Short poses, movement studies. 18+, all welcome.",
-      "source": "trace_lifedrawing",
-      "key": "trace03lifedrawingxdance|2026-09-14",
-      "firstSeen": "2026-06-16"
     },
     {
       "title": "Chicken Illustration Workshop by Rachel Oon",
