@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T01:18:37.717Z",
-  "totalEvents": 17,
+  "lastUpdated": "2026-10-06T02:25:04.000Z",
+  "totalEvents": 15,
   "events": [
-    {
-      "title": "Hiroshi Sugimoto: Form Is Emptiness",
-      "category": "exhibition",
-      "date": "2026-06-16",
-      "endDate": "2026-10-04",
-      "time": null,
-      "venue": "SAM, Singapore",
-      "url": "https://www.instagram.com/p/DY91J9OJV_A/",
-      "description": "First major survey exhibition in Southeast Asia with 63 works across 11 series",
-      "source": "SG Arts Channel",
-      "key": "hiroshisugimotoformisemptiness|2026-06-16",
-      "firstSeen": "2026-06-16"
-    },
     {
       "title": "Crosscurrents: Masterpieces of Mughal, Safavid and Ottoman Art from the Musée du Louvre",
       "category": "exhibition",
@@ -79,19 +66,6 @@
       "source": "Whitestone Gallery",
       "key": "counterweightthesystemsoftwo|2026-08-15",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Taiki Sakpisit: 13 Nightmares",
-      "category": "exhibition",
-      "date": "2026-08-15",
-      "endDate": "2026-10-04",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Art exhibition featuring work by Taiki Sakpisit",
-      "source": null,
-      "key": "taikisakpisit13nightmares|2026-08-15",
-      "firstSeen": "2026-08-15"
     },
     {
       "title": "Eko Nugroho: STRANGE MONSTER VIEW",

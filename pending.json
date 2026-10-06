@@ -1,33 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T01:18:37.717Z",
-  "count": 9,
+  "lastUpdated": "2026-10-06T02:25:04.000Z",
+  "count": 7,
   "events": [
-    {
-      "title": "Fragment of a Story",
-      "category": "exhibition",
-      "date": "2026-08-21",
-      "endDate": "2026-10-04",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Art exhibition exploring fragments of narrative",
-      "source": null,
-      "key": "fragmentofastory|2026-08-21",
-      "firstSeen": "2026-08-11"
-    },
-    {
-      "title": "Bugis Night Lights",
-      "category": "event",
-      "date": "2026-08-21",
-      "endDate": "2026-10-04",
-      "time": null,
-      "venue": "Bugis",
-      "url": null,
-      "description": "Bugis Night Lights event",
-      "source": null,
-      "key": "bugisnightlights|2026-08-21",
-      "firstSeen": "2026-08-22"
-    },
     {
       "title": "Guided Tours: Eko Nugroho: STRANGE MONSTER VIEW",
       "category": "event",
