@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T01:52:13.065Z",
-  "totalEvents": 14,
+  "lastUpdated": "2026-10-13T03:07:24.973Z",
+  "totalEvents": 10,
   "events": [
     {
       "title": "Crosscurrents: Masterpieces of Mughal, Safavid and Ottoman Art from the Musée du Louvre",
@@ -42,19 +42,6 @@
       "firstSeen": "2026-07-18"
     },
     {
-      "title": "Scenes from Another Life, Imagined Narratives inspired by film, art and pop culture",
-      "category": "exhibition",
-      "date": "2026-08-15",
-      "endDate": "2026-10-11",
-      "time": null,
-      "venue": "Yeo Workshop",
-      "url": "https://agas.org.sg/events/scenes-from-another-life-imagined-narratives-inspired-by-film-art-and-pop-culture/",
-      "description": "Group exhibition curated by Chelsea Pettitt featuring four artists exploring mise-en-scène",
-      "source": "Yeo Workshop",
-      "key": "scenesfromanotherlifeimaginednarrativesinspiredbyfilmartandpopculture|2026-08-15",
-      "firstSeen": "2026-07-18"
-    },
-    {
       "title": "Counterweight: The Systems of Two",
       "category": "exhibition",
       "date": "2026-08-15",
@@ -68,32 +55,6 @@
       "firstSeen": "2026-07-18"
     },
     {
-      "title": "Eko Nugroho: STRANGE MONSTER VIEW",
-      "category": "exhibition",
-      "date": "2026-08-22",
-      "endDate": "2026-10-10",
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/eko-nugroho-strange-monster-view",
-      "description": "Solo exhibition by Indonesian artist Eko Nugroho showcasing contemporary art practice.",
-      "source": "STPI",
-      "key": "ekonugrohostrangemonsterview|2026-08-22",
-      "firstSeen": "2026-07-25"
-    },
-    {
-      "title": "Beyond the Eyes | STRANGE MONSTER VIEW",
-      "category": "event",
-      "date": "2026-08-22",
-      "endDate": "2026-10-10",
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/beyond-the-eyes-strange-monster-view",
-      "description": "Communal activity program connected to Strange Monster View exhibition",
-      "source": "STPI",
-      "key": "beyondtheeyesstrangemonsterview|2026-08-22",
-      "firstSeen": "2026-08-08"
-    },
-    {
       "title": "OUTSIDE LOOKING IN",
       "category": "exhibition",
       "date": "2026-08-27",
@@ -105,19 +66,6 @@
       "source": "LOY Contemporary Art Gallery",
       "key": "outsidelookingin|2026-08-27",
       "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Arty Afternoon | Urban Impressions: Embossing Stencilling",
-      "category": "workshop",
-      "date": "2026-10-10",
-      "endDate": null,
-      "time": null,
-      "venue": "STPI",
-      "url": "https://www.stpi.com.sg/whats-on/arty-afternoon-urban-impressions-embossing-and-stencilling",
-      "description": "Hands-on afternoon workshop on embossing and stencilling urban art techniques.",
-      "source": "STPI",
-      "key": "artyafternoonurbanimpressionsembossingstencilling|2026-10-10",
-      "firstSeen": "2026-08-04"
     },
     {
       "title": "Departures",

@@ -1,33 +1,7 @@
 {
-  "lastUpdated": "2026-10-10T01:52:13.065Z",
-  "count": 7,
+  "lastUpdated": "2026-10-13T03:07:24.972Z",
+  "count": 5,
   "events": [
-    {
-      "title": "Guided Tours: Eko Nugroho: STRANGE MONSTER VIEW",
-      "category": "event",
-      "date": "2026-08-22",
-      "endDate": "2026-10-10",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Guided tours of Eko Nugroho: STRANGE MONSTER VIEW exhibition",
-      "source": null,
-      "key": "guidedtoursekonugrohostrangemonsterview|2026-08-22",
-      "firstSeen": "2026-08-22"
-    },
-    {
-      "title": "Arty Afternoon | Embossing Stencilling",
-      "category": "workshop",
-      "date": "2026-08-29",
-      "endDate": "2026-10-10",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Urban Impressions Embossing Stencilling art workshop",
-      "source": null,
-      "key": "artyafternoonembossingstencilling|2026-08-29",
-      "firstSeen": "2026-08-25"
-    },
     {
       "title": "ARTBAT's First Ever Singapore Show",
       "category": "music",
