@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T00:41:22.313Z",
-  "totalEvents": 10,
+  "lastUpdated": "2026-10-20T01:11:09.320Z",
+  "totalEvents": 7,
   "events": [
     {
       "title": "Crosscurrents: Masterpieces of Mughal, Safavid and Ottoman Art from the Musée du Louvre",
@@ -27,45 +27,6 @@
       "source": null,
       "key": "mariataniguchiafterimage|2026-07-24",
       "firstSeen": "2026-07-21"
-    },
-    {
-      "title": "Neha Vedpathak: Land, Body, Spirit",
-      "category": "exhibition",
-      "date": "2026-08-15",
-      "endDate": "2026-10-17",
-      "time": null,
-      "venue": "Sundaram Tagore Gallery",
-      "url": "https://agas.org.sg/events/neha-vedpathak-land-body-spirit/",
-      "description": "Solo exhibition by Indian-born, Detroit-based artist exploring traditional media transformation",
-      "source": "Sundaram Tagore Gallery",
-      "key": "nehavedpathaklandbodyspirit|2026-08-15",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "Counterweight: The Systems of Two",
-      "category": "exhibition",
-      "date": "2026-08-15",
-      "endDate": "2026-10-17",
-      "time": null,
-      "venue": "Whitestone Gallery",
-      "url": "https://agas.org.sg/events/counterweight-the-systems-of-two/",
-      "description": "Exhibition of artist duos Chow Lin and Ruobing Sai exploring physics as metaphor for shared existence",
-      "source": "Whitestone Gallery",
-      "key": "counterweightthesystemsoftwo|2026-08-15",
-      "firstSeen": "2026-07-18"
-    },
-    {
-      "title": "OUTSIDE LOOKING IN",
-      "category": "exhibition",
-      "date": "2026-08-27",
-      "endDate": "2026-10-17",
-      "time": null,
-      "venue": "LOY Contemporary Art Gallery",
-      "url": "https://agas.org.sg/events/outside-looking-in/",
-      "description": "Exhibition across photography, painting, and ceramics exploring boundaries of disciplines",
-      "source": "LOY Contemporary Art Gallery",
-      "key": "outsidelookingin|2026-08-27",
-      "firstSeen": "2026-07-18"
     },
     {
       "title": "Departures",
