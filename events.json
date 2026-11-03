@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T01:44:35.538Z",
-  "totalEvents": 7,
+  "lastUpdated": "2026-11-03T03:35:51.356Z",
+  "totalEvents": 6,
   "events": [
     {
       "title": "Crosscurrents: Masterpieces of Mughal, Safavid and Ottoman Art from the Musée du Louvre",
@@ -79,19 +79,6 @@
       "firstSeen": "2026-06-14",
       "category": "exhibition",
       "endDate": "2026-11-15"
-    },
-    {
-      "title": "When Art Meets Nature",
-      "date": null,
-      "time": null,
-      "venue": "National Gallery Singapore",
-      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/When-Art-Meets-Nature.html",
-      "description": "Exhibition exploring the intersection of art and nature",
-      "source": "National Gallery Singapore",
-      "key": "whenartmeetsnature|",
-      "firstSeen": "2026-06-14",
-      "category": "exhibition",
-      "endDate": "2026-11-01"
     }
   ]
 }
