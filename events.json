@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-21T03:20:28.289Z",
-  "totalEvents": 5,
+  "lastUpdated": "2026-11-24T06:14:51.820Z",
+  "totalEvents": 3,
   "events": [
     {
       "title": "Crosscurrents: Masterpieces of Mughal, Safavid and Ottoman Art from the Musée du Louvre",
@@ -16,19 +16,6 @@
       "firstSeen": "2026-06-23"
     },
     {
-      "title": "Maria Taniguchi: Afterimage",
-      "category": "exhibition",
-      "date": "2026-07-24",
-      "endDate": "2026-11-22",
-      "time": null,
-      "venue": null,
-      "url": null,
-      "description": "Art exhibition by Maria Taniguchi",
-      "source": null,
-      "key": "mariataniguchiafterimage|2026-07-24",
-      "firstSeen": "2026-07-21"
-    },
-    {
       "title": "Departures",
       "category": "exhibition",
       "date": "2026-11-06",
@@ -39,19 +26,6 @@
       "description": "Pilot programme commissioning site-responsive artworks in spaces slated for clearance or redevelopment.",
       "source": "OH! Open House",
       "key": "departures|2026-11-06",
-      "firstSeen": "2026-08-01"
-    },
-    {
-      "title": "Boutiques Singapore - The Gifting Edition 2026",
-      "category": "market",
-      "date": "2026-11-20",
-      "endDate": "2026-11-22",
-      "time": null,
-      "venue": "F1 Pit Building, Singapore",
-      "url": "https://www.instagram.com/p/DbQgLusD7C_/",
-      "description": "Design marketplace celebrating original design in Asia with independent brands and designers. Vendor applications open.",
-      "source": "Boutique Fairs",
-      "key": "boutiquessingaporethegiftingedition2026|2026-11-20",
       "firstSeen": "2026-08-01"
     },
     {
